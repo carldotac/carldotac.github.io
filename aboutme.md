@@ -1,16 +1,20 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Carl Lieberman.
+I wear many hats.
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+I graduated from Brandeis University with a major in economics and math minor.
+My senior thesis, "Aggregated Review Scores and Consumer Demand for Experience Goods: A Case Study in the Motion Picture Industry," looked at whether [Rotten Tomatoes](https://rottentomatoes.com) influenced demand for movies.
+I have also worked on research relating to bereavement and creativity, eligibility monitoring for Medicaid and CHIP, and alternative working arrangements.
+Currently, I work as a senior research specialist in the Industrial Relations Section at Princeton University.
 
-What else do you need?
+From a technical side, just about everything I do runs through Emacs for its extensibility and fantastic support for the computational tools of the social scientist.
+I do statistical computing in R and Stata, general programming in Java and Python, and write in org and LaTeX.
+All of my machines run GNU/Linux, and my preferred distro is openSUSE thanks to its flexibility and balance of new features with stability.
 
-### my history
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I watch a lot of baseball.
+I play the guitar badly.
+Louis from One Direction once complimented my beard.
