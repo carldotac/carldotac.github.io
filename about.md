@@ -8,7 +8,7 @@ I wear many hats.
 
 ### Research
 
-I graduated from Brandeis University with a major in economics and math minor.
+I graduated from Brandeis University with an economics major and math minor.
 My senior thesis, "Aggregated Review Scores and Consumer Demand for Experience Goods: A Case Study in the Motion Picture Industry," looked at whether [Rotten Tomatoes](https://rottentomatoes.com) influences demand for movies.
 I have also worked on research relating to bereavement and creativity, eligibility monitoring for Medicaid and CHIP, and alternative working arrangements.
 Currently, I work as a senior research specialist in the Industrial Relations Section at Princeton University.
