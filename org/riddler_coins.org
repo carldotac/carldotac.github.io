@@ -94,7 +94,7 @@ It's not a hard mystery, but it does require [[https://www.youtube.com/watch?v=I
 A numbers factors are simply the numbers that evenly divide it.
 They come in pairs.
 Consider the number 54.
-Because \(54 \div 6 = 9\), 6 and 9 are both factors (hence why \(54 \div 9 = 6\) also works).
+Because 54 / 6 = 9, 6 and 9 are both factors (hence why 54 / 9 = 6 also works).
 And going back to the original riddle, a coin will finish heads if it is flipped an even number of times so that every tails is canceled by a heads.
 In other words, this riddle is really asking which numbers 1-100 have an odd number of factors.[fn:asking]
 
