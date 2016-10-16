@@ -27,7 +27,7 @@ for x in range (1, 101):
     for y in range(0, 100):
         if (y + 1) % x == 0:
             coins[y] = not coins[y]
-    if coins[x - 1] == True:
+    if coins[x - 1] == False:
         print(x)
 #+END_SRC
 
@@ -35,8 +35,8 @@ Create an array of 100 boolean values, with ~True~ representing heads.
 Run a nested for loop to iterate over all the coins and all the numbers, flipping as needed based on a [[https://en.wikipedia.org/wiki/Modulo_operation][modulo]] check.
 We can print in the same external loop because we're not going to find any positive integers with factors greater than themselves.
 For example, the greatest factor of 10 is itself, so after 10 loops, we know that the 10th coin isn't going to flip again.
-What we find is that most of our coins--exactly 90% of them--end up heads, so it'd be easier to look at the tails coins to figure out what's going on.
-But first, a brief digression.
+What we find is that just 10% of our coins end up face down.
+But before that result, a brief digression.
 
 As part sanity check, part desire to make something cool, I wanted to see what was happening with each iteration over the coins.
 There are many approaches to making animated graphs, but I opted for a simple pipeline:
@@ -94,7 +94,7 @@ It's not a hard mystery, but it does require [[https://www.youtube.com/watch?v=I
 A numbers factors are simply the numbers that evenly divide it.
 They come in pairs.
 Consider the number 54.
-Because \(54 \div 6 = 9\), 6 and 9 are both factors (hence why \(54 \div 9 = 6\) also works).
+Because 54 / 6 = 9, 6 and 9 are both factors (hence why 54 / 9 = 6 also works).
 And going back to the original riddle, a coin will finish heads if it is flipped an even number of times so that every tails is canceled by a heads.
 In other words, this riddle is really asking which numbers 1-100 have an odd number of factors.[fn:asking]
 
