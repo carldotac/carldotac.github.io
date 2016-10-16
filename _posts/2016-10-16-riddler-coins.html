@@ -1,0 +1,155 @@
+---
+layout: post
+title: "FiveThirtyEight Riddler: Coin Flip"
+permalink: /:title/
+tags: [riddler, python, r, ggplot2]
+---
+
+<p>
+I am a sucker for FiveThirtyEight's <a href="https://fivethirtyeight.com/tag/the-riddler/">Riddler</a> column, specifically the Riddler Express, bite-sized mathematical or computational challenges that are little more than intellectual whimsy but are oh-so satisfying to pick apart.
+<a href="https://fivethirtyeight.com/features/can-you-survive-this-deadly-board-game/">This week</a> is no exception:
+</p>
+
+<blockquote>
+<p>
+You place 100 coins heads up in a row and number them by position, with the coin all the way on the left No. 1 and the one on the rightmost edge No. 100. Next, for every number N, from 1 to 100, you flip over every coin whose position is a multiple of N. For example, first you’ll flip over all the coins, because every number is a multiple of 1. Then you’ll flip over all the even-numbered coins, because they’re multiples of 2. Then you’ll flip coins No. 3, 6, 9, 12 … And so on.
+</p>
+
+<p>
+What do the coins look like when you’re done? Specifically, which coins are heads down?
+</p>
+</blockquote>
+
+<p>
+Actually solving this is straightforward.
+Here's a few lines of Python that print out all the face-up numbers.
+The hardest part is making sure not to have any off-by-one errors!
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-python"><span style="color: #7590db;">coins</span> = [<span style="color: #a45bad;">True</span>] * 100
+<span style="color: #4f97d7; font-weight: bold;">for</span> x <span style="color: #4f97d7; font-weight: bold;">in</span> <span style="color: #4f97d7;">range</span> (1, 101):
+    <span style="color: #4f97d7; font-weight: bold;">for</span> y <span style="color: #4f97d7; font-weight: bold;">in</span> <span style="color: #4f97d7;">range</span>(0, 100):
+        <span style="color: #4f97d7; font-weight: bold;">if</span> (y + 1) % x == 0:
+            <span style="color: #7590db;">coins</span>[y] = <span style="color: #4f97d7; font-weight: bold;">not</span> coins[y]
+    <span style="color: #4f97d7; font-weight: bold;">if</span> coins[x - 1] == <span style="color: #a45bad;">True</span>:
+        <span style="color: #4f97d7; font-weight: bold;">print</span>(x)
+</pre>
+</div>
+
+<p>
+Create an array of 100 boolean values, with <code>True</code> representing heads.
+Run a nested for loop to iterate over all the coins and all the numbers, flipping as needed based on a <a href="https://en.wikipedia.org/wiki/Modulo_operation">modulo</a> check.
+We can print in the same external loop because we're not going to find any positive integers with factors greater than themselves.
+For example, the greatest factor of 10 is itself, so after 10 loops, we know that the 10th coin isn't going to flip again.
+What we find is that most of our coins&#x2013;exactly 90% of them&#x2013;end up heads, so it'd be easier to look at the tails coins to figure out what's going on.
+But first, a brief digression.
+</p>
+
+<p>
+As part sanity check, part desire to make something cool, I wanted to see what was happening with each iteration over the coins.
+There are many approaches to making animated graphs, but I opted for a simple pipeline:
+</p>
+<ul class="org-ul">
+<li>Make each graph as normal with <a href="http://ggplot2.org/">ggplot2</a>, giving each a sequential file name</li>
+<li>Bind them into a GIF with <a href="https://en.wikipedia.org/wiki/ImageMagick">imagemagick</a></li>
+</ul>
+
+<p>
+Here's the relevant R code:
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-R"><span style="color: #2aa1ae;">### </span><span style="color: #2aa1ae;">Create data frame</span>
+n <span style="color: #a45bad;">&lt;-</span> seq(1, 100, 1)
+heads <span style="color: #a45bad;">&lt;-</span> rep(<span style="color: #ce537a; font-weight: bold;">TRUE</span>, 100)
+df <span style="color: #a45bad;">&lt;-</span> data.frame(n, heads)
+
+<span style="color: #2aa1ae;">### </span><span style="color: #2aa1ae;">Flip coins</span>
+<span style="color: #a45bad;">library</span>(ggplot2)
+<span style="color: #4f97d7; font-weight: bold;">for</span> (x <span style="color: #4f97d7; font-weight: bold;">in</span> 1:100) {
+    <span style="color: #4f97d7; font-weight: bold;">for</span> (y <span style="color: #4f97d7; font-weight: bold;">in</span> 1:100) {
+        <span style="color: #4f97d7; font-weight: bold;">if</span> ((y <span style="color: #a45bad;">%%</span> x) == 0) {
+            df$heads[y] <span style="color: #a45bad;">&lt;-</span> !df$heads[y]
+        }
+    }
+    ggplot(df, aes(n, heads), size = 1) +
+        geom_point() +
+        ggtitle(paste(<span style="color: #2d9574;">"Iteration"</span>, x))
+    <span style="color: #4f97d7; font-weight: bold;">if</span> (x &lt; 10) { <span style="color: #2aa1ae;">## </span><span style="color: #2aa1ae;">Add leading 00 to preserve file order</span>
+        title <span style="color: #a45bad;">&lt;-</span> paste0(<span style="color: #2d9574;">"coins"</span>, <span style="color: #2d9574;">"00"</span>, x, <span style="color: #2d9574;">".png"</span>)
+    } <span style="color: #4f97d7; font-weight: bold;">else</span> <span style="color: #4f97d7; font-weight: bold;">if</span> (x &lt; 100) { <span style="color: #2aa1ae;">## </span><span style="color: #2aa1ae;">Add leading 0</span>
+        title <span style="color: #a45bad;">&lt;-</span> paste0(<span style="color: #2d9574;">"coins"</span>, <span style="color: #2d9574;">"0"</span>, x, <span style="color: #2d9574;">".png"</span>)
+    } <span style="color: #4f97d7; font-weight: bold;">else</span> {
+        title <span style="color: #a45bad;">&lt;-</span> paste0(<span style="color: #2d9574;">"coins"</span>, x, <span style="color: #2d9574;">".png"</span>)
+    }
+    ggsave(title, width = 4, height = 4)
+}
+</pre>
+</div>
+
+<p>
+And then the GIF is just the following shell call:
+</p>
+
+<div class="org-src-container">
+
+<pre class="src src-shell">convert *.png coin_flip.gif
+</pre>
+</div>
+
+<p>
+After resizing, we get the following:
+</p>
+
+
+<div class="figure">
+<p><img src="../img/coin_flip_small.gif" alt="coin_flip_small.gif" />
+</p>
+</div>
+
+<p>
+Now we see a pattern in the tails coins&#x2013;they get further and further spread out.
+Turning our attention to the list of tails numbers I've been withholding for the last few paragraphs, we see why.
+</p>
+
+<p>
+<code>1 4 9 16 25 36 49 64 81 100</code>
+</p>
+
+<p>
+These are precisely the perfect squares in the first 100 natural numbers.
+Sadly, the Riddler does not reward superfluous mathematical inquiry, but I've never let that stop me before, and so one might ask why the squares are showing up here.
+It's not a hard mystery, but it does require <a href="https://www.youtube.com/watch?v=Iov3x_D7nxA">algebra</a>.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+A numbers factors are simply the numbers that evenly divide it.
+They come in pairs.
+Consider the number 54.
+Because \(54 \div 6 = 9\), 6 and 9 are both factors (hence why \(54 \div 9 = 6\) also works).
+And going back to the original riddle, a coin will finish heads if it is flipped an even number of times so that every tails is canceled by a heads.
+In other words, this riddle is really asking which numbers 1-100 have an odd number of factors.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+</p>
+
+<p>
+Perfect squares have odd numbers of factors because they have a pair of factors that are identical: their square root.
+The number 4, a perfect square, has three factors: 1, 2, 4.
+1 goes with 4, but 2 goes with itself.
+If a number has n pairs of other factors, then there are 2n+1 total factors, which makes for an <a href="https://en.wikipedia.org/wiki/Parity_(mathematics)">odd</a> number of factors.
+Mystery solved, and <a href="https://www.youtube.com/watch?v=G-C1dRZ_hps">another job well done</a>.
+</p>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+Although the algebra behind factoring is more complex than what normally makes it into cartoons, Futurama does have an <a href="https://en.wikipedia.org/wiki/The_Prisoner_of_Benda#The_theorem">actual theorem</a> to its credit to solve a body swapping plot in one of its episodes.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+But you don't get FiveThirtyEight's readership by phrasing it like that.
+</p></div></div>
+
+
+</div>
+</div>
