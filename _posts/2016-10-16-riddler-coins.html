@@ -33,7 +33,7 @@ The hardest part is making sure not to have any off-by-one errors!
     <span style="color: #4f97d7; font-weight: bold;">for</span> y <span style="color: #4f97d7; font-weight: bold;">in</span> <span style="color: #4f97d7;">range</span>(0, 100):
         <span style="color: #4f97d7; font-weight: bold;">if</span> (y + 1) % x == 0:
             <span style="color: #7590db;">coins</span>[y] = <span style="color: #4f97d7; font-weight: bold;">not</span> coins[y]
-    <span style="color: #4f97d7; font-weight: bold;">if</span> coins[x - 1] == <span style="color: #a45bad;">True</span>:
+    <span style="color: #4f97d7; font-weight: bold;">if</span> coins[x - 1] == <span style="color: #a45bad;">False</span>:
         <span style="color: #4f97d7; font-weight: bold;">print</span>(x)
 </pre>
 </div>
@@ -43,8 +43,8 @@ Create an array of 100 boolean values, with <code>True</code> representing heads
 Run a nested for loop to iterate over all the coins and all the numbers, flipping as needed based on a <a href="https://en.wikipedia.org/wiki/Modulo_operation">modulo</a> check.
 We can print in the same external loop because we're not going to find any positive integers with factors greater than themselves.
 For example, the greatest factor of 10 is itself, so after 10 loops, we know that the 10th coin isn't going to flip again.
-What we find is that most of our coins&#x2013;exactly 90% of them&#x2013;end up heads, so it'd be easier to look at the tails coins to figure out what's going on.
-But first, a brief digression.
+What we find is that just 10% of our coins end up face down.
+But before that result, a brief digression.
 </p>
 
 <p>
