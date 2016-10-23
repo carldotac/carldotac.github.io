@@ -1,0 +1,61 @@
+---
+layout: post
+title: "Introducing kdeconnect.el: My First Emacs Package"
+permalink: /:title/
+tags: [emacs, lisp, kde connect]
+---
+
+<p>
+I've used Emacs since I was an impressionable sophomore in college hearing about this weird old program's ability to integrate with everything a social scientist needs: R, LaTeX, Bash, and just about anything else you can do with text on a computer.
+Though I started using GNU/Linux casually in middle school<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>, I never really learned about how any of it worked or the culture around <a href="https://en.wikipedia.org/wiki/Free_software">free software</a> until I played with Arch Linux for the first time.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
+While Arch started it, Emacs is the piece of software that has stayed with me the most.
+For just about any computing task that isn't browsing the web or playing games<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup>, Emacs is front and center.
+I am heavily indebted to the Emacs community for writing extensions such as <a href="http://ess.r-project.org/">Emacs Speaks Statistics</a>, <a href="https://www.gnu.org/software/auctex/">AUCTeX</a>, and <a href="http://orgmode.org/">org-mode</a> that are integral to my workflow.
+</p>
+
+<p>
+Today I am proud to contribute my first piece of software back to Emacs: <a href="https://github.com/carldotac/kdeconnect.el">kdeconnect.el</a>, now available in <a href="https://melpa.org/">MELPA</a>.
+It's an Emacs interface to the fantastic <a href="https://community.kde.org/KDEConnect">KDE Connect</a> library that lets you communicate with your Android devices from Emacs.
+You can send files, make your phone ring, send notifications, etc.
+Note that KDE Connect is currently only available on GNU/Linux, but it does not require you to use <a href="https://www.kde.org/">KDE</a>.
+</p>
+
+<p>
+At its heart, kdeconnect.el is simply a wrapper for the <a href="https://en.wikipedia.org/wiki/Command-line_interface">CLI</a> version of KDE Connect.
+I'm very appreciative of the efforts KDE Connect has made to ensure that their work can be easily accessed by scripts and other programs, as it made my life much easier.
+Everything I needed to know was just a <code>kdeconnect-cli --help</code> away.
+Usage is similarly simple.
+Install via MELPA, add your device IDs to your <code>init.el</code> file, choose an active device either via <code>init.el</code> or <code>kdeconnect-select-active-device</code>, and have fun.
+More detailed instructions are available at the <a href="https://github.com/carldotac/kdeconnect.el">source repo</a>.
+</p>
+
+<p>
+While the KDE Connect side of things was easy, there was the matter of learning some Emacs Lisp before I could write kdeconnect.el.
+After months of firing up Dolphin just to send files to my phone, I finally decided I'd had enough and started learning what all these parentheses and setqs were about.
+Emacs' help documents were a great start, and I'm very thankful to the Emacs IRC chat room for some help I received there that helped me get started.
+It's an easy enough language to pick up for basic things, but more importantly, I now grok Emacs much better than before and feel like I've made the jump to "intermediate" Emacs user.
+</p>
+
+<p>
+Special thanks also to <a href="https://github.com/syohex">Syohei Yoshida</a> and <a href="https://github.com/purcell">Steve Purcell</a> for giving my code a once-over upon submission to MELPA.
+Emacs might be almost twice my age, but thanks to its community, it feels as spry and healthy as any other program I use.
+</p>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+The first computer I ever bought for myself was an Acer netbook I got for $220 on Newegg in 2008. Those were the days of 10.1" screens, 90% keyboards, and touchpads that shared their dimensions with some of the larger sticks of gum. Windows XP was a horrible fit for these underpowered (early <a href="http://arstechnica.com/gadgets/2008/02/small-wonder-inside-intels-silverthorne-ultramobile-cpu/">Intel Atom</a> chips with a half gig of RAM) little machines, to say nothing of the poor portables stuck with Vista. I had heard about <a href="https://en.wikipedia.org/wiki/Ubuntu_Netbook_Edition">Ubuntu Netbook Remix</a> somewhere online and installed it. It was a great little OS, snappy and self-explanatory. Even my friends had no issues using it despite their zero GNU/Linux experience compared to my epsilon experience.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.2" class="footnum" href="#fnr.2">2</a></sup> <div class="footpara"><p class="footpara">
+I don't use Arch anymore, but I learned more in the year I spent with it than my five or six years with Ubuntu. I respect its simple elegance and fantastic documentation but find openSUSE to be more appropriate for my needs.
+</p></div></div>
+
+<div class="footdef"><sup><a id="fn.3" class="footnum" href="#fnr.3">3</a></sup> <div class="footpara"><p class="footpara">
+Emacs can actually do both of these. <a href="https://www.gnu.org/software/emacs/manual/html_mono/eww.html">eww</a> comes with modern versions of Emacs and a number of games like Tetris and Snake have been ported over.
+</p></div></div>
+
+
+</div>
+</div>
