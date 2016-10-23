@@ -11,7 +11,7 @@ tags: [emacs, lisp, kde connect]
 I've used Emacs since I was an impressionable sophomore in college hearing about this weird old program's ability to integrate with everything a social scientist needs: R, LaTeX, Bash, and just about anything else you can do with text on a computer.
 Though I started using GNU/Linux casually in middle school[fn:unr], I never really learned about how any of it worked or the culture around [[https://en.wikipedia.org/wiki/Free_software][free software]] until I played with Arch Linux for the first time.[fn:arch]
 While Arch started it, Emacs is the piece of software that has stayed with me the most.
-For just about any computing task that isn't browsing the web or playing games[fn:uses], Emacs is front and center.
+For just about any computing task that isn't browsing the web or playing games,[fn:uses] Emacs is front and center.
 I am heavily indebted to the Emacs community for writing extensions such as [[http://ess.r-project.org/][Emacs Speaks Statistics]], [[https://www.gnu.org/software/auctex/][AUCTeX]], and [[http://orgmode.org/][org-mode]] that are integral to my workflow.
 
 Today I am proud to contribute my first piece of software back to Emacs: [[https://github.com/carldotac/kdeconnect.el][kdeconnect.el]], now available in [[https://melpa.org/][MELPA]].
