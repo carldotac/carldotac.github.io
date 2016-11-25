@@ -1,0 +1,75 @@
+<div class="HTML">
+<p>
+&#x2014;
+layout: post
+title: "Integrating Baloo File Search with Emacs"
+permalink: <i>:title</i>
+tags: [emacs, baloo, kde]
+&#x2014;
+</p>
+
+</div>
+
+<p>
+I use <a href="https://www.kde.org/">KDE</a> on the desktop.
+Although most of my userland operations are done in Emacs and Firefox, I tend to appreciate the choice when handling tasks more complex than text-based processes.
+KWin, the default window manager, features a superb set of per-application rules that come in handy while playing games, like forcing borderless fullscreen or always keeping a window on top.
+Plasma is stuffed to the brim with features and hooks, and I've exploited them before when writing <a href="https://github.com/carldotac/kdeconnect.el">my first Emacs package</a> to ease certain operations between Emacs and my mobile devices.
+But one feature I've always missed has been desktop search.
+KDE offers the excellent <a href="https://github.com/KDE/baloo">Baloo</a>, a file indexer that handles both metadata and content, and its integration with <a href="https://userbase.kde.org/Plasma/Krunner">Krunner</a> is the main reason I use the latter.
+As a matter of fact, despite Krunner's many features, like arithmetic and dictionary lookups, I only ever use it for finding files and launching applications.
+I can improve this workflow.
+</p>
+
+<p>
+When opening a file, Krunner launches a new instance of the filetype's default program.
+This is sensible.
+If I open a PDF, I probably want Okular, and if I need to check an old web page, Firefox is the appropriate tool.
+But if I'm working in Emacs, there's tremendous value to staying in Emacs.
+Further, instead of opening a new instance of Emacs for text files, a within-Emacs solution lets me simply visit the file in a new buffer.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
+As the piece de resistance, I get to use <a href="http://oremacs.com/2015/04/09/counsel-completion/">Counsel</a> for completion instead of Krunner.
+</p>
+
+<p>
+As I discovered when writing kdeconnect.el, Emacs and Emacs Lisp make for an interesting programming experience.
+Unlike Java's extensive libraries and Python's convenience, writing Emacs Lisp makes me yearn for quality of life functions.
+Fortunately, the code to use Baloo for file searches form Emacs is basic enough that Emacs <i>does</i> abstract away much of the nitty gritty.
+Some of these functions I already knew (<code>completing-read</code> to let Emacs handle completion, <code>split-string</code> to take shell output and make a list, <code>mapconcat</code> and <code>shell-quote-argument</code> to generate safe shell commands), but others were novel to me and a massive relief to discover in the docs, like <code>butlast</code> to remove the last line of output, which contains the search's time to execute, or <code>safe-length-query</code> to check if a list is empty.
+Here's the resulting code:
+</p>
+
+<div class="org-src-container">
+<pre class="src src-elisp">(defun baloo-search (query)
+  "Search for files matching QUERY using Baloo."
+  (interactive "MSearch: ")
+  (setq query (butlast
+               (split-string
+                (shell-command-to-string
+                 (mapconcat 'identity
+                            (list "baloosearch"(shell-quote-argument query))
+                            " ")) "\n" t) 1))
+  (if (eq (safe-length query) 0)
+      (error "No matches"))
+  (find-file (completing-read
+              "Select file: "
+              query
+              nil t "")))
+</pre>
+</div>
+
+<p>
+Pop that in your <code>init.el</code> or evaluate it somewhere and you're good to go!
+Call <code>M-x baloo-search</code>, enter your search term(s), which can include an extension, and choose your file.
+I've found this to be incredibly useful when I don't know quite where a file is or what it's called, and perhaps you will too.
+</p>
+<div id="footnotes">
+<h2 class="footnotes">Footnotes: </h2>
+<div id="text-footnotes">
+
+<div class="footdef"><sup><a id="fn.1" class="footnum" href="#fnr.1">1</a></sup> <div class="footpara"><p class="footpara">
+This is actually possible if you use <a href="https://stackoverflow.com/questions/4458245/how-to-set-emacs-to-open-new-files-in-current-instance-on-ubuntu-mint">emacsclient</a> but I don't use that functionality.
+</p></div></div>
+
+
+</div>
+</div>

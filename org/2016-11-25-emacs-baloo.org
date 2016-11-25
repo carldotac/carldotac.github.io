@@ -1,0 +1,55 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_HTML
+---
+layout: post
+title: "Integrating Baloo File Search with Emacs"
+permalink: /:title/
+tags: [emacs, baloo, kde]
+---
+#+END_HTML
+
+I use [[https://www.kde.org/][KDE]] on the desktop.
+Although most of my userland operations are done in Emacs and Firefox, I tend to appreciate the choice when handling tasks more complex than text-based processes.
+KWin, the default window manager, features a superb set of per-application rules that come in handy while playing games, like forcing borderless fullscreen or always keeping a window on top.
+Plasma is stuffed to the brim with features and hooks, and I've exploited them before when writing [[https://github.com/carldotac/kdeconnect.el][my first Emacs package]] to ease certain operations between Emacs and my mobile devices.
+But one feature I've always missed has been desktop search.
+KDE offers the excellent [[https://github.com/KDE/baloo][Baloo]], a file indexer that handles both metadata and content, and its integration with [[https://userbase.kde.org/Plasma/Krunner][Krunner]] is the main reason I use the latter.
+As a matter of fact, despite Krunner's many features, like arithmetic and dictionary lookups, I only ever use it for finding files and launching applications.
+I can improve this workflow.
+
+When opening a file, Krunner launches a new instance of the filetype's default program.
+This is sensible.
+If I open a PDF, I probably want Okular, and if I need to check an old web page, Firefox is the appropriate tool.
+But if I'm working in Emacs, there's tremendous value to staying in Emacs.
+Further, instead of opening a new instance of Emacs for text files, a within-Emacs solution lets me simply visit the file in a new buffer.[fn:daemon]
+As the piece de resistance, I get to use [[http://oremacs.com/2015/04/09/counsel-completion/][Counsel]] for completion instead of Krunner.
+
+As I discovered when writing kdeconnect.el, Emacs and Emacs Lisp make for an interesting programming experience.
+Unlike Java's extensive libraries and Python's convenience, writing Emacs Lisp makes me yearn for quality of life functions.
+Fortunately, the code to use Baloo for file searches form Emacs is basic enough that Emacs /does/ abstract away much of the nitty gritty.
+Some of these functions I already knew (=completing-read= to let Emacs handle completion, =split-string= to take shell output and make a list, =mapconcat= and =shell-quote-argument= to generate safe shell commands), but others were novel to me and a massive relief to discover in the docs, like =butlast= to remove the last line of output, which contains the search's time to execute, or =safe-length-query= to check if a list is empty.
+Here's the resulting code:
+
+#+BEGIN_SRC elisp
+(defun baloo-search (query)
+  "Search for files matching QUERY using Baloo."
+  (interactive "MSearch: ")
+  (setq query (butlast
+               (split-string
+                (shell-command-to-string
+                 (mapconcat 'identity
+                            (list "baloosearch"(shell-quote-argument query))
+                            " ")) "\n" t) 1))
+  (if (eq (safe-length query) 0)
+      (error "No matches"))
+  (find-file (completing-read
+              "Select file: "
+              query
+              nil t "")))
+#+END_SRC
+
+Pop that in your =init.el= or evaluate it somewhere and you're good to go!
+Call =M-x baloo-search=, enter your search term(s), which can include an extension, and choose your file.
+I've found this to be incredibly useful when I don't know quite where a file is or what it's called, and perhaps you will too.
+
+[fn:daemon] This is actually possible if you use [[https://stackoverflow.com/questions/4458245/how-to-set-emacs-to-open-new-files-in-current-instance-on-ubuntu-mint][emacsclient]] but I don't use that functionality.
