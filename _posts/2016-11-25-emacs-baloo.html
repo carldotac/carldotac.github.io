@@ -1,14 +1,9 @@
-<div class="HTML">
-<p>
-&#x2014;
+---
 layout: post
 title: "Integrating Baloo File Search with Emacs"
-permalink: <i>:title</i>
+permalink: /:title/
 tags: [emacs, baloo, kde]
-&#x2014;
-</p>
-
-</div>
+---
 
 <p>
 I use <a href="https://www.kde.org/">KDE</a> on the desktop.
@@ -39,7 +34,7 @@ Here's the resulting code:
 </p>
 
 <div class="org-src-container">
-<pre class="src src-elisp">(defun baloo-search (query)
+<pre class="src src-emacs-lisp">(defun baloo-search (query)
   "Search for files matching QUERY using Baloo."
   (interactive "MSearch: ")
   (setq query (butlast

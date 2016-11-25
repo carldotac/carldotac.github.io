@@ -1,12 +1,12 @@
 #+OPTIONS: toc:nil num:nil
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 ---
 layout: post
 title: "Integrating Baloo File Search with Emacs"
 permalink: /:title/
 tags: [emacs, baloo, kde]
 ---
-#+END_HTML
+#+END_EXPORT
 
 I use [[https://www.kde.org/][KDE]] on the desktop.
 Although most of my userland operations are done in Emacs and Firefox, I tend to appreciate the choice when handling tasks more complex than text-based processes.
@@ -30,7 +30,7 @@ Fortunately, the code to use Baloo for file searches form Emacs is basic enough 
 Some of these functions I already knew (=completing-read= to let Emacs handle completion, =split-string= to take shell output and make a list, =mapconcat= and =shell-quote-argument= to generate safe shell commands), but others were novel to me and a massive relief to discover in the docs, like =butlast= to remove the last line of output, which contains the search's time to execute, or =safe-length-query= to check if a list is empty.
 Here's the resulting code:
 
-#+BEGIN_SRC elisp
+#+BEGIN_SRC emacs-lisp
 (defun baloo-search (query)
   "Search for files matching QUERY using Baloo."
   (interactive "MSearch: ")
