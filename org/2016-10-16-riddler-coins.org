@@ -1,12 +1,12 @@
 #+OPTIONS: toc:nil num:nil
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 ---
 layout: post
 title: "FiveThirtyEight Riddler: Coin Flip"
 permalink: /:title/
 tags: [riddler, python, r, ggplot2]
 ---
-#+END_HTML
+#+END_EXPORT
 
 I am a sucker for FiveThirtyEight's [[https://fivethirtyeight.com/tag/the-riddler/][Riddler]] column, specifically the Riddler Express, bite-sized mathematical or computational challenges that are little more than intellectual whimsy but are oh-so satisfying to pick apart.
 [[https://fivethirtyeight.com/features/can-you-survive-this-deadly-board-game/][This week]] is no exception:

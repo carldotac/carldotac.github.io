@@ -1,0 +1,107 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Five Months with Rocksmith 2014"
+permalink: /:title/
+tags: [guitar, video games]
+---
+#+END_EXPORT
+* Break on Through
+I used to be pretty good with [[https://en.wikipedia.org/wiki/Guitar_Hero][tiny fake guitars]].
+Not [[https://www.youtube.com/watch?v=O783UwqYvAo]["Through the Fire and Flames"]] good but still [[https://www.youtube.com/watch?v=UpDY9oII73E]["Satch Boogie"]] good.[fn:1]
+Many an evening was spent with friends and family over a copy of /[[https://en.wikipedia.org/wiki/Rock_Band_(video_game)][Rock Band]]/ or /[[https://en.wikipedia.org/wiki/Guitar_Hero_World_Tour][Guitar Hero: World Tour]]/, but we as a civilization collectively decided after /[[https://en.wikipedia.org/wiki/Lego_Rock_Band][Lego Rock Band]]/ and /[[https://en.wikipedia.org/wiki/Guitar_Hero:_Van_Halen][Guitar Hero: Van Halen]]/ that the fake instrument rhythm games had gone too far, leaving sales dwindling and relegating our Fisher-Price instruments to the attic.
+
+Ubisoft's /[[https://en.wikipedia.org/wiki/Rocksmith_2014][Rocksmith]]/ games are a different take on Guitar Hero-style gameplay.
+Instead of simply being rock-themed entertainment, /Rocksmith/ bills itself as a learning tool.
+At heart, this is the familiar Skittles-colored note rectangles flying towards you, with the twist that it's played with a real guitar--just about any will do.
+I had access to an old [[https://en.wikipedia.org/wiki/Fender_Stratocaster][Stratocaster]] that had been gathering dust in my parents' living room, so the price of admission was just that of the game, a small gamble to see if it really could teach me.
+I played the cello from elementary school to high school before dropping it due to increasing demands on my time and lack of enjoyment.
+My music theory knowledge was nonexistent and I'd never played a fretted instrument, so while the cello might have imbued me with some rhythm or manual dexterity, I picked up the guitar a clear novice.
+/Rocksmith/ in hand, I wanted to learn, or at least get my $30 worth of entertainment from the game.
+That was five months ago.
+
+* Anyone Can Play Guitar
+/Rocksmith 2014/[fn:2] has several different modes to teach guitar.
+In addition to the token score attack, there are a few dozen interactive video lessons ranging from putting on the strap to [[https://en.wikipedia.org/wiki/Tapping][tapping]], minigames to drill specific techniques (play this string to shoot the cowboy, perform a bend to climb the vine), a robust session mode where you can jam with an adaptive backing band of your choosing, and Learn a Song, the bread and butter of my /Rocksmith/ routine.
+Learn a Song at its most basic is simply playing the song along with the studio recording and being graded on your performance.
+It's an exceedingly well thought-out system.
+It breaks each song down into sections and adjusts the difficulty in real time to try to reach an appropriate level, so the bar to play along with Hendrix is basically nonexistent.
+The absolute beginner might play a note only every few seconds, while the intermediate player can play a song as it was written, save for that facemelting solo.
+At any moment you can hop into the Riff Repeater, a sub-mode where you can drill each section at a custom speed and difficulty with manual or automatic changes until you've got it down.
+
+The experience of playing with studio recordings as your backing tracks is pretty incredible, because for a few minutes at a time, you're not the novice trying to strum the right string, you're the guitarist for the Pixies/Weezer/The Rolling Stones/Queens of the Stone Age, or whomever else you want (the downloadable songs list is *huge*).
+I don't think the real Black Francis would be that patient with me after I butcher the arpeggio in [[https://www.youtube.com/watch?v=t5QqXaxLkiY]["Here Comes Your Man"]] for the 10th time in a row, but pre-recorded Black Francis gives his all on every take!
+
+It took a few weeks of practicing for 30-90 minutes each night, but eventually my [[https://www.youtube.com/watch?v=bjbgeGhn_Lg][fingers]] were able not only to finger the right note while strumming the same string, but even hit those funky chords.[fn:3]
+I've settled on a routine that works for me of picking a song that's a manageable difficulty, playing it a few times at the /Rocksmith/-decided difficulty before breaking things down in the Riff Repeater at max difficulty but slow speeds.
+This is an accepted best practice to learn hard songs for all instruments (maybe I do remember something from the cello days) and /Rocksmith/ is amenable to it.
+
+So does it work?
+The short answer is yes.
+Five months ago I didn't know how to hold a pick, and now I have learned[fn:4] over 20 songs with it.
+
+| Artist             | Song                          | Mastery |
+|--------------------+-------------------------------+---------|
+| Pixies             | Here Comes Your Man           |  100.2% |
+| The Black Keys     | Lonely Boy                    |  100.7% |
+| Muse               | Supermassive Black Hole       |  100.7% |
+| CAKE               | Short Skirt/Long Jacket       |  101.0% |
+| Arctic Monkeys     | R U Mine?                     |  101.2% |
+| Sum 41             | Fat Lip                       |  101.2% |
+| Radiohead          | High and Dry                  |  102.0% |
+| Muse               | Plug in Baby                  |  102.2% |
+| Pixies             | Where is My Mind?             |  102.7% |
+| Dan Auerbach       | I Want Some More              |  102.9% |
+| Blur               | Song 2                        |  104.2% |
+| blink-182          | All the Small Things          |  104.2% |
+| blink-182          | Dammit                        |  105.0% |
+| Franz Ferdinand    | Take Me Out                   |  105.5% |
+| Little Barrie      | Surf Hell                     |  106.7% |
+| Sigur Rós          | Gobbledigook                  |  106.7% |
+| Pixies             | Debaser                       |  107.2% |
+| The Ramones        | Blitzkrieg Bop                |  107.4% |
+| The Rolling Stones | (I Can't Get No) Satisfaction |  108.7% |
+| Jarvis Cocker      | Angela                        |  109.7% |
+| The Black Keys     | Next Girl                     |  110.0% |
+
+But these aren't just any songs.
+Some of these are from my favorite bands ("Debaser", "High and Dry"), some are recognizable tunes useful to have in my back pocket ("All the Small Things", "Short Skirt/Long Jacket"), and some are just a ton of fun to play ("Fat Lip").[fn:5]
+Moreso than other rhythm games /Rocksmith/ benefits from a strong catalog of downloadable songs, since I care more about what I'm playing when I'm actually playing the song on a guitar instead of the song to which I'm pressing five buttons on a ukelele-sized Les Paul.
+To that end, the original /Rocksmith/ (not /Rocksmith 2014/) is a must-buy for anyone looking to use the games as a beginner.
+It contains way more novice-friendly tracks than the 2014 version and its tracks can be imported into the improved /Rocksmith 2014/ engine for a modest fee.
+This is the best value for adding content, but I've also bought some individual songs and packs.
+I am strongly opposed to microtransactions, but it's an easier proposition to spend money in the /Rocksmith/ store when it's peddling tools to learn songs you can then play outside the game.
+
+* You Really Got Me
+After five months of work, I'm thrilled with my results and proud to look at the above table.
+There are songs on there that I first learned in /Guitar Hero/ that I then learned on the actual guitar with /Rocksmith/, and there's something beautiful about coming full circle like that.
+I'm seeing frequent improvements in my skill and it's very rewarding to see immediate dividends as my mastery increases on each song.
+That arpeggio I mentioned in "Here Comes Your Man"?
+Turns out [[https://en.wikipedia.org/wiki/We%2527re_All_to_Blame]["We're All to Blame"]] has a darn similar section, and suddenly I can play that too!
+I'm at a fun point in my development as a guitarist and am eager to continue.
+
+It's a fair question to ask what the role of /Rocksmith/ has been in all of this.
+What's the counterfactual, where would I be now without /Rocksmith/?
+There's no shortage of books, websites, and teachers available to learn guitar.
+While I could definitely stand to supplement /Rocksmith/ with private lessons or at least some video lectures, /Rocksmith/ has aided my development in two ways.
+First and most obviously is the tools, games, and modes it features, and these are legitimate value added over a book of tabs.
+But secondly and most importantly is that /Rocksmith/ is a way to get me to plug in my guitar every night and play.
+Ultimately, this is the single most important and effective step to learn.
+Frankly, without /Rocksmith/, I'm not sure I'd be playing at all right now.
+Learning an instrument is hard, but /Rocksmith/ does its part to make that initial hill easier, which is invaluable.
+I don't know what I'll be able to play after another 5 months, but I'm sure /Rocksmith/ will have a song or seven I'll want to learn that will be right for me then.
+
+* Footnotes
+
+[fn:1] With liberal use of Star Power to gloss over my inability to play the actually hard parts. Still counts.
+
+[fn:2] /Rocksmith/ is actually the title of the first game in the series, but /Rocksmith 2014/ is its replacement rather than sequel or expansion. I'll use the titles interchangeably, especially since the latter title is also now known as /Rocksmith 2014 Edition Remastered/ after a big quality of life update.
+
+[fn:3] I was not a happy camper the first time I saw a [[https://en.wikipedia.org/wiki/Barre_chord][barre chord]].
+
+[fn:4] /Rocksmith/ records your "mastery" of each song. It's based on your accuracy, but /Rocksmith/ will start to fade out sections of a song as you learn it to force you to memorize it, and it awards bonus mastery percentage points for this, up to a maximum score of 110% for a flawless performance on a song where the entire track is in mastery mode. 100% is where /Rocksmith/ officially declares that you have learned a song.
+
+[fn:5] The 2001 version of me thinks I'm the coolest guy in the world for being able to play that one. 2016 me may also have been excited to find out that it was available in /Rocksmith/ to fulfill my youth pop punk fantasies.
+
+

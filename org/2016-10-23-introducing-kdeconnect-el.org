@@ -1,12 +1,12 @@
 #+OPTIONS: toc:nil num:nil
-#+BEGIN_HTML
+#+BEGIN_EXPORT html
 ---
 layout: post
 title: "Introducing kdeconnect.el: My First Emacs Package"
 permalink: /:title/
 tags: [emacs, lisp, kde connect]
 ---
-#+END_HTML
+#+END_EXPORT
 
 I've used Emacs since I was an impressionable sophomore in college hearing about this weird old program's ability to integrate with everything a social scientist needs: R, LaTeX, Bash, and just about anything else you can do with text on a computer.
 Though I started using GNU/Linux casually in middle school[fn:unr], I never really learned about how any of it worked or the culture around [[https://en.wikipedia.org/wiki/Free_software][free software]] until I played with Arch Linux for the first time.[fn:arch]
