@@ -1,0 +1,68 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "(Finally) Buying a Good Monitor: Adventures in Hedonism and Native 4K"
+permalink: /:title/
+tags: [monitors]
+---
+#+END_EXPORT
+
+I built my first computer about a decade ago and can still rattle off all of its components.
+Gigabyte EP45-UD3R, Intel Core 2 Quad Q9550, nVidia GTX 260 216 Core, 8 GB of OCZ Reaper DDR2 1066 RAM, a Western Digital 500 GB 7200 RPM hard drive, Creative Fatal1ty sound card, Antec 1200 case[fn:1], 750 watt Corsair power supply, Lite-On 48x DVD-RW drive.
+I had no fewer than three Razer products whose names I will pretend not to remember.
+But even though I looked at it way longer than any other component, I couldn't tell you the monitor I had.
+It was a 1680x1050 flatscreen somewhere in the 22" to 24" range, and it was bad, but that's all I know.
+I just treated it as a necessary evil that took budget away from the real computer, like a Windows Vista license.
+
+I kept that monitor for four or five years.
+At some point, I added a second monitor from the attic and the additional real estate was an epiphany.
+I eventually replaced this setup with two 1080p monitors that I used until a few weeks ago.
+Despite having spent years in monitor mediocrity, I never paid them any mind, either.
+They were ASUS, the panels performed poorly, but they did have plenty of inputs.[fn:2]
+At some point I switched one of the monitors to portrait orientation and found this setup ideal for my needs: Emacs or a game on the landscape monitor, web browser on the other.[fn:3]
+This too lasted a few years until about a month ago, when I impulse-bought a refurbished [[http://store.hp.com/us/en/cv/hp-spectre32-sd-announce][HP Spectre 32 Studio Display]].
+Now that I've used the display for a few weeks, I don't know why I've put up with subpar displays for so long.
+It checks all of my boxes and has made computing and media consumption more pleasant and productive.
+
+The most obvious change from my previous dual monitor setup is the sheer size of this beast.
+It's got almost 10 diagonal inches over its predecessors while offering quadruple the pixels of either of the previous monitors.
+It's also a [[https://en.wikipedia.org/wiki/4K_resolution][4K]] monitor, so that pixel count is a smidgen shy of the absurd, settling in the ridiculous territory.
+With the full 4k at 32 inches, text can be small, but never unreadable for my young eyes.
+This was important to me, since Linux doesn't have per-monitor scaling worked out, so this prevents issues whenever I pick up a new laptop, so long as it doesn't have a high DPI display.
+With the same number of pixels as a 2x2 grid of 1080p monitors, I can comfortably use up to four applications at once without compromise to the screen space available for each, though further tiling is fine depending on the space each program needs.
+And when giving a web browser or text file half the screen, the horizontal space is even greater than on a portrait 1080p monitor without the limited width--now that we've moved beyond 1024x768 displays, 1080 pixels of width isn't enough for many websites.
+Further, since 32 inches basically makes this a small TV, it's fine for watching video from across the room, which lets it pull double duty.
+
+This is all made even better by the actual display being the best I've ever had.
+As a [[https://en.wikipedia.org/wiki/Liquid-crystal_display#Vertical_alignment_.28VA.29][vertical alignment]] panel, the blacks and contrast are beautiful, and performance has been fine for the games I play, which are slower and less intense than twitch shooters.
+The GTX 660 I'm rocking these days doesn't actually have the horsepower to push 4K gaming, but [[https://en.wikipedia.org/wiki/Yooka-Laylee][Yooka-Laylee]] is still as disappointing at lower resolutions.
+Side-by-side mode and PIP for dual inputs is also fantastic; having MLB.TV next to Zelda is a legitimate quality of life improvement.
+
+I've learned my lesson.
+Good peripherals are not to be undervalued.
+Which probably means I'll end up getting another Thinkpad for grad school because I'm not about to give up pointer mice and usable keyboards, nor the versatility that comes with using a combination laptop/bludgeon.[fn:4]
+
+* Footnotes
+
+[fn:1] I thought a big metal case with cool blue lights was awesome.
+Dragging that thing to and from my car in the Massachusetts winters when I went home for break as an undergrad was awful.
+
+[fn:2] This actually matters to me. Right now I've got a desktop, tablet, Xbox 360, and Nintendo Switch hooked up to my display.
+To juggle inputs, I've got an HDMI switcher and regularly employ [[https://en.wikipedia.org/wiki/Picture-in-picture][PIP]].
+My audio situation is a little better, in the sense that getting a 17% on a test is better than skipping it and taking the zero.
+I bought an audio mixer in college and it's somehow one of my more justifiable tech buys.
+With extensive use of 1/8" [[https://en.wikipedia.org/wiki/Phone_connector_(audio)][TRS]] to L/R 1/4" TS adapters, I run my computer, tablet, and Switch audio into the mixer's three channels while maintaining volumes to my liking.
+Meanwhile my Xbox 360 is hooked up via [[https://en.wikipedia.org/wiki/RCA_connector][RCA]] to avoid HDMI audio lag when I play [[http://carl.ac/five-months-with-rocksmith/][Rocksmith]], which is all that console is used for these days.
+
+[fn:3] I share an office with a few other research assistants where we're issued dual monitors.
+I promptly switched my secondary monitor at work to portrait and eventually converted the rest of the office.
+Our brilliance is not yet recognized by the outside world, and we were once asked what sort of specialized work we did that required these tall monitors.
+
+[fn:4] My current laptop is a refurbed EDU series Thinkpad, meaning it really is a tank.
+Massive bezels with rubber edges, a VGA port with room to spare, etc.
+I propped it on my backpack in a lecture once in undergrad, and it slid off onto tile, a drop of just a few inches but onto the side of the machine.
+A hundred some-odd people gasped in unison and it took me a moment to realize it was because of my laptop, because that sort of knock won't even leave a mark.
+There's something to be said for that.
+
+
