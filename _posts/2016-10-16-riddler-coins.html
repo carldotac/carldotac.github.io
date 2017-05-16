@@ -27,13 +27,13 @@ The hardest part is making sure not to have any off-by-one errors!
 </p>
 
 <div class="org-src-container">
-<pre class="src src-python">coins = [True] * 100
-for x in range (1, 101):
-    for y in range(0, 100):
-        if (y + 1) % x == 0:
-            coins[y] = not coins[y]
-    if coins[x - 1] == False:
-        print(x)
+<pre class="src src-python"><span style="color: #7590db;">coins</span> = [<span style="color: #a45bad;">True</span>] * 100
+<span style="color: #4f97d7; font-weight: bold;">for</span> x <span style="color: #4f97d7; font-weight: bold;">in</span> <span style="color: #4f97d7;">range</span> (1, 101):
+    <span style="color: #4f97d7; font-weight: bold;">for</span> y <span style="color: #4f97d7; font-weight: bold;">in</span> <span style="color: #4f97d7;">range</span>(0, 100):
+        <span style="color: #4f97d7; font-weight: bold;">if</span> (y + 1) % x == 0:
+            <span style="color: #7590db;">coins</span>[y] = <span style="color: #4f97d7; font-weight: bold;">not</span> coins[y]
+    <span style="color: #4f97d7; font-weight: bold;">if</span> coins[x - 1] == <span style="color: #a45bad;">False</span>:
+        <span style="color: #4f97d7; font-weight: bold;">print</span>(x)
 </pre>
 </div>
 
@@ -60,28 +60,28 @@ Here's the relevant R code:
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R">### Create data frame
-n &lt;- seq(1, 100, 1)
-heads &lt;- rep(TRUE, 100)
-df &lt;- data.frame(n, heads)
+<pre class="src src-R"><span style="color: #2aa1ae;">### </span><span style="color: #2aa1ae;">Create data frame</span>
+n <span style="color: #a45bad;">&lt;-</span> seq(1, 100, 1)
+heads <span style="color: #a45bad;">&lt;-</span> rep(<span style="color: #ce537a; font-weight: bold;">TRUE</span>, 100)
+df <span style="color: #a45bad;">&lt;-</span> data.frame(n, heads)
 
-### Flip coins
-library(ggplot2)
-for (x in 1:100) {
-    for (y in 1:100) {
-        if ((y %% x) == 0) {
-            df$heads[y] &lt;- !df$heads[y]
+<span style="color: #2aa1ae;">### </span><span style="color: #2aa1ae;">Flip coins</span>
+<span style="color: #a45bad;">library</span>(ggplot2)
+<span style="color: #4f97d7; font-weight: bold;">for</span> (x <span style="color: #4f97d7; font-weight: bold;">in</span> 1:100) {
+    <span style="color: #4f97d7; font-weight: bold;">for</span> (y <span style="color: #4f97d7; font-weight: bold;">in</span> 1:100) {
+        <span style="color: #4f97d7; font-weight: bold;">if</span> ((y <span style="color: #a45bad;">%%</span> x) == 0) {
+            df$heads[y] <span style="color: #a45bad;">&lt;-</span> !df$heads[y]
         }
     }
     ggplot(df, aes(n, heads), size = 1) +
         geom_point() +
-        ggtitle(paste("Iteration", x))
-    if (x &lt; 10) { ## Add leading 00 to preserve file order
-        title &lt;- paste0("coins", "00", x, ".png")
-    } else if (x &lt; 100) { ## Add leading 0
-        title &lt;- paste0("coins", "0", x, ".png")
-    } else {
-        title &lt;- paste0("coins", x, ".png")
+        ggtitle(paste(<span style="color: #2d9574;">"Iteration"</span>, x))
+    <span style="color: #4f97d7; font-weight: bold;">if</span> (x &lt; 10) { <span style="color: #2aa1ae;">## </span><span style="color: #2aa1ae;">Add leading 00 to preserve file order</span>
+        title <span style="color: #a45bad;">&lt;-</span> paste0(<span style="color: #2d9574;">"coins"</span>, <span style="color: #2d9574;">"00"</span>, x, <span style="color: #2d9574;">".png"</span>)
+    } <span style="color: #4f97d7; font-weight: bold;">else</span> <span style="color: #4f97d7; font-weight: bold;">if</span> (x &lt; 100) { <span style="color: #2aa1ae;">## </span><span style="color: #2aa1ae;">Add leading 0</span>
+        title <span style="color: #a45bad;">&lt;-</span> paste0(<span style="color: #2d9574;">"coins"</span>, <span style="color: #2d9574;">"0"</span>, x, <span style="color: #2d9574;">".png"</span>)
+    } <span style="color: #4f97d7; font-weight: bold;">else</span> {
+        title <span style="color: #a45bad;">&lt;-</span> paste0(<span style="color: #2d9574;">"coins"</span>, x, <span style="color: #2d9574;">".png"</span>)
     }
     ggsave(title, width = 4, height = 4)
 }
