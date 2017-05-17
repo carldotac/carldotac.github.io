@@ -1,0 +1,182 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Blogging with Emacs, Org, and GitHub Pages"
+permalink: /:title/
+tags: [emacs]
+---
+#+END_EXPORT
+When I chose hosting and content management solutions for this website, I knew the blog portion would be the hardest.
+A bio page, a link to my GitHub profile, these are easy.
+But blogs are dynamic, and require much more background logic to manage.
+I made my hosting and content management decisions very deliberately, and I wanted to do a rundown of my setup in case anyone else finds it useful.
+
+* My Needs
+**  Emacs at the Center
+[[https://www.gnu.org/software/emacs/][Emacs]] is an interesting piece of software for its versatility.
+I've used it for [[https://www.xkcd.com/224/][Lisp]] development, [[https://www.gnu.org/software/emms/][playing music]], [[https://www.gnu.org/software/emacs/manual/html_mono/erc.html][chatting on IRC]], and dozens of other needs.[fn:1]
+It's long been my LaTeX editor of choice, but I've also taken to using [[http://orgmode.org/][Org]] for more casual writing (e.g. "Hey Carl, can you give me your thoughts on this paper?").
+Increasingly, Emacs has replaced more and more of my userspace, and doing any sort of real work outside of it is a major point of friction.
+I wasn't going to blog without it, so I needed a system that would let me work in plain text, ideally using Org as a markdown language.
+WordPress has caused me to lose patience with browser-based WYSIWYG editors.
+**  Self-Contained...Sort of
+I use several computers, and I value my time.
+I maintain my Emacs config across machines, but the last thing I'm looking for is to manually download unsupported tarballs and rejigger some Ruby blogging environment on each computer.
+The dream is that writing a new post entails opening Emacs, visiting a new Org file, and writing immediately.
+Visible PHP anywhere?
+Dealbreaker.
+**  Cost
+Cheap is good.
+Free (as in beer) is better.
+I already sprung for the [[https://en.wikipedia.org/wiki/Ascension_Island][Ascension Island]] vanity URL.
+* GitHub Pages
+[[https://pages.github.com/][GitHub Pages]] is a slick way to use [[http://jekyllrb.com/][Jekyll]], a snappy and beautiful static site generator, while abstracting away all of the nitty gritty.
+There's a large community around the product, which has led to the development of some wonderful starter kits that amount to:
+1. Fork the repo (I use Dean Attali's [[http://deanattali.com/beautiful-jekyll/][Beautiful Jekyll]]).
+2. Change Dean's name to yours.
+3. Add static pages, blog, create buttons to your GitHub or an RSS feed, it's yours now.
+The entire site exists in a Git repository, making it incredibly portable, and builds happen from Emacs.
+If I want to edit it from a new machine, all I need to do is clone the repository!
+The whole setup is very off-the-shelf, which is exactly what I want.
+
+GitHub Pages is free with [[https://help.github.com/articles/what-is-github-pages/][limits]] I find acceptable.
+In particular, it's a strong fit if your bandwidth demands are "no one will read this but I could conceivably write something that Hacker News might like."
+My greatest complaint is what while custom domains are supported, they do not currently allow HTTPS, a decision I hope they will reevaluate.
+[[https://pages.gitlab.io/][GitLab Pages]] is a similar offering with more features and flexibility, but I am not aware of a setup as painless as the above, as when I looked it required much more configuration.
+**  Version Control (Magit)
+Predictably, GitHub Pages usage revolves around Git.
+It's probably good practice for a personal website to live inside a version control system, preventing me from breaking anything too badly, and GitHub Pages makes it a prerequisite.
+Git is a scary piece of software, living in the terminal and having some admittedly abstruse commands, hence why GitHub puts so much effort into shiny desktop frontends.
+[[https://magit.vc/][Magit]] is an Emacs interface for Git, and it's remarkably effective and simple.
+I hardly use any of its functionality, but for all my staging, pushing, and pulling needs, Magit makes it a few simple keypresses, being too convenient for me to bother learning Git from the command line.
+Hooray!
+* Org
+If you ask people what the killer feature of Emacs is, the two answers you'll hear most often are its hackability through Lisp and Org-mode.
+Some people live their lives out of Org files.
+Writing in Org is more quotidien.
+
+This post is not a guide to Org.
+If you need a reference, the [[http://orgmode.org/manual/][manual]] is excellent to brush up on [[http://orgmode.org/manual/Plain-lists.html#Plain-lists][lists]] or [[http://orgmode.org/manual/Emphasis-and-monospace.html#Emphasis-and-monospace][fontification]] or even [[http://orgmode.org/manual/TODO-items.html#TODO-items][TODO]] items.
+I'm just going to talk about some of the more intermediate functionality I use in this blog.
+** Exporting to Jekyll
+Org-mode has robust exporting capabilities.
+And [[http://orgmode.org/worg/org-tutorials/org-jekyll.html][very thorough documentation, even for niche cases like this]].
+While Jekyll expects HTML documents as its input, I'm writing in Org.
+Org-exports to HTML, but to run a blog requires slightly more work.
+
+#+BEGIN_SRC emacs-lisp
+(setq org-publish-project-alist
+      '(("carl.ac"
+         ;; Path to org files.
+         :base-directory "~/carldotac.github.io/org"
+         :base-extension "org"
+
+         ;; Path to Jekyll Posts
+         :publishing-directory "~/carldotac.github.io/_posts/"
+         :recursive t
+         :publishing-function org-html-publish-to-html
+         :headline-levels 4
+         :html-extension "html"
+         :body-only t
+         )))
+#+END_SRC
+
+Now Emacs will update the posts with =C-c-e P p=.
+
+Jekyll also expects files to be named in the form =yyyy-mm-dd-post_name.html=.
+The .html suffix is handled by the exporter, but I am proud to say I can handle writing the date all by myself.
+
+Post metadata is fairly self-explanatory.
+Jekyll has a certain format, and I put a block like this at the top of each post so that Org will leave it alone in the export.
+
+#+BEGIN_EXAMPLE
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Blogging with Emacs, Org, and GitHub Pages"
+permalink: /:title/
+tags: [emacs]
+---
+#+END_EXPORT
+#+END_EXAMPLE
+
+** Code
+Org's support for code blocks is outstanding, with all the languages I'm ever going to use, but I don't need [[https://en.wikipedia.org/wiki/Literate_programming][literate programming]] features here.
+I just want syntax highlighting, which requires blocks (and maybe also the [[https://github.com/hniksic/emacs-htmlize][htmlize]] package--if it's not working, install that).
+This
+
+#+BEGIN_EXAMPLE
+#+BEGIN_SRC R
+players <- read.csv("offensive_stats_2016.csv", header=TRUE, sep=",")
+#+END_SRC
+#+END_EXAMPLE
+
+becomes this.
+
+#+BEGIN_SRC R
+players <- read.csv("offensive_stats_2016.csv", header=TRUE, sep=",")
+#+END_SRC
+** Links and Images
+Inserting a [[https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)][link]] is easy.
+=C-c-l= calls =org-insert-link=, which will ask for a link (which supports a number of protocols, not just http/https) and then the text to link.
+If you're not into letting Emacs improve your workflow, the underlying syntax is as follows.
+
+#+BEGIN_EXAMPLE
+[[https://www.youtube.com/watch?v=gjHOtxCRhnw][Mattingly's finest hour]]
+#+END_EXAMPLE
+
+Images don't get a special function.
+I could write one, and almost did to make a point after writing that previous sentence, but decided not to bother.
+Images are inserted with a path in double brackets, and since I have an image directory under version control, I just need to insert the relative path.
+So to show off my devilishly handsome mug, I invoke =counsel-find-file=, navigate to the desired photo, and use a [[https://www.emacswiki.org/emacs/InsertFileName][special function]] to insert the relative file path (I use the Ivy code, which does all the hard stuff to insert an image), and then
+
+#+BEGIN_EXAMPLE
+[[../img/avatar-icon.png]]
+#+END_EXAMPLE
+
+becomes me.
+
+[[../img/avatar-icon.png]]
+** Tables
+Org's table editor is excellent and I have a habit of inserting the plain text tables into emails and the like.[fn:2]
+It exports beautifully to HTML.
+Invoke =M-x org-table-create= and then this
+
+#+BEGIN_EXAMPLE
+| Player       | Games |  fWAR |
+|--------------+-------+-------|
+| Babe Ruth    |  2503 | 168.4 |
+| Barry Bonds  |  2986 | 164.4 |
+| Willie Mays  |  2992 | 149.9 |
+| Ty Cobb      |  3035 | 149.3 |
+| Honus Wagner |  2792 | 138.1 |
+#+END_EXAMPLE
+
+turns into this.
+
+| Player       | Games |  fWAR |
+|--------------+-------+-------|
+| Babe Ruth    |  2503 | 168.4 |
+| Barry Bonds  |  2986 | 164.4 |
+| Willie Mays  |  2992 | 149.9 |
+| Ty Cobb      |  3035 | 149.3 |
+| Honus Wagner |  2792 | 138.1 |
+
+When editing the tables, Org can automatically realign the plain text columns with =C-c-c=, a nice quality-of-life function.
+** Footnotes: Not Just for Academic Papers!
+I might[fn:3] abuse footnotes.
+Why wouldn't I, when they're this easy?
+=C-c-x f= creates a new footnote and the exported document will have links between the in-text number and the footnote content.
+Plus =M-x org-footnote-renumber-fn:N= can renumber and reorder your footnotes should you write out of order or add a new footnote between existing ones.
+* Concluding Comments
+Despite the number of moving pieces here, this setup has an ideal balance of simplicity in both setup and use.
+Maintenance, including security, is completely hands off, writing posts with all sorts of content is painless thanks to Emacs integration.
+I hope to keep this setup for a long time, and I'm pleased to see how achievable that should be.
+* Footnotes
+[fn:1] Not [[https://emacs.stackexchange.com/questions/26559/how-do-i-play-tetris-in-emacs][Tetris]] anymore, though. [[https://en.wikipedia.org/wiki/Puyo_Puyo_Tetris][Puyo Puyo Tetris]] has me covered there.
+
+[fn:2] I wonder how people respond to those perfectly formatted, entirely uncommon tables in an email, but they're easy to read and don't need HTML, so they stay.
+
+[fn:3] I definitely do.
