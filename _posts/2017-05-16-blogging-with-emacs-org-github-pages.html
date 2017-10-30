@@ -11,12 +11,13 @@ But blogs are dynamic, and require much more background logic to manage.
 I made my hosting and content management decisions very deliberately, and I wanted to do a rundown of my setup in case anyone else finds it useful.
 </p>
 
-<div id="outline-container-orgb3df0cb" class="outline-2">
-<h2 id="orgb3df0cb">My Needs</h2>
-<div class="outline-text-2" id="text-orgb3df0cb">
-</div><div id="outline-container-org08eb8b9" class="outline-3">
-<h3 id="org08eb8b9">Emacs at the Center</h3>
-<div class="outline-text-3" id="text-org08eb8b9">
+<div id="outline-container-org57ab787" class="outline-2">
+<h2 id="org57ab787">My Needs</h2>
+<div class="outline-text-2" id="text-org57ab787">
+</div>
+<div id="outline-container-orgd2b9d69" class="outline-3">
+<h3 id="orgd2b9d69">Emacs at the Center</h3>
+<div class="outline-text-3" id="text-orgd2b9d69">
 <p>
 <a href="https://www.gnu.org/software/emacs/">Emacs</a> is an interesting piece of software for its versatility.
 I've used it for <a href="https://www.xkcd.com/224/">Lisp</a> development, <a href="https://www.gnu.org/software/emms/">playing music</a>, <a href="https://www.gnu.org/software/emacs/manual/html_mono/erc.html">chatting on IRC</a>, and dozens of other needs.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
@@ -27,9 +28,9 @@ WordPress has caused me to lose patience with browser-based WYSIWYG editors.
 </p>
 </div>
 </div>
-<div id="outline-container-org1fb0551" class="outline-3">
-<h3 id="org1fb0551">Self-Contained&#x2026;Sort of</h3>
-<div class="outline-text-3" id="text-org1fb0551">
+<div id="outline-container-org6773b17" class="outline-3">
+<h3 id="org6773b17">Self-Contained&#x2026;Sort of</h3>
+<div class="outline-text-3" id="text-org6773b17">
 <p>
 I use several computers, and I value my time.
 I maintain my Emacs config across machines, but the last thing I'm looking for is to manually download unsupported tarballs and rejigger some Ruby blogging environment on each computer.
@@ -39,9 +40,9 @@ Dealbreaker.
 </p>
 </div>
 </div>
-<div id="outline-container-org1c6284d" class="outline-3">
-<h3 id="org1c6284d">Cost</h3>
-<div class="outline-text-3" id="text-org1c6284d">
+<div id="outline-container-org7a51114" class="outline-3">
+<h3 id="org7a51114">Cost</h3>
+<div class="outline-text-3" id="text-org7a51114">
 <p>
 Cheap is good.
 Free (as in beer) is better.
@@ -50,9 +51,9 @@ I already sprung for the <a href="https://en.wikipedia.org/wiki/Ascension_Island
 </div>
 </div>
 </div>
-<div id="outline-container-org484c9b3" class="outline-2">
-<h2 id="org484c9b3">GitHub Pages</h2>
-<div class="outline-text-2" id="text-org484c9b3">
+<div id="outline-container-org887bb72" class="outline-2">
+<h2 id="org887bb72">GitHub Pages</h2>
+<div class="outline-text-2" id="text-org887bb72">
 <p>
 <a href="https://pages.github.com/">GitHub Pages</a> is a slick way to use <a href="http://jekyllrb.com/">Jekyll</a>, a snappy and beautiful static site generator, while abstracting away all of the nitty gritty.
 There's a large community around the product, which has led to the development of some wonderful starter kits that amount to:
@@ -75,9 +76,9 @@ My greatest complaint is what while custom domains are supported, they do not cu
 <a href="https://pages.gitlab.io/">GitLab Pages</a> is a similar offering with more features and flexibility, but I am not aware of a setup as painless as the above, as when I looked it required much more configuration.
 </p>
 </div>
-<div id="outline-container-org6bc59ff" class="outline-3">
-<h3 id="org6bc59ff">Version Control (Magit)</h3>
-<div class="outline-text-3" id="text-org6bc59ff">
+<div id="outline-container-org426514b" class="outline-3">
+<h3 id="org426514b">Version Control (Magit)</h3>
+<div class="outline-text-3" id="text-org426514b">
 <p>
 Predictably, GitHub Pages usage revolves around Git.
 It's probably good practice for a personal website to live inside a version control system, preventing me from breaking anything too badly, and GitHub Pages makes it a prerequisite.
@@ -89,9 +90,9 @@ Hooray!
 </div>
 </div>
 </div>
-<div id="outline-container-org226b780" class="outline-2">
-<h2 id="org226b780">Org</h2>
-<div class="outline-text-2" id="text-org226b780">
+<div id="outline-container-org2d68e27" class="outline-2">
+<h2 id="org2d68e27">Org</h2>
+<div class="outline-text-2" id="text-org2d68e27">
 <p>
 If you ask people what the killer feature of Emacs is, the two answers you'll hear most often are its hackability through Lisp and Org-mode.
 Some people live their lives out of Org files.
@@ -104,9 +105,9 @@ If you need a reference, the <a href="http://orgmode.org/manual/">manual</a> is 
 I'm just going to talk about some of the more intermediate functionality I use in this blog.
 </p>
 </div>
-<div id="outline-container-orge7b0f35" class="outline-3">
-<h3 id="orge7b0f35">Exporting to Jekyll</h3>
-<div class="outline-text-3" id="text-orge7b0f35">
+<div id="outline-container-orged1a84e" class="outline-3">
+<h3 id="orged1a84e">Exporting to Jekyll</h3>
+<div class="outline-text-3" id="text-orged1a84e">
 <p>
 Org-mode has robust exporting capabilities.
 And <a href="http://orgmode.org/worg/org-tutorials/org-jekyll.html">very thorough documentation, even for niche cases like this</a>.
@@ -160,9 +161,9 @@ tags: [emacs]
 </div>
 </div>
 
-<div id="outline-container-org70be067" class="outline-3">
-<h3 id="org70be067">Code</h3>
-<div class="outline-text-3" id="text-org70be067">
+<div id="outline-container-org1cdd91d" class="outline-3">
+<h3 id="org1cdd91d">Code</h3>
+<div class="outline-text-3" id="text-org1cdd91d">
 <p>
 Org's support for code blocks is outstanding, with all the languages I'm ever going to use, but I don't need <a href="https://en.wikipedia.org/wiki/Literate_programming">literate programming</a> features here.
 I just want syntax highlighting, which requires blocks (and maybe also the <a href="https://github.com/hniksic/emacs-htmlize">htmlize</a> package&#x2013;if it's not working, install that).
@@ -185,9 +186,9 @@ becomes this.
 </div>
 </div>
 </div>
-<div id="outline-container-org94de2fa" class="outline-3">
-<h3 id="org94de2fa">Links and Images</h3>
-<div class="outline-text-3" id="text-org94de2fa">
+<div id="outline-container-orge392b30" class="outline-3">
+<h3 id="orge392b30">Links and Images</h3>
+<div class="outline-text-3" id="text-orge392b30">
 <p>
 Inserting a <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)">link</a> is easy.
 <code>C-c-l</code> calls <code>org-insert-link</code>, which will ask for a link (which supports a number of protocols, not just http/https) and then the text to link.
@@ -220,9 +221,9 @@ becomes me.
 </div>
 </div>
 </div>
-<div id="outline-container-orga01f884" class="outline-3">
-<h3 id="orga01f884">Tables</h3>
-<div class="outline-text-3" id="text-orga01f884">
+<div id="outline-container-orgce32c76" class="outline-3">
+<h3 id="orgce32c76">Tables</h3>
+<div class="outline-text-3" id="text-orgce32c76">
 <p>
 Org's table editor is excellent and I have a habit of inserting the plain text tables into emails and the like.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 It exports beautifully to HTML.
@@ -298,9 +299,9 @@ When editing the tables, Org can automatically realign the plain text columns wi
 </p>
 </div>
 </div>
-<div id="outline-container-orgbf00bd7" class="outline-3">
-<h3 id="orgbf00bd7">Footnotes: Not Just for Academic Papers!</h3>
-<div class="outline-text-3" id="text-orgbf00bd7">
+<div id="outline-container-org064e492" class="outline-3">
+<h3 id="org064e492">Footnotes: Not Just for Academic Papers!</h3>
+<div class="outline-text-3" id="text-org064e492">
 <p>
 I might<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup> abuse footnotes.
 Why wouldn't I, when they're this easy?
@@ -310,9 +311,9 @@ Plus <code>M-x org-footnote-renumber-fn:N</code> can renumber and reorder your f
 </div>
 </div>
 </div>
-<div id="outline-container-orgf894904" class="outline-2">
-<h2 id="orgf894904">Concluding Comments</h2>
-<div class="outline-text-2" id="text-orgf894904">
+<div id="outline-container-org83b8f91" class="outline-2">
+<h2 id="org83b8f91">Concluding Comments</h2>
+<div class="outline-text-2" id="text-org83b8f91">
 <p>
 Despite the number of moving pieces here, this setup has an ideal balance of simplicity in both setup and use.
 Maintenance, including security, is completely hands off, writing posts with all sorts of content is painless thanks to Emacs integration.
