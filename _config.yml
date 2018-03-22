@@ -23,6 +23,7 @@ description: The personal website of Carl Lieberman.
 
 # List of links in the navigation bar
 navbar-links:
+  CV: "carl-lieberman-cv.pdf"
   Research: "research"
   Teaching: "teaching"
   Blog: "blog"
