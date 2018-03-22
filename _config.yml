@@ -23,7 +23,6 @@ description: The personal website of Carl Lieberman.
 
 # List of links in the navigation bar
 navbar-links:
-  About: "about"
   Research: "research"
   Blog: "blog"
 #  Resources:
