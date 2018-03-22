@@ -98,6 +98,9 @@ excerpt_length: 50
 # Exclude org files
 exclude: [org/]
 
+# Move blog to subdirectory
+paginate_path: "/blog/page:num/"
+
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
