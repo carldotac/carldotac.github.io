@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Carl Lieberman
+substitle: Economics graduate student, libre software user, 2012 UAA Cross Country Championship last place finisher
 ---
 
 ### Research
