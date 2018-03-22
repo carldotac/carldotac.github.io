@@ -20,5 +20,3 @@ I use GNU/Linux on the desktop, and my preferred distro is [openSUSE](https://ww
 I watch a lot of baseball.
 I play the guitar badly.
 Louis from One Direction once complimented my beard.
-
-.
