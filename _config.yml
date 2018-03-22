@@ -25,6 +25,7 @@ description: The personal website of Carl Lieberman.
 navbar-links:
   About: "about"
   Research: "research"
+  Blog: "blog"
 #  Resources:
 #    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
 #    - Learn markdown: "http://www.markdowntutorial.com/"
