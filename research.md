@@ -3,8 +3,6 @@ layout: page
 title: Research
 ---
 
-### Publications
-
 [Death, Bereavement, and Creativity](research/graddy-lieberman-death-bereavement-creativity.pdf)  
 (with Kathryn Graddy)  
 Forthcoming, Management Science.  
