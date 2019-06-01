@@ -52,4 +52,6 @@ Pop that in your =init.el= or evaluate it somewhere and you're good to go!
 Call =M-x baloo-search=, enter your search term(s), which can include an extension, and choose your file.
 I've found this to be incredibly useful when I don't know quite where a file is or what it's called, and perhaps you will too.
 
+*Update 2019-05-31* Per request, should anyone be interested in modifying or extending this program, I hereby license it under the [[https://www.gnu.org/licenses/gpl-3.0.en.html][GPLv3]].
+
 [fn:daemon] This is actually possible if you use [[https://stackoverflow.com/questions/4458245/how-to-set-emacs-to-open-new-files-in-current-instance-on-ubuntu-mint][emacsclient]] but I don't use that functionality.
