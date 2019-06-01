@@ -3,6 +3,10 @@ layout: page
 title: Research
 ---
 
+# Works in Progress
+"Graphical Presentation in Regression Discontinuity Designs," with Christina Korting, Zhuan Pei, Jordan Matsudaira, and Yi Shen.
+
+# Publications
 [Death, Bereavement, and Creativity](research/graddy-lieberman-death-bereavement-creativity.pdf) (with Kathryn Graddy)  
 *Management Science* (2018).  
 [https://doi.org/10.1287/mnsc.2017.2850](https://doi.org/10.1287/mnsc.2017.2850)  
