@@ -6,6 +6,8 @@ title: Research
 # Works in Progress
 Graphical Presentation in Regression Discontinuity Designs (with Christina Korting, Jordan Matsudaira, Zhuan Pei, and Yi Shen)
 
+Differences and Variation in Police Use of Force Across Races: Evidence from New Jersey
+
 # Publications
 [Death, Bereavement, and Creativity](research/graddy-lieberman-death-bereavement-creativity.pdf) (with Kathryn Graddy)  
 *Management Science* (2018).  
