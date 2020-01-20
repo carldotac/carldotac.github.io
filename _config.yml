@@ -23,7 +23,7 @@ description: Site for Carl Lieberman, PhD student in economics
 
 # List of links in the navigation bar
 navbar-links:
-  CV: "carl-lieberman-cv.pdf"
+  CV: "carl_lieberman_cv.pdf"
   Research: "research"
   Teaching: "teaching"
 #  Blog: "blog"
