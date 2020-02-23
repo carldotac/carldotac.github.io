@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-ECO 343, Economic Inequality and the Role of Government (Undergraduate), Princeton University
+ECO 343, Economic Inequality and the Role of Government (Undergraduate), Princeton University  
 Assistant in Instruction for Ilyana Kuziemko  
 Spring 2020
 
