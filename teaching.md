@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-Assistant in Instruction for Ilyana Kuziemko
+Assistant in Instruction for Ilyana Kuziemko  
 ECO 343, Economic Inequality and the Role of Government (Undergraduate), Princeton University
 Spring 2020
 
