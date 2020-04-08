@@ -13,4 +13,4 @@ title: Research
 Media coverage: [Atlas Obscura](https://www.atlasobscura.com/articles/study-art-misery-grief-depression-goya-picasso), [Pacific Standard](https://psmag.com/news/misery-may-inhibit-creativity)
 
 # Works in Progress
-Differences and Variation in Police Use of Force Across Races: Evidence from New Jersey
+Variation in Racial Disparities in Police Use of Force
