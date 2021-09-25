@@ -1,0 +1,587 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Video Game Reviews"
+permalink: /:title/
+tags: [reviews, video games]
+---
+#+END_EXPORT
+* A Hat in Time
+The best retro 3D platformer in a while, sure to satisfy fans yearning for something in the /Super Mario Sunshine/ vein. Lives up to its "cute as heck" billing.
+
+4/5
+* ARMS
+The main thing going for it is that it came out at a time when the Switch had almost no other games.
+
+3/5
+* Artifact
+If it were free, people would still be playing this. Instead, it's a dead game. Drafting was a delight, constructed was pay-to-win, much like Richard Garfield's most famous card game. Made good use of the digital space with its mechanics, and I would have loved to have seen what they had for future card sets. Some very frustrating randomness.
+
+4/5
+* TODO Awesomenauts
+* The Binding of Isaac: Rebirth
+My favorite roguelike on the strength of its variety of content, in spite of its complete indifference towards fairness or balance and distasteful themes. The various expansions have only added to the sheer amount of stuff, but the many new paths and bosses bloat the game somewhat, and 60+ minute runs completely overstay their welcome.
+
+4/5
+* BaBa Is You
+Ingenious. Breaks my brain. Got stuck at some point and have no desire to go back, though.
+
+4/5
+* Bayonetta
+I don't care for beat-em-ups, but it's fast, stylish, and different.
+
+4/5
+* Bayonetta 2
+Same as the original, but with more variety in weapons and enemies.
+
+4/5
+* BioShock
+Boy do I wish more games were written at a level that assumes a working knowledge of Objectivism. I'm here for the art design, the writing, and the rare ludonarrative concordance in a AAA game; the shooting mechanics are unremarkable by today's standards.
+
+5/5
+* BioShock 2
+Very obviously made without Ken Levine. And without an auteur, it's just another mechanically competent bland shooter with nothing to say. I did like the Minerva's Den DLC, whose story is interesting enough to carry its few hours.
+
+3/5
+* BioShock: Infinite
+A tour de force of worldbuilding, characterization, and story, with the latter especially leaving me processing it for days. One of my all-time favorites.
+
+5/5
+* BoxBoy! + BoxGirl!
+A light puzzle game perfect for a few evenings with a loved one.
+
+4/5
+* Cave Story+
+The original indie labor of love that paved the way for so many others. The tight movement/combat is enough, but it's a charming story and a truly outstanding score (I prefer the original compositions over the remixes, but the graphical updates are an improvement).
+
+5/5
+* Celeste
+The absolute best 2D platforming has to offer. Tough as nails, but never frustrating thanks to quick respawns and per-screen checkpoints. Beautifully integrates a touching story with its gameplay.
+
+5/5
+* Control
+While its sense of humor is appreciated and the "launch" telekinetic power (think Half-Life 2's gravity gun, minus the gun) is a treat, Control's story loses its luster once it becomes obvious that there isn't actually anything grand going on, it's just basically [[https://en.wikipedia.org/wiki/SCP_Foundation][SCP Foundation]] vignettes. Overstays its welcome with the story expansions.
+
+3/5
+* Crypt of the NecroDancer
+It's a cute gimmick to have a musical/turn-based roguelike, but it requires more time to git gud than I have as an adult when losing is not fun.
+
+3/5
+* Crysis
+The open map and powers are great for replay, and it still looks good enough to impress, especially the second level. I'm feeling old as I remember getting my first GPU that could run this: a GTX 260 216 core. And I played on a 1680x1050 monitor. On Windows Vista.
+
+4/5
+* Crysis Warhead
+More /Crysis/ fun.
+
+4/5
+* Dark Souls
+Punishing, but amenable to a variety of different approaches. Frustrating, but the difficulty is overrated. Satisfying and worthwhile.
+
+4/5
+* Dead Cells
+It's put together well, it has a good amount of content, it's a satisfying combination of adrenaline and endorphins. But you die so quickly that I lost interest after beating the base difficulty.
+
+3/5
+* Deus Ex: Human Revolution
+Other than the forced boss fights, it's an enjoyable crawling-through-vents simulator.
+
+4/5
+* Diablo III
+Watch numbers get bigger and letters hopefully get golder: the dopamine hit: the game.
+
+3/5
+* Dicey Dungeons
+The dice-based mechanics just aren't that satisfying digitally. The chiptunes soundtrack bumps, but otherwise, I'd enjoy this more as a board game.
+
+3/5
+* Disco Elysium
+It's a nuanced, human examination of society and the people within it. Makes BioShock's takedown of Ayn Rand look like a Reddit comment in comparison. Powerful, clever, and funny in equal parts. Takes full advantage of the CRPG genre.
+
+5/5
+* Dishonored
+Same as /Dishonored 2/, but with worse level design and a painfully obvious plot twist.
+
+3/5
+* Dishonored 2
+I want to love it for the imaginative level design and powers, but the game doesn't want me to love it. There are two main issues. First, most of the game's powers are novel ways to kill, but the game's morality system will tell you how awful you are if you avail yourself of them. Second, the mana system encourages the player to use their powers sparingly. (Incentives matter, people.) The result was crouching through the world, teleporting, waiting for the mana to recharge from that teleport, and repeating, quickloading whenever I was caught. This is a boring, slow way to play that the game encourages, rather than playing up its strengths.
+
+3/5
+* Dishonored: Death of the Outsider
+This really should be worse than /Dishonored 2/, but the ability to kill without consequence and the recharging mana system make the minute-to-minute gameplay so much better than its immediate predecessor.
+
+4/5
+* Divinity: Original Sin 2
+A stunning CRPG when it gets out of its own way. Act I especially is the best RPG experience I've had outside of [[https://en.wikipedia.org/wiki/PrinceCon][PrinceCon]]. Occasionally inconsistent difficulty and a slow final act can't take that away.
+
+5/5
+* Donkey Kong Country: Tropical Freeze
+Impeccable level design. I don't have as much patience for long segments with sparse checkpoints that I did when I was a kid, though.
+
+4/5
+* DOOM (2016)
+The original, perfected. Fast, relentless, and demanding. It's an adrenaline rush at Ultra-Violence, and I always felt appropriately challenged. Also one of the most well optimized games I've ever played.
+
+5/5
+* DOOM: Eternal
+Suffers very hard from a need to be bigger than its predecessor. Too many interconnecting systems and actions create an overwhelming game with exactly one way to play. I had a much better time dropping the difficulty from Ultra-Violence to Hurt Me Plenty and ignoring much of it. And why is there so much platforming in a game about murdering demons as ruthlessly as possible?
+
+5/5
+* Door Kickers
+I prefer to play as a real-time with pause game, but the game is intended for you to iterate on a master plan, which isn't as interesting to me, as it's more trial and error.
+
+4/5
+* Dragon Age: Origins
+Wow, and this wasn't even BioWare's main dev team. An accessible entry into CRPG real-time-with-pause games from BioWare's golden age.
+
+4/5
+* The Elder Scrolls V: Skyrim
+An open-world timesink. There are better RPGs on tables and on screens and the world is soulless, with all your accomplishments feeling hollow as the game barely acknowledges them.
+
+3/5
+* Enter the Gungeon
+It's...fine. Just not good enough where I'd want to play it over other games. Bullet hell, mildly interesting guns, enemies, and bosses, but not the dazzling amount of content like /Isaac/ or the speed of /Dead Cells./
+
+3/5
+* Excitebike
+Is this it? Cute for about 15 minutes.
+
+2/5
+* F-Zero GX
+I don't even like racing games and this one is still perfect. Not as hard as I remember it being as a kid, and I had a blast beating all the cups and missions as an adult. How did they get a Gamecube game to look this good at an unflappable 60 FPS? Don't blink and drive.
+
+5/5
+* Fallout 3
+Anything it wanted to do was done better by the originals or /New Vegas/.
+
+3/5
+* Fallout: New Vegas
+Some RPGs boast of their player freedoms. /New Vegas/ walks the walk. Pacifist? Go for it. Murder hobo? You can kill every adult human character and the game will actually acknowledge it (and I'm sure I'm not the only one to bring firearms into the Legion's camp). Wish I were in the universe where the developers had enough time to fix bugs and add all the content they wanted. Peak Bethesda jankiness.
+
+5/5
+* Fire Emblem: Awakening
+At release, I was blinded by the graphical upgrade from the Tellius games (and the overworld sprites of the 3DS games remain the best in the series). But the difficulty is utterly broken and encourages low-manning a handful of super units and the story is a lowlight.
+
+3/5
+* Fire Emblem Echoes: Shadows of Valentia
+The series' black sheep is surprisingly excellent in its 3DS reimagining, featuring strong characterization (when the game bothers) and some real tactical challenge. The turnwheel to rewind is a fantastic quality-of-life addition for a series that needs them.
+
+4/5
+
+* Fire Emblem: Fates (Birthright/Conquest/Revelation)
+Conquest/ is the gem here, and a few of its chapters, notably 10 on Hard and then Lunatic, are among my favorite in the entire series. Massive cast and replayability across the games, but /Birthright/ and /Revelation/ can be played on autopilot even at the highest difficulty, while /Conquest/ gets unfair on Lunatic at its end (and is merely punishing on Hard mode). The writing is seriously abysmal, and Corrin is the blandest insert imaginable.
+
+2/5, 4/5, 2/5
+* Fire Emblem: Path of Radiance
+My introduction to the series, and still my favorite. A genuinely engaging story that stands on its own while setting up its sequel. Varied level design as well. Unit balance is poor, with Laguz being useless and paladins being grossly overpowered, and enemy phases are much too slow. But it's the writing that sets it apart. Characters all get time to exist as more than a set of stats with an equipped weapon, and the localization team actually made a character speak in iambic pentameter, which is a pretty bonkers amount of effort. 
+
+5/5
+* Fire Emblem: Radiant Dawn
+Characterization is almost nonexistent, and the story does get a little too epic, but it's still engaging for its long runtime, and bringing in units from /Path of Radiance/ is great. Difficulty is uneven, but it's a plus entry.
+
+4/5
+* Fire Emblem: The Sacred Stones
+Other than the route split, it doesn't do anything worth remembering.
+
+3/5
+* Fire Emblem: Three Houses
+The school setting allows the player time and reason to actually care about the characters, which makes the inevitable conflict that much more emotionally weighty, so credit there. Mostly too easy to be interesting, except when the difficulty spikes and it's too frustrating to be fun. Would probably earn a star back if it weren't for all routes sharing the same missions prior to the timeskip, and the general lack of respect the game has for the player's time in its non-battle portions.
+
+3/5
+* FTL: Faster Than Light
+A model for modern roguelikes with good reason. Many paths to victory, though within each archetype, things sometimes feel samey. Good variety of weapons, ships, and crew. Individual runs are a tad long, with too much of each run being navigating text boxes.
+
+4/5
+* Golf Story
+Finally, the spiritual successor to the GBC /Mario Golf/ I've been waiting for. Constantly amusing, no more, no less.
+
+4/5
+* Gone Home
+I went in blind, and remember everything of the experience. I'm sure it would feel dated or supplanted if I were to go back, but it's the kind of perspective and emotion more games need.
+
+5/5
+* Grand Theft Auto V
+A stunning technical achievement of the seventh generation of consoles, but not a good game. Some of the missions, especially the heists, are fun, but there aren't enough of them in between the time killers. Trevor is not nearly the social commentary that Rockstar thinks he is. The torture scene was one of the worst experiences I have had in all of gaming, with no artistic merit.
+
+3/5
+* Guitar Hero 5
+Best in the series, especially with the ability to import songs from other games. Great tracklist for all instruments. I miss the rhythm game era, but it completely oversaturated itself.
+
+4/5
+* Gunpoint
+I'm a fan of the evening's entertainment indie game (see: /Gone Home/), it's interestingly written, it explores its mechanics thoroughly in its short runtime, I just don't find its moment-to-moment gameplay particularly fun.
+
+3/5
+* Hades
+Beautifully woven story/gameplay interaction. While a great game, it's a roguelike for people who don't like roguelikes. And as a fan of the genre, it lacks the staying power of something like The Binding of Isaac. Would love to see an expansion to add some replayability, and the difficulty progression really could have benefited from allowing rewards for increasing the level by more than 1 at a time. I'm nitpicking because I love it.
+
+5/5
+* Halo
+Long levels filled with repetition and backtracking. Does not hold up. Entirely supplanted by (most of) its sequels.
+
+2/5
+* Halo 2
+Makes a strong case for best campaign in the series. Imaginative settings, engaging combat that's slow enough to be tactical, and a multiplayer juggernaut.
+
+5/5
+* Halo 3
+The campaign flies high and peaks with The Covenant level, offering some of the most epic setpieces in the series done justice by composer Marty O'Donnell. And its multiplayer was world-changing on consoles with its Forge mode and custom games. I have fond memories of my early teens filled with Grifball.
+
+5/5
+* Halo 3: ODST
+While the concept of a /Halo/ game in an urban setting playing as non-Spartans is sound, the gratuitous emphasis on a bad story and boring objectives aren't.
+
+3/5
+* Halo 4
+Throws out the weapons and enemies that made Halo great. Apparently the story makes sense if you read a licensed companion novel, which I'm not doing for a /Halo/ game.
+
+2/5
+* Halo: Reach
+While I'm definitely not here for the story, I was shocked to find out that Bungie still had more to do with the Halo series. Excellent twists and fun new toys breathed life into the series. Take notes, /Halo 4/.
+
+4/5
+* Hitman: Absolution
+An unremarkable third-person action game masquerading as a /Hitman/ game. There are actually a handful of decent missions similar to /Blood Money/, but not enough to save it.
+
+3/5
+* I Am Setsuna
+Some interesting ideas for combat and story, but not enough for 20+ hours.
+
+3/5
+* Into the Breach
+Almost pure tactics, with just enough management/strategy between to make it interesting. Minor failures, like taking just one point of damage on an island and missing the bonus, don't feel good, and it's not always clear what you could have done better. Really wants an expansion like /FTL/ to give it more variety, but will probably never get one.
+
+4/5
+* Kerbal Space Program
+Taught me more about physics than my entire formal education. I played in the Scott Manley era, before much of the structure later added, and while a bit spartan in presentation, I still remember landing on Minmus and the Mun.
+
+4/5
+* Just Cause 2
+A seminal game in the genre of open world absurdist power fantasies solely thanks to the grappling hook.
+
+4/5
+* L.A. Noire
+As a technical experiment, a great success. As a game, not so much. The unnecessary driving and combat are obvious concessions to the /GTA/ crowd, your interviewee's tells are all too obvious, but mostly, I'm still annoyed at when the game withholds information from you in a case, lets you fail, and chews you out for it. Compare that with when I failed as a cop in /Disco Elysium/, which brought out real emotions and feelings of inadequacy, which the game was going for. 
+
+2/5
+* TODO The Legend of Zelda: A Link Between Worlds
+* The Legend of Zelda: Breath of the Wild
+If I could /Eternal Sunshine of the Spotless Mind/ myself for any game, it would be this one. I have not felt this childlike sense of wonder in a game since I was a literal child.
+
+5/5
+* The Legend of Zelda: Ocarina of Time
+A landmark in gaming and an epic adventure even today. The low framerate is awful, but the 3DS port solves that.
+
+4/5
+* The Legend of Zelda: Phantom Hourglass
+I could do without the repetitive parts, but it's a full Zelda experience well adapted to the DS.
+
+4/5
+* The Legend of Zelda: Skyward Sword
+Much has been written about how the game treats the player like an idiot, and it does. I am firmly in the camp that the motion controls here are actively user hostile and was frustrated far more than I was impressed. A handful of good dungeons and bosses with doldrums between them.
+
+3/5
+* The Legend of Zelda: Spirit Tracks
+/Phantom Hourglass/ with less of the sucky parts. No one ever talks about the DS games, and it's weird to remember that there's a /Zelda/ game about trains.
+
+4/5
+* The Legend of Zelda: The Minish Cap
+Nintendo let Capcom take the wheel and was rewarded with one of the better 2D efforts in the series. Gorgeous art and sprites.
+
+4/5
+* Luftrausers
+An amusing diversion for a few hours, but I absolutely do not care for endless arcade games.
+
+3/5
+* Luigi's Mansion 3
+Charming action/puzzler. Next Level Games clearly put a lot of effort into the animation, and it shows.
+
+4/5
+* Mario Kart 7
+A mundane entry in the series, but portable online /Mario Kart/ is still an easy sell.
+
+3/5
+* Mario Kart 8 Deluxe
+The standard "I dunno, what do you wanna play" when hosting and playing video games. A bit less fun solo or online, but still gorgeous and with a large variety of tracks.
+
+4/5
+* Mario + Rabbids: Kingdom Battle
+This game has absolutely no business being a satisfying tactical battler. The liberal movement system is a blast, and it's surprisingly tricky at times. Would be significantly better if you could take Mario out of your party.
+
+4/5
+* Mass Effect
+The black sheep of the series for its clunky combat, the original Mass Effect nevertheless has the best worldbuilding and story of them all.
+
+4/5
+* Mass Effect 2
+Well written, deeply emotional, and featuring actually competent gunplay. BioWare's finest outing.
+
+5/5
+* Mass Effect 3
+The price of Mass Effect 2 spending its time on what amount to sidequests to develop its cast is that Mass Effect 3's story has entirely too much ground to cover. The unsatisfying ending cannot take away from the dozens of hours preceding it in video gaming's finest space epic.
+
+4/5
+* Metal Gear Solid 3D: Snake Eater
+Has anyone ever tried saying no to Kojima? Certainly not during the development of /Snake Eater/. A bizarre, worthwhile trip.
+
+4/5
+* Middle Earth: Shadow of War
+A mechanically competent but utterly forgettable modern open world (and I do not use those three words positively) adventure. 
+
+3/5
+* Minecraft
+I've never gotten far into the structured single player mode they added, but it reminds me of my childhood dreams of setting out and making my own fort. Coop is a plus.
+
+4/5
+* New Super Mario Bros. U Deluxe
+The main game is dull but good for local coop. The included Luigi DLC, however, is challenging and imaginative enough to be a worthwhile take on the New Super Mario Bros. series. Ultimately, I'd rather play something like /Celeste/ or /Super Meat Boy/.
+
+3/5
+* Octopath Traveler
+The game that made me realize how little patience I have for most JRPGs' storytelling. Classic combat, banal plot. The true ending, which perhaps ties everything together, is hidden well and locked behind content I will never bother to slog through.
+
+3/5
+* Pikmin 3 Deluxe
+Played entirely in coop mode.) Enjoyable light RTS/action/puzzler that unfortunately ends with a supremely unsatisfying difficulty spike.
+
+3/5
+* Pillars of Eternity
+It's clear that Obsidian put extraordinary effort into building the world of Eora, but the entire game is an overwhelming exposition dump. This is not a recipe for a compelling story-and-character-heavy RPG, and the plodding combat is unforgivable.
+
+2/5
+* Pillars of Eternity II: Deadfire
+A remarkable turnaround after the original. Better combat AI and lower difficulty make the game flow better, and the writing, voice acting, and presentation are all a big step up. As close as we'll ever get to DnD Pirates: The Video Game.
+
+4/5
+* Pilotwings 64
+Packed to the gills with challenges, from flying through rings to using missiles to fight a robotic kaiju. The USA-based level blew my mind as a kid.
+
+4/5
+* Pilotwings Resort
+A handheld game for the final handheld era. A little too simple, but not so much that it's not still fun to try to score higher.
+
+3/5
+* TODO Pokémon
+* Portal
+The surprise hit from /The Orange Box/. Clever and witty and writing and gameplay.
+
+5/5
+* Portal 2
+Valve's painstakingly detailed playtesting pays off in that there are 0 rough edges anywhere in /Portal 2/. I could complain that the original had more charm, but really, it's one of the funniest games of all time and the puzzles are fine.
+
+5/5
+* Puyo Puyo Tetris
+The game that made me realize I like Tetris. Puyo Puyo I can take or leave, but combining the two in local multiplayer with other novices is a real "pat your head and rub your belly" competition. 
+
+4/5
+* Rayman Legends: Definitive Edition
+A platformer for the platformer fan. Really impressed by the amount of content, with enough ideas to stay fresh throughout.
+
+4/5
+* Resident Evil 4
+Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is fun, if dated.
+
+4/5
+* Rise of the Tomb Raider
+One of the more tolerable modern open-world action games. Combat, crafting, stealth, and the tombs are all adequate.
+
+4/5
+* Rocket League
+Multiplayer car soccer/rugby that's dumb fun at all levels, with an impressively high skill ceiling.
+
+4/5
+* Sekiro: Shadows Die Twice
+They tell me that I need to get good and spend a few days mastering the dance of its combat. I don't find that fun, and my video game time is limited enough that I don't want to. Very disappointed. The experience would not have been ruined with difficulty options, but many more people would have been able to access it and enjoy zipping around a gorgeous world as a ninja. Isn't that what we all want?
+
+2/5
+* Shadow Complex
+Emblematic of the best of the Xbox Live Arcade, any fan of Metroidvanias should play it.
+
+4/5
+* Shadow of the Tomb Raider
+The puzzling is great, it's just surrounded by an eye-rollingly poor story and mediocre combat. The dissonance between Lara's development as a stone-cold killer who must save the world and the tender-hearted young woman who takes the time to help a young boy get his dice back is immersion-breaking.
+
+3/5
+* Shadow Tactics: Blades of the Shogun
+As someone with no experience with the /Commandos/ games, I was pleasantly surprised at the extent to which /Blades of the Shogun/ scratched my puzzly tactics itch much like /Hitman/ or /XCOM/ before it.
+
+4/5
+* Shovel Knight: Treasure Trove
+All four campaigns feel fresh and impeccably designed around each character's abilities. A modern classic in every sense.
+
+5/5
+* Sid Meier's Civilization IV
+You know what, just look at the /VI/ review.
+* Sid Meier's Civilization V
+You know what, just look at the /VI/ review.
+
+4/5
+* Sid Meier's Civilization VI
+Having never gotten especially good at Civ, it's still a shockingly addictive set of systems, but I find it overwhelming and prefer smaller, more tactical experiences.
+
+4/5
+* Skate 3
+Played on hardcore, it is equal parts frustrating and rewarding. Some of the missions and goals are boring or too hard, but it will always be cool to find a spot and nail the perfect line.
+
+4/5
+* Slay the Spire
+Enemy intentions are a fantastic mechanic, and it's probably no coincidence that I also enjoy /Spirit Island/ and /Into the Breach/. All four classes are great, and the base game's modular difficulty ensures an appropriate experience. The true final boss isn't worth doing other than for the achievements, though, as it limits the deckbuilding too much.
+
+4/5
+* Snipperclips
+A favorite for couch coop. Adorable and requires all players to contribute.
+
+4/5
+* Sonic Colors (DS)
+Serviceable 2D /Sonic/.
+
+3/5
+* Sonic Mania
+The platonic ideal Sonic game, with delightful throwback graphics and soundtrack with top-notch level design. Unfortunately, the Sonic formula is fundamentally flawed. The game wants you to fly through levels, but without replaying and memorizing levels, the gameplay is either effectively an autoscroller or failing to go fast by hitting obstacles or falling.
+
+4/5
+* Sonic Adventure
+Unredeemable. There was no part of this I enjoyed.
+
+1/5
+* South Park: The Stick of Truth
+As a playable /South Park/, very funny and worthwhile. More of a joke RPG than a real RPG though.
+
+4/5
+* South Park: The Fractured But Whole
+A bit less funny than its predecessor, but with a massively more interesting combat system. The difficulty slider is one of my favorite bits of social commentary the show has done.
+
+4/5
+* Splatoon 2
+I'm generally not big on multiplayer shooters, but the lack of a deathmatch and the weapon variety, as well as the new PVE mode, kept me coming back. Underrated soundtrack reminiscient of The Go! Team.
+
+4/5
+* The Stanley Parable
+An amusing meta-commentary art game/walking simulator. Has something to say and succeeds in conveying it.
+
+5/5
+* Stardew Valley
+When I had about 30 minutes before bed after struggling with problem sets all day in my first year of grad school, I would go to a simpler place, where life was a jam-packed gameplay loop of farming, fishing, foraging, and friendship. And the later addition of coop made for one of my favorite couple's games.
+
+4/5
+* Star Wars: Knights of the Old Republic
+It's very dated, coming from the olden days of BioWare, but it's also one of the better /Star Wars/ story in the entire Expanded Universe (before Disney killed it).
+
+4/5
+* Star Wars: Knights of the Old Republic II
+More of the same, but a bit weaker in the story department.
+
+3/5
+* SteamWorld Dig 2
+There's not a bad SteamWorld game out there, and this is an unremarkable (but fun!) platformer.
+
+4/5
+* SteamWorld Heist
+XCOM/ meets /Worms/ does it for me.
+
+4/5
+* Super Mario 3D Land
+As inoffensive and uninspired as the worst of the /NSMB/ games.
+
+3/5
+* Super Mario Bros.
+One of my hottest takes is that by modern standards, the series was unplayable until /Super Mario Bros. 3/. Movement is just too clunky. "Modern" does a lot of work there though, I loved the Game Boy Color port as a kid.
+
+2/5
+* Super Mario Galaxy
+It would be incredibly unfair to compare it unfavorably to its direct sequel, as this is still one of the best 3D platformers ever.
+
+5/5
+* Super Mario Galaxy 2
+The best of the mainline games? Higher difficulty and no fluff make a convincing argument.
+
+5/5
+* Super Mario Odyssey
+Fun (and stars) in every carefully crafted nook and cranny.
+
+5/5
+* Super Meat Boy
+I'm fine with tough games with instant retries and short levels or checkpoints. Impeccable movement, and one of the best pure platformers the medium has seen.
+
+5/5
+* Super Smash Bros. (3DS)
+An impressive technical achievement, scaling the full /SSB4/ experience onto a handheld. Single-player not as compelling as /Ultimate/'s, and the level 9 AI in particular is notorious for reading inputs.
+
+4/5
+* Super Smash Bros. Ultimate
+I'm not a fan of fighting games, but I make an exception for /SSB/. Lives up to its title in terms of content. An epic love letter to all of video gaming, and a fun, frantic fighter to boot.
+
+5/5
+* Super Street Fighter IV
+Won't make any new fans of the fighting genre, but the best since /II/.
+
+3/5
+* SUPERHOT
+Ostensibly a shooter, but the central conceit of a shooter where time only passes when you move ends up making it more of a puzzler. The story gets in the way a bit and is nowhere close to as clever as it thinks it is. Completely superseded by its VR version.
+
+3/5
+* SUPERHOT VR
+It's /The Matrix/ in a game, with the immediacy and intuitiveness afford by VR. By far, the coolest I have ever felt while playing a video game. ("Felt" is doing a lot of work in that sentence. I've seen video of me playing.)
+
+5/5
+* SUPERHOT: MIND CONTROL DELETE
+A roguelike SUPERHOT is a great concept, but the lack of content and amount of replaying levels necessary upon failure made me lose interest.
+
+2/5
+* Tomb Raider (2013)
+Harping on /Tomb Raider/ for ludonarrative dissonance is like shooting fish in a barrel, but was there really no one in testing who found it jarring that immediately after innocent Lara kills a human for the first time in a cutscene, I'm getting bonus points for headshots? A fun cast of characters anchors the story until it decides to go all-in on the supernatural.
+
+4/5
+* Trials HD
+Challenging and rewarding physics motorcycle game. Significantly replayable.
+
+4/5
+* Undertale
+If art is anything that evokes an emotional response, then Undertale is a shining example of games as art. A personal favorite.
+
+5/5
+* VVVVVV
+I have a thing for games that understand themselves and what they want to do. /VVVVVV/ knows the limits of its mechanics and creates a tight platformer around them. Short, sweet, to-the-point.
+
+4/5
+* WarGroove
+Charming derivative of the beloved /Advance Wars/ series. Turns out that's not an amazing formula in a world where /XCOM/ exists.
+
+2/5
+* Wario Land 4
+Detailed, varied, and challenging. High replayability to boot to find every last collectable.
+
+4/5
+* Wii Sports
+There's no reason to go back when /Wii Sports Resort/ exists (unless you really like the baseball or boxing games), but this game rocked the world, exposing millions of people to video games. Everyone loved that bowling game. Everyone.
+
+5/5
+* Wii Sports Resort
+It's a dated tech demo in a world with today's VR systems, and yet it was an easy multiplayer hit with casuals. Nintendo didn't have to put as much love into its world (there's a whole island, and every event takes place somewhere on it in a cohesive world!) or Mii integration, but they did. Surprising depth to some of the games like golf and bowling.
+
+5/5
+* Worms Reloaded
+Honestly, its greatest sin is not being /Worms World Party/, the apex of the series.
+
+3/5
+* XCOM 2
+It takes /Enemy Unknown/, improves the good parts, and strips out as much of the boring strategic layer as it can. My favorite turn-based tactics game of all time. Huge replayability thanks to the randomized levels, soldiers, and enemies (the latter in the /War of the Chosen/ expansion, which is vital). I live for those turns where the game becomes a challenge to somehow kill all the enemies, or even just survive, and it delivers in spades. Main weakness is the reverse difficulty curve.
+
+5/5
+* XCOM: Chimera Squad
+While it loses the depth of /XCOM 2/, there's some good tactical puzzle action to be had here, the changes to the formula are enough of a novelty for its runtime.
+
+4/5
+* XCOM: Enemy Unknown
+Completely outclassed by /XCOM 2/, but it was a revelation coming from Fire Emblem to get to play with destructable environments and line of sight. Improved by the /Enemy Within/ expansion's nudges to avoid turtling.
+
+5/5
+* Xenoblade Chronicles II
+I played this during the first year of my PhD, perhaps the last time I'll be willing to put up with an unnecessarily long JRPG. But the combat system is a treat, the score is one of my favorites, and the I was in the right mindstate for an inconsequential shonen story.
+
+4/5
+* Yooka-Laylee
+What if we took Banjo-Kazooie and removed the tight level design for vast, barren worlds? The version I played at launch was buggy and had a camera that was downright hostile to the player.
+
+2/5
