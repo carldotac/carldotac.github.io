@@ -1,0 +1,57 @@
+#+OPTIONS: toc:nil num:nil
+#+BEGIN_EXPORT html
+---
+layout: post
+title: "Board Game Reviews"
+permalink: /:title/
+tags: [reviews, board games]
+---
+#+END_EXPORT
+* 7 Wonders Duel
+An impressive little game that somehow fits many of the highs of a game of /Sid Meier's Civilization/ into a fast-paced 30-minute drafting game. I enjoy the /Pantheon/ expansion for strengthening science and military while adding more interesting choices and effects, but it does make it more thinky and slows things down.
+
+4/5
+* Azul
+Functions very well as a gateway game for people happy to think strategically, but is a little too cutthroat (low player counts) or random (high player counts). I'm shocked at how terrible I am at it, which probably doesn't help.
+
+3/5
+* Baseball Highlights: 2045
+Although it's a straightforward deckbuilder, and the strategy and tactics aren't especially deep, the theming is fantastic, and it really captures the feel of a baseball game, especially in the highs late in a close game (or better yet, extra innings). Recommended for baseball fans.
+
+3/5
+* Bottom of the 9th
+Theming is wonderful, but not much of a game underneath it. Pitching/hitting is matching pennies, and the results are dice rolls. I enjoy some light games, but there's just not enough here for me.
+
+2/5
+* Carcassonne
+One of the best examples of [[https://magic.wizards.com/en/articles/archive/making-magic/lenticular-design-2014-12-15][lenticular design]]. What starts as a simple tile-laying game evolves as you learn strategies and add the farmers rule to become a delicate dance balancing limited meeples, constant consideration of the lay of the land, opportunistic cooperation, even more opportunistic theft. Base game is great, but the Inns & Cathedrals expansions fills it out a bit with some helpful new tiles and new features that makes roads more valuable and cities have greater risks and rewards.
+
+4/5
+* Codenames/Codenames: Duet
+A party game acceptable to gamers and non-gamers alike. Incredibly satisfying both as the cluer and the cluee when it works. The original Codenames has some downtime problems for guessers, while Duet can drag if your partner is slow at coming up with clues. Also very easy for new players to break the rules, which can hurt the experience.
+
+3/5
+* Jaipur
+Easy to learn but surprisingly deep trading game with meaningful decisions throughout. The short length and randomness from the cards can make luck a factor, but that's not a bad thing.
+
+4/5
+* Pandemic
+Although my tastes have gotten a bit heavier since my initial adoration for Pandemic, it still stands up as an accessible, enjoyable, cooperative puzzle I'm happy to bring to the table. It absolutely suffers from quarterbacking, and it can feel a bit samey after a while once you've basically solved the game's core puzzle, but the On the Brink expansion helps with the latter, adding huge variety to the roles and events with some optional modules to spice things up.
+
+4/5
+* Patchwork
+Somehow equal parts relaxing (it's a polymino game about making a quilt!) and fiercely competitive. Elegant in its simplicity, challenging in its execution, a favorite for head-to-head two-player games.
+
+5/5
+* Spirit Island
+Spirit Island captures my mind in a way no board game ever has, and only a select few video games have, with every turn an impossible tactical puzzle until a truly inspired combination of powers reveals itself. An utterly brain-burning experience with an embarrassment of riches in terms of content with its expansions. It's both my favorite coop board game and only of the only board games I will happily play solo. My one criticism is that endings are sometimes anticlimactic, though that may also be a sign that the highly customizable difficulty may simply be too low.
+
+5/5
+* Sushi Go Party!
+My go-to to pull out for non-gamers, but the customizable party version allows both for high replayability and adjustable complexity. It's a very light points-scoring drafting game, but it has legs and it's fun to notice interactions between cards for different menus. Setup is a little slow with having to build the deck every time, which sleeving can help mitigate.
+
+4/5
+* Viticulture Essential Edition
+A worker placement game elevated by two mechanics I adore: player-chosen turn order, with increasing rewards for later options, and a grande meeple who can take actions whose slots have already been filled. Suffers a good bit from the highly random and swingy visitor cards, some of which are especially unbalanced at high/low player counts (e.g., everyone gives you money, or get victory points for every player who doesn't).
+
+4/5
