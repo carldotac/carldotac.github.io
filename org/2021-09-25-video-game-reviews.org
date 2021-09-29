@@ -7,10 +7,18 @@ permalink: /:title/
 tags: [reviews, video games]
 ---
 #+END_EXPORT
+* TODO 007: Nightfire
+* TODO Advance Wars
+* TODO Advance Wars 2: Black Hole Rising
+* TODO Advance Wars: Days of Ruin
+* TODO Advance Wars: Dual Strike
 * A Hat in Time
 The best retro 3D platformer in a while, sure to satisfy fans yearning for something in the /Super Mario Sunshine/ vein. Lives up to its "cute as heck" billing.
 
 4/5
+* TODO Altered Best
+* TODO Altitude
+* TODO Animal Crossing: Wild World
 * ARMS
 The main thing going for it is that it came out at a time when the Switch had almost no other games.
 
@@ -19,15 +27,20 @@ The main thing going for it is that it came out at a time when the Switch had al
 If it were free, people would still be playing this. Instead, it's a dead game. Drafting was a delight, constructed was pay-to-win, much like Richard Garfield's most famous card game. Made good use of the digital space with its mechanics, and I would have loved to have seen what they had for future card sets. Some very frustrating randomness.
 
 4/5
+* TODO Assassin's Creed
 * TODO Awesomenauts
-* The Binding of Isaac: Rebirth
-My favorite roguelike on the strength of its variety of content, in spite of its complete indifference towards fairness or balance and distasteful themes. The various expansions have only added to the sheer amount of stuff, but the many new paths and bosses bloat the game somewhat, and 60+ minute runs completely overstay their welcome.
-
-4/5
 * BaBa Is You
 Ingenious. Breaks my brain. Got stuck at some point and have no desire to go back, though.
 
 4/5
+* TODO Backyard Soccer
+* Banjo-Kazooie
+The best platformer on the N64, one which I still revisit on a quiet Saturday every few years to 100%. Rewarding movement, compact but dense levels, and a delightful score make it a treat every time.
+
+5/5
+* TODO Barkley, Shut Up and Jam: Gaiden
+* Battalion Wars
+* Battlefield 1943:
 * Bayonetta
 I don't care for beat-em-ups, but it's fast, stylish, and different.
 
@@ -52,6 +65,18 @@ A tour de force of worldbuilding, characterization, and story, with the latter e
 A light puzzle game perfect for a few evenings with a loved one.
 
 4/5
+* Call of Duty 4: Modern Warfare
+How spoiled we were in 2007 to have had this and /Halo 3/ drop within a few weeks of each other. The campaign was unrelenting action, filled with set pieces and levels; [[https://en.wikipedia.org/wiki/All_Ghillied_Up]["All Ghillied Up"]] has its own Wikipedia page, for crying out loud. The multiplayer took that relentlessness even further with its fast time-to-kill, and it was a masterclass in player engagement. Before the industry switched over to Skinner boxes and pay-to-win monetization, /COD4/ had a constant drip of weapons and challenges, with the hamster wheel prestige system. Everything was done to excite our monkey brains, especially that little crosshair that would come up when hitting an opponent. This was a game that felt /good/ to play.
+
+5/5
+* Castle Crashers
+Casual beat 'em up simple enough for easy coop but with enough characters and gear to keep it interesting.
+
+4/5
+* Castle of Illusion Starring Mickey Mouse
+Once upon a time, licensed platformers were everywhere, and back in the late 80s and early 90s, many weren't half-bad. /Castle of Illusion/ stands out thanks to its all-over-the-place level themes and solid bounce-based platforming, a core revisited later by games like /Shovel Knight/.
+
+4/5
 * Cave Story+
 The original indie labor of love that paved the way for so many others. The tight movement/combat is enough, but it's a charming story and a truly outstanding score (I prefer the original compositions over the remixes, but the graphical updates are an improvement).
 
@@ -60,10 +85,21 @@ The original indie labor of love that paved the way for so many others. The tigh
 The absolute best 2D platforming has to offer. Tough as nails, but never frustrating thanks to quick respawns and per-screen checkpoints. Beautifully integrates a touching story with its gameplay.
 
 5/5
+* Clubhouse Games
+At the time, a collection of solid games, especially on the cards front (Spit, Hearts, President, Texas Hold 'Em, Spades, and Bridge stand out) with online play was genuinely notable. Easy to pick up and play, and nice touches like the music and achievements.
+
+4/5
+* Clubhouse Games: 51 Worldwide Classics
+A well polished collection of games that are not worth your time. (War, but no hearts, spades, or bridge?)
+
+2/5
 * Control
 While its sense of humor is appreciated and the "launch" telekinetic power (think Half-Life 2's gravity gun, minus the gun) is a treat, Control's story loses its luster once it becomes obvious that there isn't actually anything grand going on, it's just basically [[https://en.wikipedia.org/wiki/SCP_Foundation][SCP Foundation]] vignettes. Overstays its welcome with the story expansions.
 
 3/5
+* TODO Counter-Strike: Global Offensive
+* TODO Counter-Strike: Source
+* TODO Crackdown
 * Crypt of the NecroDancer
 It's a cute gimmick to have a musical/turn-based roguelike, but it requires more time to git gud than I have as an adult when losing is not fun.
 
@@ -77,7 +113,7 @@ More /Crysis/ fun.
 
 4/5
 * Dark Souls
-Punishing, but amenable to a variety of different approaches. Frustrating, but the difficulty is overrated. Satisfying and worthwhile.
+Punishing, but amenable to a variety of different approaches. Frustrating, but the difficulty is overrated. Janky, but turning the jank back on your enemies feels good. Rough, but worthwhile.
 
 4/5
 * Dead Cells
@@ -96,6 +132,7 @@ Watch numbers get bigger and letters hopefully get golder: the dopamine hit: the
 The dice-based mechanics just aren't that satisfying digitally. The chiptunes soundtrack bumps, but otherwise, I'd enjoy this more as a board game.
 
 3/5
+* TODO Diddy Kong Racing
 * Disco Elysium
 It's a nuanced, human examination of society and the people within it. Makes BioShock's takedown of Ayn Rand look like a Reddit comment in comparison. Powerful, clever, and funny in equal parts. Takes full advantage of the CRPG genre.
 
@@ -116,6 +153,7 @@ This really should be worse than /Dishonored 2/, but the ability to kill without
 A stunning CRPG when it gets out of its own way. Act I especially is the best RPG experience I've had outside of [[https://en.wikipedia.org/wiki/PrinceCon][PrinceCon]]. Occasionally inconsistent difficulty and a slow final act can't take that away.
 
 5/5
+* TODO Donkey Kong 64
 * Donkey Kong Country: Tropical Freeze
 Impeccable level design. I don't have as much patience for long segments with sparse checkpoints that I did when I was a kid, though.
 
@@ -136,10 +174,10 @@ I prefer to play as a real-time with pause game, but the game is intended for yo
 Wow, and this wasn't even BioWare's main dev team. An accessible entry into CRPG real-time-with-pause games from BioWare's golden age.
 
 4/5
-* The Elder Scrolls V: Skyrim
-An open-world timesink. There are better RPGs on tables and on screens and the world is soulless, with all your accomplishments feeling hollow as the game barely acknowledges them.
+* Elite Beat Agents
+I am unsurprised that a handheld touch-based rhythm game with a nonsensical comic book story about secret agent cheerleaders helping everyday people score dates, defeat monsters, and save Christmas set to a licensed soundtrack of covers sold so poorly. But for those who enjoy the camp, it's a fun rhythm novelty. The spinners destroyed my DS' touch screen. Reminds me of the mini games in the original /Mario Party/ that destroyed joysticks and palms. Nintendo should just never have rotation mechanics, I guess.
 
-3/5
+4/5
 * Enter the Gungeon
 It's...fine. Just not good enough where I'd want to play it over other games. Bullet hell, mildly interesting guns, enemies, and bosses, but not the dazzling amount of content like /Isaac/ or the speed of /Dead Cells./
 
@@ -148,10 +186,7 @@ It's...fine. Just not good enough where I'd want to play it over other games. Bu
 Is this it? Cute for about 15 minutes.
 
 2/5
-* F-Zero GX
-I don't even like racing games and this one is still perfect. Not as hard as I remember it being as a kid, and I had a blast beating all the cups and missions as an adult. How did they get a Gamecube game to look this good at an unflappable 60 FPS? Don't blink and drive.
-
-5/5
+* TODO Excite Truck
 * Fallout 3
 Anything it wanted to do was done better by the originals or /New Vegas/.
 
@@ -160,6 +195,9 @@ Anything it wanted to do was done better by the originals or /New Vegas/.
 Some RPGs boast of their player freedoms. /New Vegas/ walks the walk. Pacifist? Go for it. Murder hobo? You can kill every adult human character and the game will actually acknowledge it (and I'm sure I'm not the only one to bring firearms into the Legion's camp). Wish I were in the universe where the developers had enough time to fix bugs and add all the content they wanted. Peak Bethesda jankiness.
 
 5/5
+* TODO Final Fantasy VI
+* TODO Final Fantasy VII
+* TODO Final Fantasy VIII
 * Fire Emblem: Awakening
 At release, I was blinded by the graphical upgrade from the Tellius games (and the overworld sprites of the 3DS games remain the best in the series). But the difficulty is utterly broken and encourages low-manning a handful of super units and the story is a lowlight.
 
@@ -181,6 +219,7 @@ My introduction to the series, and still my favorite. A genuinely engaging story
 Characterization is almost nonexistent, and the story does get a little too epic, but it's still engaging for its long runtime, and bringing in units from /Path of Radiance/ is great. Difficulty is uneven, but it's a plus entry.
 
 4/5
+* TODO Fire Emblem: Shadow Dragon
 * Fire Emblem: The Sacred Stones
 Other than the route split, it doesn't do anything worth remembering.
 
@@ -193,6 +232,14 @@ The school setting allows the player time and reason to actually care about the 
 A model for modern roguelikes with good reason. Many paths to victory, though within each archetype, things sometimes feel samey. Good variety of weapons, ships, and crew. Individual runs are a tad long, with too much of each run being navigating text boxes.
 
 4/5
+* F-Zero GX
+I don't even like racing games and this one is still perfect. Not as hard as I remember it being as a kid, and I had a blast beating all the cups and missions as an adult. How did they get a Gamecube game to look this good at an unflappable 60 FPS? Don't blink and drive.
+
+5/5
+* TODO Geometry Wars: Retro Evolved 2
+* Ghouls 'n Ghosts'
+* TODO Golden Sun
+* TODO Golden Sun: The Lost Age
 * Golf Story
 Finally, the spiritual successor to the GBC /Mario Golf/ I've been waiting for. Constantly amusing, no more, no less.
 
@@ -201,22 +248,34 @@ Finally, the spiritual successor to the GBC /Mario Golf/ I've been waiting for. 
 I went in blind, and remember everything of the experience. I'm sure it would feel dated or supplanted if I were to go back, but it's the kind of perspective and emotion more games need.
 
 5/5
+* Grand Theft Auto: Chinatown Wars
+By embracing the limitations of the DS, Rockstar's odd combination of touch mechanics and throwback top-down gameplay hits all the right notes. Driving especially is arcadey joy. In the series' storied mistreatment of women, not enough attention is paid to /Chinatown Wars/ creating a female character so they could put her on the cover, then killing her off immediately.
+
+5/5
+* TODO Grand Theft Auto IV
 * Grand Theft Auto V
 A stunning technical achievement of the seventh generation of consoles, but not a good game. Some of the missions, especially the heists, are fun, but there aren't enough of them in between the time killers. Trevor is not nearly the social commentary that Rockstar thinks he is. The torture scene was one of the worst experiences I have had in all of gaming, with no artistic merit.
 
 3/5
+* TODO GT Advance Championship Racing
 * Guitar Hero 5
 Best in the series, especially with the ability to import songs from other games. Great tracklist for all instruments. I miss the rhythm game era, but it completely oversaturated itself.
 
 4/5
+* Guitar Hero III: Legends of Rock
+* Guitar Hero: World Tour
 * Gunpoint
 I'm a fan of the evening's entertainment indie game (see: /Gone Home/), it's interestingly written, it explores its mechanics thoroughly in its short runtime, I just don't find its moment-to-moment gameplay particularly fun.
 
 3/5
+* TODO Gunstar Heroes
 * Hades
 Beautifully woven story/gameplay interaction. While a great game, it's a roguelike for people who don't like roguelikes. And as a fan of the genre, it lacks the staying power of something like The Binding of Isaac. Would love to see an expansion to add some replayability, and the difficulty progression really could have benefited from allowing rewards for increasing the level by more than 1 at a time. I'm nitpicking because I love it.
 
 5/5
+* TODO Half-Life 2
+* TODO Half-Life 2 Episode 1
+* TODO Half-Life 2: Episode 2
 * Halo
 Long levels filled with repetition and backtracking. Does not hold up. Entirely supplanted by (most of) its sequels.
 
@@ -241,55 +300,42 @@ Throws out the weapons and enemies that made Halo great. Apparently the story ma
 While I'm definitely not here for the story, I was shocked to find out that Bungie still had more to do with the Halo series. Excellent twists and fun new toys breathed life into the series. Take notes, /Halo 4/.
 
 4/5
+* TODO Hitman (2016)
+* TODO Hitman 2 (2018)
 * Hitman: Absolution
 An unremarkable third-person action game masquerading as a /Hitman/ game. There are actually a handful of decent missions similar to /Blood Money/, but not enough to save it.
 
 3/5
+* Hitman: Blood Money
 * I Am Setsuna
 Some interesting ideas for combat and story, but not enough for 20+ hours.
+
+3/5
+* ICO
+A beautiful, poignant movie. As a game? Most of the puzzles are OK, but there's no reason for the combat other than to pad length.
 
 3/5
 * Into the Breach
 Almost pure tactics, with just enough management/strategy between to make it interesting. Minor failures, like taking just one point of damage on an island and missing the bonus, don't feel good, and it's not always clear what you could have done better. Really wants an expansion like /FTL/ to give it more variety, but will probably never get one.
 
 4/5
-* Kerbal Space Program
-Taught me more about physics than my entire formal education. I played in the Scott Manley era, before much of the structure later added, and while a bit spartan in presentation, I still remember landing on Minmus and the Mun.
-
-4/5
+* TODO Jak 3
+* TODO Jak and Daxter: The Precusror Legacy
+* TODO Jak II
+* TODO James Bond 007: Everything or Nothing
+* TODO James Bond 007 (GB)
 * Just Cause 2
 A seminal game in the genre of open world absurdist power fantasies solely thanks to the grappling hook.
+
+4/5
+* Kerbal Space Program
+Taught me more about physics than my entire formal education. I played in the Scott Manley era, before much of the structure later added, and while a bit spartan in presentation, I still remember landing on Minmus and the Mun.
 
 4/5
 * L.A. Noire
 As a technical experiment, a great success. As a game, not so much. The unnecessary driving and combat are obvious concessions to the /GTA/ crowd, your interviewee's tells are all too obvious, but mostly, I'm still annoyed at when the game withholds information from you in a case, lets you fail, and chews you out for it. Compare that with when I failed as a cop in /Disco Elysium/, which brought out real emotions and feelings of inadequacy, which the game was going for. 
 
 2/5
-* TODO The Legend of Zelda: A Link Between Worlds
-* The Legend of Zelda: Breath of the Wild
-If I could /Eternal Sunshine of the Spotless Mind/ myself for any game, it would be this one. I have not felt this childlike sense of wonder in a game since I was a literal child.
-
-5/5
-* The Legend of Zelda: Ocarina of Time
-A landmark in gaming and an epic adventure even today. The low framerate is awful, but the 3DS port solves that.
-
-4/5
-* The Legend of Zelda: Phantom Hourglass
-I could do without the repetitive parts, but it's a full Zelda experience well adapted to the DS.
-
-4/5
-* The Legend of Zelda: Skyward Sword
-Much has been written about how the game treats the player like an idiot, and it does. I am firmly in the camp that the motion controls here are actively user hostile and was frustrated far more than I was impressed. A handful of good dungeons and bosses with doldrums between them.
-
-3/5
-* The Legend of Zelda: Spirit Tracks
-/Phantom Hourglass/ with less of the sucky parts. No one ever talks about the DS games, and it's weird to remember that there's a /Zelda/ game about trains.
-
-4/5
-* The Legend of Zelda: The Minish Cap
-Nintendo let Capcom take the wheel and was rewarded with one of the better 2D efforts in the series. Gorgeous art and sprites.
-
-4/5
 * Luftrausers
 An amusing diversion for a few hours, but I absolutely do not care for endless arcade games.
 
@@ -298,6 +344,12 @@ An amusing diversion for a few hours, but I absolutely do not care for endless a
 Charming action/puzzler. Next Level Games clearly put a lot of effort into the animation, and it shows.
 
 4/5
+* TODO Major League Baseball Featuring Ken Griffey Jr.
+* Mario Golf (GBC)
+The GBC version of /Mario Golf/ was inexplicably an RPG, and boy, does it work. The surprisingly deep golf mechanics are sound, and the RPG quest makes great use of them with a host of varied challenges in addition to more vanilla golf.
+
+4/5
+* TODO Mario Kart 64
 * Mario Kart 7
 A mundane entry in the series, but portable online /Mario Kart/ is still an easy sell.
 
@@ -306,10 +358,15 @@ A mundane entry in the series, but portable online /Mario Kart/ is still an easy
 The standard "I dunno, what do you wanna play" when hosting and playing video games. A bit less fun solo or online, but still gorgeous and with a large variety of tracks.
 
 4/5
+* TODO Mario Kart: Double Dash!!
+* TODO Mario Kart DS
+* TODO Mario Party
+* TODO Mario Power Tennis
 * Mario + Rabbids: Kingdom Battle
 This game has absolutely no business being a satisfying tactical battler. The liberal movement system is a blast, and it's surprisingly tricky at times. Would be significantly better if you could take Mario out of your party.
 
 4/5
+* TODO Mario Tennis
 * Mass Effect
 The black sheep of the series for its clunky combat, the original Mass Effect nevertheless has the best worldbuilding and story of them all.
 
@@ -326,6 +383,7 @@ The price of Mass Effect 2 spending its time on what amount to sidequests to dev
 Has anyone ever tried saying no to Kojima? Certainly not during the development of /Snake Eater/. A bizarre, worthwhile trip.
 
 4/5
+* TODO Metroid Prime
 * Middle Earth: Shadow of War
 A mechanically competent but utterly forgettable modern open world (and I do not use those three words positively) adventure. 
 
@@ -334,14 +392,22 @@ A mechanically competent but utterly forgettable modern open world (and I do not
 I've never gotten far into the structured single player mode they added, but it reminds me of my childhood dreams of setting out and making my own fort. Coop is a plus.
 
 4/5
+* TODO Mirror's Edge
+* TODO NBA Showtime: NBA on NBC (N64)
+* TODO Need for Speed: Hot Pursuit 2
+* TODO Need for Speed Underground
+* TODO Need for Speed Underground 2
+* TODO New Super Mario Bros.
 * New Super Mario Bros. U Deluxe
 The main game is dull but good for local coop. The included Luigi DLC, however, is challenging and imaginative enough to be a worthwhile take on the New Super Mario Bros. series. Ultimately, I'd rather play something like /Celeste/ or /Super Meat Boy/.
 
 3/5
+* TODO NFL Blitz 20-02
 * Octopath Traveler
 The game that made me realize how little patience I have for most JRPGs' storytelling. Classic combat, banal plot. The true ending, which perhaps ties everything together, is hidden well and locked behind content I will never bother to slog through.
 
 3/5
+* TODO Pikmin 2
 * Pikmin 3 Deluxe
 Played entirely in coop mode.) Enjoyable light RTS/action/puzzler that unfortunately ends with a supremely unsatisfying difficulty spike.
 
@@ -362,7 +428,10 @@ Packed to the gills with challenges, from flying through rings to using missiles
 A handheld game for the final handheld era. A little too simple, but not so much that it's not still fun to try to score higher.
 
 3/5
+* TODO Plants vs Zombies
 * TODO Pokémon
+* TODO Pokémon Pinball
+* TODO Pokémon Stadium
 * Portal
 The surprise hit from /The Orange Box/. Clever and witty and writing and gameplay.
 
@@ -375,10 +444,13 @@ Valve's painstakingly detailed playtesting pays off in that there are 0 rough ed
 The game that made me realize I like Tetris. Puyo Puyo I can take or leave, but combining the two in local multiplayer with other novices is a real "pat your head and rub your belly" competition. 
 
 4/5
+* TODO Rayman 2: The Great Escape
 * Rayman Legends: Definitive Edition
 A platformer for the platformer fan. Really impressed by the amount of content, with enough ideas to stay fresh throughout.
 
 4/5
+* TODO Rayman Raving Rabbids
+* TODO Red Faction: Guerrilla
 * Resident Evil 4
 Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is fun, if dated.
 
@@ -391,6 +463,7 @@ One of the more tolerable modern open-world action games. Combat, crafting, stea
 Multiplayer car soccer/rugby that's dumb fun at all levels, with an impressively high skill ceiling.
 
 4/5
+* TODO Saints Row 2
 * Sekiro: Shadows Die Twice
 They tell me that I need to get good and spend a few days mastering the dance of its combat. I don't find that fun, and my video game time is limited enough that I don't want to. Very disappointed. The experience would not have been ruined with difficulty options, but many more people would have been able to access it and enjoy zipping around a gorgeous world as a ninja. Isn't that what we all want?
 
@@ -399,6 +472,10 @@ They tell me that I need to get good and spend a few days mastering the dance of
 Emblematic of the best of the Xbox Live Arcade, any fan of Metroidvanias should play it.
 
 4/5
+* Shadow of the Colossus
+Where /ICO/ fails as a game, /Shadow of the Colossus/ makes some concessions to its vision (look, a HUD!) to more than make up for it with this classic. Every colossus is an intricate puzzle, and the sense of scale, the physics as Wander gets tossed around, and the epic score all combine for an unforgettable experience. Of all the usual "games as art" suspects, /Shadow of the Colossus/ is perhaps the strongest on the gameplay front.
+
+5/5
 * Shadow of the Tomb Raider
 The puzzling is great, it's just surrounded by an eye-rollingly poor story and mediocre combat. The dissonance between Lara's development as a stone-cold killer who must save the world and the tender-hearted young woman who takes the time to help a young boy get his dice back is immersion-breaking.
 
@@ -421,6 +498,7 @@ You know what, just look at the /VI/ review.
 Having never gotten especially good at Civ, it's still a shockingly addictive set of systems, but I find it overwhelming and prefer smaller, more tactical experiences.
 
 4/5
+* TODO Skate
 * Skate 3
 Played on hardcore, it is equal parts frustrating and rewarding. Some of the missions and goals are boring or too hard, but it will always be cool to find a spot and nail the perfect line.
 
@@ -433,6 +511,11 @@ Enemy intentions are a fantastic mechanic, and it's probably no coincidence that
 A favorite for couch coop. Adorable and requires all players to contribute.
 
 4/5
+* TODO Snowboard Kids
+* Sonic Adventure
+Unredeemable. There was no part of this I enjoyed.
+
+1/5
 * Sonic Colors (DS)
 Serviceable 2D /Sonic/.
 
@@ -441,30 +524,26 @@ Serviceable 2D /Sonic/.
 The platonic ideal Sonic game, with delightful throwback graphics and soundtrack with top-notch level design. Unfortunately, the Sonic formula is fundamentally flawed. The game wants you to fly through levels, but without replaying and memorizing levels, the gameplay is either effectively an autoscroller or failing to go fast by hitting obstacles or falling.
 
 4/5
-* Sonic Adventure
-Unredeemable. There was no part of this I enjoyed.
-
-1/5
-* South Park: The Stick of Truth
-As a playable /South Park/, very funny and worthwhile. More of a joke RPG than a real RPG though.
-
-4/5
+* Sonic the Hedgehog 2
+* Sonic the Hedgehog 3
 * South Park: The Fractured But Whole
 A bit less funny than its predecessor, but with a massively more interesting combat system. The difficulty slider is one of my favorite bits of social commentary the show has done.
+
+4/5
+* South Park: The Stick of Truth
+As a playable /South Park/, very funny and worthwhile. More of a joke RPG than a real RPG though.
 
 4/5
 * Splatoon 2
 I'm generally not big on multiplayer shooters, but the lack of a deathmatch and the weapon variety, as well as the new PVE mode, kept me coming back. Underrated soundtrack reminiscient of The Go! Team.
 
 4/5
-* The Stanley Parable
-An amusing meta-commentary art game/walking simulator. Has something to say and succeeds in conveying it.
-
-5/5
+* TODO 'Splosion Man
 * Stardew Valley
 When I had about 30 minutes before bed after struggling with problem sets all day in my first year of grad school, I would go to a simpler place, where life was a jam-packed gameplay loop of farming, fishing, foraging, and friendship. And the later addition of coop made for one of my favorite couple's games.
 
 4/5
+* TODO Star Fox 64
 * Star Wars: Knights of the Old Republic
 It's very dated, coming from the olden days of BioWare, but it's also one of the better /Star Wars/ story in the entire Expanded Universe (before Disney killed it).
 
@@ -481,10 +560,25 @@ There's not a bad SteamWorld game out there, and this is an unremarkable (but fu
 XCOM/ meets /Worms/ does it for me.
 
 4/5
+* TODO Strider
+* SUPERHOT
+Ostensibly a shooter, but the central conceit of a shooter where time only passes when you move ends up making it more of a puzzler. The story gets in the way a bit and is nowhere close to as clever as it thinks it is. Completely superseded by its VR version.
+
+3/5
+* SUPERHOT: MIND CONTROL DELETE
+A roguelike SUPERHOT is a great concept, but the lack of content and amount of replaying levels necessary upon failure made me lose interest.
+
+2/5
+* SUPERHOT VR
+It's /The Matrix/ in a game, with the immediacy and intuitiveness afford by VR. By far, the coolest I have ever felt while playing a video game. ("Felt" is doing a lot of work in that sentence. I've seen video of me playing.)
+
+5/5
 * Super Mario 3D Land
 As inoffensive and uninspired as the worst of the /NSMB/ games.
 
 3/5
+* TODO Super Mario 64
+* TODO Super Mario 64 DS
 * Super Mario Bros.
 One of my hottest takes is that by modern standards, the series was unplayable until /Super Mario Bros. 3/. Movement is just too clunky. "Modern" does a lot of work there though, I loved the Game Boy Color port as a kid.
 
@@ -497,42 +591,90 @@ It would be incredibly unfair to compare it unfavorably to its direct sequel, as
 The best of the mainline games? Higher difficulty and no fluff make a convincing argument.
 
 5/5
+* TODO Super Mario Land 2: 6 Golden Coins
 * Super Mario Odyssey
 Fun (and stars) in every carefully crafted nook and cranny.
 
 5/5
+* TODO Super Mario Sunshine
 * Super Meat Boy
 I'm fine with tough games with instant retries and short levels or checkpoints. Impeccable movement, and one of the best pure platformers the medium has seen.
 
 5/5
+* TODO Super Monkey Ball
+* TODO Super Monkey Ball: Banana Blitz
+* TODO Super Paper Mario
+* Super R.C. Pro-Am
 * Super Smash Bros. (3DS)
 An impressive technical achievement, scaling the full /SSB4/ experience onto a handheld. Single-player not as compelling as /Ultimate/'s, and the level 9 AI in particular is notorious for reading inputs.
 
 4/5
+* TODO Super Smash Bros. Brawl
+* TODO Super Smash Bros. Melee
+* TODO Super Smash Bros. (N64)
 * Super Smash Bros. Ultimate
 I'm not a fan of fighting games, but I make an exception for /SSB/. Lives up to its title in terms of content. An epic love letter to all of video gaming, and a fun, frantic fighter to boot.
 
-5/5
+5/5pp
 * Super Street Fighter IV
 Won't make any new fans of the fighting genre, but the best since /II/.
 
 3/5
-* SUPERHOT
-Ostensibly a shooter, but the central conceit of a shooter where time only passes when you move ends up making it more of a puzzler. The story gets in the way a bit and is nowhere close to as clever as it thinks it is. Completely superseded by its VR version.
+* TODO Team Fortress 2
+* The Binding of Isaac: Rebirth
+My favorite roguelike on the strength of its variety of content, in spite of its complete indifference towards fairness or balance and distasteful themes. The various expansions have only added to the sheer amount of stuff, but the many new paths and bosses bloat the game somewhat, and 60+ minute runs completely overstay their welcome.
+
+4/5
+* The Elder Scrolls V: Skyrim
+An open-world timesink. There are better RPGs on tables and on screens and the world is soulless, with all your accomplishments feeling hollow as the game barely acknowledges them.
 
 3/5
-* SUPERHOT VR
-It's /The Matrix/ in a game, with the immediacy and intuitiveness afford by VR. By far, the coolest I have ever felt while playing a video game. ("Felt" is doing a lot of work in that sentence. I've seen video of me playing.)
+* TODO The Legend of Zelda: A Link Between Worlds
+* The Legend of Zelda: Breath of the Wild
+If I could /Eternal Sunshine of the Spotless Mind/ myself for any game, it would be this one. I have not felt this childlike sense of wonder in a game since I was a literal child.
 
 5/5
-* SUPERHOT: MIND CONTROL DELETE
-A roguelike SUPERHOT is a great concept, but the lack of content and amount of replaying levels necessary upon failure made me lose interest.
+* TODO The Legend of Zelda: Link's Awakening (2019)
+* The Legend of Zelda: Ocarina of Time
+A landmark in gaming and an epic adventure even today. The low framerate is awful, but the 3DS port solves that.
 
-2/5
+4/5
+* The Legend of Zelda: Phantom Hourglass
+I could do without the repetitive parts, but it's a full Zelda experience well adapted to the DS.
+
+4/5
+* The Legend of Zelda: Skyward Sword
+Much has been written about how the game treats the player like an idiot, and it does. I am firmly in the camp that the motion controls here are actively user hostile and was frustrated far more than I was impressed. A handful of good dungeons and bosses with doldrums between them.
+
+3/5
+* The Legend of Zelda: Spirit Tracks
+/Phantom Hourglass/ with less of the sucky parts. No one ever talks about the DS games, and it's weird to remember that there's a /Zelda/ game about trains.
+
+4/5
+* The Legend of Zelda: The Minish Cap
+Nintendo let Capcom take the wheel and was rewarded with one of the better 2D efforts in the series. Gorgeous art and sprites.
+
+4/5
+* The Legend of Zelda: Twilight Princess
+* TODO The Sims
+* The Stanley Parable
+An amusing meta-commentary art game/walking simulator. Has something to say and succeeds in conveying it.
+
+5/5
+* TODO The Urbz: Sims in the City (DS)
+* TODO The World Ends With You
 * Tomb Raider (2013)
 Harping on /Tomb Raider/ for ludonarrative dissonance is like shooting fish in a barrel, but was there really no one in testing who found it jarring that immediately after innocent Lara kills a human for the first time in a cutscene, I'm getting bonus points for headshots? A fun cast of characters anchors the story until it decides to go all-in on the supernatural.
 
 4/5
+* TODO Tony Hawk's American Sk8land (DS)
+* Tony Hawk's Pro Skater 3
+I owned this game before I had a memory card for my PS2, and with an hour limit on screen time per day, I got pretty good at getting through most or all of the campaign in that time. Conveniently, that plays to its strengths of fast, technical arcade skating designed to be replayed.
+
+4/5
+* TODO Tony Hawk's Underground
+* TODO Tony Hawk's Underground 2
+* TODO Trauma Center: Second Opinion
 * Trials HD
 Challenging and rewarding physics motorcycle game. Significantly replayable.
 
@@ -561,10 +703,14 @@ There's no reason to go back when /Wii Sports Resort/ exists (unless you really 
 It's a dated tech demo in a world with today's VR systems, and yet it was an easy multiplayer hit with casuals. Nintendo didn't have to put as much love into its world (there's a whole island, and every event takes place somewhere on it in a cohesive world!) or Mii integration, but they did. Surprising depth to some of the games like golf and bowling.
 
 5/5
+* TODO World of Goo
+* TODO Worms Blast
+* Worms Forts: Under Siege
 * Worms Reloaded
 Honestly, its greatest sin is not being /Worms World Party/, the apex of the series.
 
 3/5
+* TODO Worms World Party
 * XCOM 2
 It takes /Enemy Unknown/, improves the good parts, and strips out as much of the boring strategic layer as it can. My favorite turn-based tactics game of all time. Huge replayability thanks to the randomized levels, soldiers, and enemies (the latter in the /War of the Chosen/ expansion, which is vital). I live for those turns where the game becomes a challenge to somehow kill all the enemies, or even just survive, and it delivers in spades. Main weakness is the reverse difficulty curve.
 
@@ -585,3 +731,6 @@ I played this during the first year of my PhD, perhaps the last time I'll be wil
 What if we took Banjo-Kazooie and removed the tight level design for vast, barren worlds? The version I played at launch was buggy and had a camera that was downright hostile to the player.
 
 2/5
+
+* TODO Yoshi's Island DS
+* TODO Yoshi's Story
