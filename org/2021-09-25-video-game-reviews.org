@@ -27,7 +27,10 @@ The main thing going for it is that it came out at a time when the Switch had al
 If it were free, people would still be playing this. Instead, it's a dead game. Drafting was a delight, constructed was pay-to-win, much like Richard Garfield's most famous card game. Made good use of the digital space with its mechanics, and I would have loved to have seen what they had for future card sets. Some very frustrating randomness.
 
 4/5
-* TODO Assassin's Creed
+* Assassin's Creed
+I do not enjoy sitting on benches in a very pretty rendition of the Middle East. Where are all the assassinations? What's with the modern-day segments? (A question I'm told is still asked about the other 20ish games.)
+
+3/5
 * TODO Awesomenauts
 * BaBa Is You
 Ingenious. Breaks my brain. Got stuck at some point and have no desire to go back, though.
@@ -118,6 +121,10 @@ Punishing, but amenable to a variety of different approaches. Frustrating, but t
 4/5
 * Dead Cells
 It's put together well, it has a good amount of content, it's a satisfying combination of adrenaline and endorphins. But you die so quickly that I lost interest after beating the base difficulty.
+
+3/5
+* Demon's Souls
+A worse version of /Dark Souls/, especially with the lack of the bonfire system. An egregious incident that stands out is backing away from a dangerous enemy to heal, only to exit lock-on range and have my character turn around and die instantly to a ranged attack I would have blocked with my shield just moments ago. "That's /Souls/ games for you!" someone on the Internet gleefully exclaims. But with a job and other games to play I find that I, much like Mr. Bond, have no time to die.
 
 3/5
 * Deus Ex: Human Revolution
@@ -250,8 +257,14 @@ I don't even like racing games and this one is still perfect. Not as hard as I r
 5/5
 * TODO Geometry Wars: Retro Evolved 2
 * Ghouls 'n Ghosts'
-* TODO Golden Sun
-* TODO Golden Sun: The Lost Age
+* Golden Sun
+Very derivative of its SNES JRPG ancestors. Amazing graphics for the system, and Sakuraba did an excellent job on the soundtrack. Too easy.
+
+3/5
+* Golden Sun: The Lost Age
+It's incredible that all this fit onto the GBA. Bigger and better in almost every way from its predecessor, especially in its puzzles. Does suffer a bit from its scope, especially for those who want to collect all the Djinn (it's an old JRPG, just use a walkthrough and move on).
+
+4/5
 * Golf Story
 Finally, the spiritual successor to the GBC /Mario Golf/ I've been waiting for. Constantly amusing, no more, no less.
 
