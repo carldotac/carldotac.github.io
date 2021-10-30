@@ -26,6 +26,9 @@ navbar-links:
   CV: "carl_lieberman_cv.pdf"
   Research: "research"
   Teaching: "teaching"
+  Game Reviews:
+    - Board Games: "board-game-reviews"
+    - Video Games: "video-game-reviews"
 #  Blog: "blog"
 
 # Image to show in the navigation bar - image must be a square (width = height)
