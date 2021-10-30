@@ -266,7 +266,6 @@ A model for modern roguelikes with good reason. Many paths to victory, though wi
 I don't even like racing games and this one is still perfect. Not as hard as I remember it being as a kid, and I had a blast beating all the cups and missions as an adult. How did they get a Gamecube game to look this good at an unflappable 60 FPS? Don't blink and drive.
 
 5/5
-* Ghouls 'n Ghosts'
 * Golden Sun
 Very derivative of its SNES JRPG ancestors. Amazing graphics for the system, and Sakuraba did an excellent job on the soundtrack. Too easy.
 
@@ -625,8 +624,6 @@ Serviceable 2D /Sonic/.
 The platonic ideal Sonic game, with delightful throwback graphics and soundtrack with top-notch level design. Unfortunately, the Sonic formula is fundamentally flawed. The game wants you to fly through levels, but without replaying and memorizing levels, the gameplay is either effectively an autoscroller or failing to go fast by hitting obstacles or falling.
 
 4/5
-* Sonic the Hedgehog 2
-* Sonic the Hedgehog 3
 * South Park: The Fractured But Whole
 A bit less funny than its predecessor, but with a massively more interesting combat system. The difficulty slider is one of my favorite bits of social commentary the show has done.
 
