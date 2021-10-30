@@ -11,13 +11,13 @@ But blogs are dynamic, and require much more background logic to manage.
 I made my hosting and content management decisions very deliberately, and I wanted to do a rundown of my setup in case anyone else finds it useful.
 </p>
 
-<div id="outline-container-org57ab787" class="outline-2">
-<h2 id="org57ab787">My Needs</h2>
-<div class="outline-text-2" id="text-org57ab787">
+<div id="outline-container-org807bf26" class="outline-2">
+<h2 id="org807bf26">My Needs</h2>
+<div class="outline-text-2" id="text-org807bf26">
 </div>
-<div id="outline-container-orgd2b9d69" class="outline-3">
-<h3 id="orgd2b9d69">Emacs at the Center</h3>
-<div class="outline-text-3" id="text-orgd2b9d69">
+<div id="outline-container-orgc6f9e60" class="outline-3">
+<h3 id="orgc6f9e60">Emacs at the Center</h3>
+<div class="outline-text-3" id="text-orgc6f9e60">
 <p>
 <a href="https://www.gnu.org/software/emacs/">Emacs</a> is an interesting piece of software for its versatility.
 I've used it for <a href="https://www.xkcd.com/224/">Lisp</a> development, <a href="https://www.gnu.org/software/emms/">playing music</a>, <a href="https://www.gnu.org/software/emacs/manual/html_mono/erc.html">chatting on IRC</a>, and dozens of other needs.<sup><a id="fnr.1" class="footref" href="#fn.1">1</a></sup>
@@ -28,9 +28,9 @@ WordPress has caused me to lose patience with browser-based WYSIWYG editors.
 </p>
 </div>
 </div>
-<div id="outline-container-org6773b17" class="outline-3">
-<h3 id="org6773b17">Self-Contained&#x2026;Sort of</h3>
-<div class="outline-text-3" id="text-org6773b17">
+<div id="outline-container-org4425381" class="outline-3">
+<h3 id="org4425381">Self-Contained&#x2026;Sort of</h3>
+<div class="outline-text-3" id="text-org4425381">
 <p>
 I use several computers, and I value my time.
 I maintain my Emacs config across machines, but the last thing I'm looking for is to manually download unsupported tarballs and rejigger some Ruby blogging environment on each computer.
@@ -40,9 +40,9 @@ Dealbreaker.
 </p>
 </div>
 </div>
-<div id="outline-container-org7a51114" class="outline-3">
-<h3 id="org7a51114">Cost</h3>
-<div class="outline-text-3" id="text-org7a51114">
+<div id="outline-container-orgeafbaaf" class="outline-3">
+<h3 id="orgeafbaaf">Cost</h3>
+<div class="outline-text-3" id="text-orgeafbaaf">
 <p>
 Cheap is good.
 Free (as in beer) is better.
@@ -51,9 +51,9 @@ I already sprung for the <a href="https://en.wikipedia.org/wiki/Ascension_Island
 </div>
 </div>
 </div>
-<div id="outline-container-org887bb72" class="outline-2">
-<h2 id="org887bb72">GitHub Pages</h2>
-<div class="outline-text-2" id="text-org887bb72">
+<div id="outline-container-orgbecc1f5" class="outline-2">
+<h2 id="orgbecc1f5">GitHub Pages</h2>
+<div class="outline-text-2" id="text-orgbecc1f5">
 <p>
 <a href="https://pages.github.com/">GitHub Pages</a> is a slick way to use <a href="http://jekyllrb.com/">Jekyll</a>, a snappy and beautiful static site generator, while abstracting away all of the nitty gritty.
 There's a large community around the product, which has led to the development of some wonderful starter kits that amount to:
@@ -76,9 +76,9 @@ My greatest complaint is what while custom domains are supported, they do not cu
 <a href="https://pages.gitlab.io/">GitLab Pages</a> is a similar offering with more features and flexibility, but I am not aware of a setup as painless as the above, as when I looked it required much more configuration.
 </p>
 </div>
-<div id="outline-container-org426514b" class="outline-3">
-<h3 id="org426514b">Version Control (Magit)</h3>
-<div class="outline-text-3" id="text-org426514b">
+<div id="outline-container-orgf45ba99" class="outline-3">
+<h3 id="orgf45ba99">Version Control (Magit)</h3>
+<div class="outline-text-3" id="text-orgf45ba99">
 <p>
 Predictably, GitHub Pages usage revolves around Git.
 It's probably good practice for a personal website to live inside a version control system, preventing me from breaking anything too badly, and GitHub Pages makes it a prerequisite.
@@ -90,9 +90,9 @@ Hooray!
 </div>
 </div>
 </div>
-<div id="outline-container-org2d68e27" class="outline-2">
-<h2 id="org2d68e27">Org</h2>
-<div class="outline-text-2" id="text-org2d68e27">
+<div id="outline-container-orgfdd044e" class="outline-2">
+<h2 id="orgfdd044e">Org</h2>
+<div class="outline-text-2" id="text-orgfdd044e">
 <p>
 If you ask people what the killer feature of Emacs is, the two answers you'll hear most often are its hackability through Lisp and Org-mode.
 Some people live their lives out of Org files.
@@ -105,9 +105,9 @@ If you need a reference, the <a href="http://orgmode.org/manual/">manual</a> is 
 I'm just going to talk about some of the more intermediate functionality I use in this blog.
 </p>
 </div>
-<div id="outline-container-orged1a84e" class="outline-3">
-<h3 id="orged1a84e">Exporting to Jekyll</h3>
-<div class="outline-text-3" id="text-orged1a84e">
+<div id="outline-container-org5b6a325" class="outline-3">
+<h3 id="org5b6a325">Exporting to Jekyll</h3>
+<div class="outline-text-3" id="text-org5b6a325">
 <p>
 Org-mode has robust exporting capabilities.
 And <a href="http://orgmode.org/worg/org-tutorials/org-jekyll.html">very thorough documentation, even for niche cases like this</a>.
@@ -116,19 +116,19 @@ Org-exports to HTML, but to run a blog requires slightly more work.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-emacs-lisp">(<span style="color: #4f97d7; font-weight: bold;">setq</span> org-publish-project-alist
-      '((<span style="color: #2d9574;">"carl.ac"</span>
-         <span style="color: #2aa1ae;">;; </span><span style="color: #2aa1ae;">Path to org files.</span>
-         <span style="color: #4f97d7;">:base-directory</span> <span style="color: #2d9574;">"~/carldotac.github.io/org"</span>
-         <span style="color: #4f97d7;">:base-extension</span> <span style="color: #2d9574;">"org"</span>
+<pre class="src src-emacs-lisp">(<span style="color: #51afef; font-weight: bold;">setq</span> org-publish-project-alist
+      '((<span style="color: #98be65;">"carl.ac"</span>
+         <span style="color: #5B6268;">;; </span><span style="color: #5B6268;">Path to org files.</span>
+         <span style="color: #c678dd;">:base-directory</span> <span style="color: #98be65;">"~/carldotac.github.io/org"</span>
+         <span style="color: #c678dd;">:base-extension</span> <span style="color: #98be65;">"org"</span>
 
-         <span style="color: #2aa1ae;">;; </span><span style="color: #2aa1ae;">Path to Jekyll Posts</span>
-         <span style="color: #4f97d7;">:publishing-directory</span> <span style="color: #2d9574;">"~/carldotac.github.io/_posts/"</span>
-         <span style="color: #4f97d7;">:recursive</span> t
-         <span style="color: #4f97d7;">:publishing-function</span> org-html-publish-to-html
-         <span style="color: #4f97d7;">:headline-levels</span> 4
-         <span style="color: #4f97d7;">:html-extension</span> <span style="color: #2d9574;">"html"</span>
-         <span style="color: #4f97d7;">:body-only</span> t
+         <span style="color: #5B6268;">;; </span><span style="color: #5B6268;">Path to Jekyll Posts</span>
+         <span style="color: #c678dd;">:publishing-directory</span> <span style="color: #98be65;">"~/carldotac.github.io/_posts/"</span>
+         <span style="color: #c678dd;">:recursive</span> t
+         <span style="color: #c678dd;">:publishing-function</span> org-html-publish-to-html
+         <span style="color: #c678dd;">:headline-levels</span> 4
+         <span style="color: #c678dd;">:html-extension</span> <span style="color: #98be65;">"html"</span>
+         <span style="color: #c678dd;">:body-only</span> t
          )))
 </pre>
 </div>
@@ -147,7 +147,7 @@ Post metadata is fairly self-explanatory.
 Jekyll has a certain format, and I put a block like this at the top of each post so that Org will leave it alone in the export.
 </p>
 
-<pre class="example">
+<pre class="example" id="org2ebf750">
 #+OPTIONS: toc:nil num:nil
 #+BEGIN_EXPORT html
 ---
@@ -161,16 +161,16 @@ tags: [emacs]
 </div>
 </div>
 
-<div id="outline-container-org1cdd91d" class="outline-3">
-<h3 id="org1cdd91d">Code</h3>
-<div class="outline-text-3" id="text-org1cdd91d">
+<div id="outline-container-orgfca2ac9" class="outline-3">
+<h3 id="orgfca2ac9">Code</h3>
+<div class="outline-text-3" id="text-orgfca2ac9">
 <p>
 Org's support for code blocks is outstanding, with all the languages I'm ever going to use, but I don't need <a href="https://en.wikipedia.org/wiki/Literate_programming">literate programming</a> features here.
 I just want syntax highlighting, which requires blocks (and maybe also the <a href="https://github.com/hniksic/emacs-htmlize">htmlize</a> package&#x2013;if it's not working, install that).
 This
 </p>
 
-<pre class="example">
+<pre class="example" id="org57ad515">
 #+BEGIN_SRC R
 players &lt;- read.csv("offensive_stats_2016.csv", header=TRUE, sep=",")
 #+END_SRC
@@ -181,21 +181,21 @@ becomes this.
 </p>
 
 <div class="org-src-container">
-<pre class="src src-R">players <span style="color: #ce537a; font-weight: bold;">&lt;-</span> read.csv(<span style="color: #2d9574;">"offensive_stats_2016.csv"</span>, header=<span style="color: #a45bad;">TRUE</span>, sep=<span style="color: #2d9574;">","</span>)
+<pre class="src src-R">players <span style="color: #ce537a; font-weight: bold;">&lt;-</span> read.csv(<span style="color: #98be65;">"offensive_stats_2016.csv"</span>, header=<span style="color: #a9a1e1;">TRUE</span>, sep=<span style="color: #98be65;">","</span>)
 </pre>
 </div>
 </div>
 </div>
-<div id="outline-container-orge392b30" class="outline-3">
-<h3 id="orge392b30">Links and Images</h3>
-<div class="outline-text-3" id="text-orge392b30">
+<div id="outline-container-orge4433ac" class="outline-3">
+<h3 id="orge4433ac">Links and Images</h3>
+<div class="outline-text-3" id="text-orge4433ac">
 <p>
 Inserting a <a href="https://en.wikipedia.org/wiki/Link_(The_Legend_of_Zelda)">link</a> is easy.
 <code>C-c-l</code> calls <code>org-insert-link</code>, which will ask for a link (which supports a number of protocols, not just http/https) and then the text to link.
 If you're not into letting Emacs improve your workflow, the underlying syntax is as follows.
 </p>
 
-<pre class="example">
+<pre class="example" id="org98b6c8e">
 [[https://www.youtube.com/watch?v=gjHOtxCRhnw][Mattingly's finest hour]]
 </pre>
 
@@ -206,7 +206,7 @@ Images are inserted with a path in double brackets, and since I have an image di
 So to show off my devilishly handsome mug, I invoke <code>counsel-find-file</code>, navigate to the desired photo, and use a <a href="https://www.emacswiki.org/emacs/InsertFileName">special function</a> to insert the relative file path (I use the Ivy code, which does all the hard stuff to insert an image), and then
 </p>
 
-<pre class="example">
+<pre class="example" id="orged1d13c">
 [[../img/avatar-icon.png]]
 </pre>
 
@@ -215,22 +215,22 @@ becomes me.
 </p>
 
 
-<div class="figure">
+<div id="org1c7a75d" class="figure">
 <p><img src="../img/avatar-icon.png" alt="avatar-icon.png" />
 </p>
 </div>
 </div>
 </div>
-<div id="outline-container-orgce32c76" class="outline-3">
-<h3 id="orgce32c76">Tables</h3>
-<div class="outline-text-3" id="text-orgce32c76">
+<div id="outline-container-orgaeb5503" class="outline-3">
+<h3 id="orgaeb5503">Tables</h3>
+<div class="outline-text-3" id="text-orgaeb5503">
 <p>
 Org's table editor is excellent and I have a habit of inserting the plain text tables into emails and the like.<sup><a id="fnr.2" class="footref" href="#fn.2">2</a></sup>
 It exports beautifully to HTML.
 Invoke <code>M-x org-table-create</code> and then this
 </p>
 
-<pre class="example">
+<pre class="example" id="orge3b94a8">
 | Player       | Games |  fWAR |
 |--------------+-------+-------|
 | Babe Ruth    |  2503 | 168.4 |
@@ -299,9 +299,9 @@ When editing the tables, Org can automatically realign the plain text columns wi
 </p>
 </div>
 </div>
-<div id="outline-container-org064e492" class="outline-3">
-<h3 id="org064e492">Footnotes: Not Just for Academic Papers!</h3>
-<div class="outline-text-3" id="text-org064e492">
+<div id="outline-container-orgd9955af" class="outline-3">
+<h3 id="orgd9955af">Footnotes: Not Just for Academic Papers!</h3>
+<div class="outline-text-3" id="text-orgd9955af">
 <p>
 I might<sup><a id="fnr.3" class="footref" href="#fn.3">3</a></sup> abuse footnotes.
 Why wouldn't I, when they're this easy?
@@ -311,9 +311,9 @@ Plus <code>M-x org-footnote-renumber-fn:N</code> can renumber and reorder your f
 </div>
 </div>
 </div>
-<div id="outline-container-org83b8f91" class="outline-2">
-<h2 id="org83b8f91">Concluding Comments</h2>
-<div class="outline-text-2" id="text-org83b8f91">
+<div id="outline-container-orgf8ba7c1" class="outline-2">
+<h2 id="orgf8ba7c1">Concluding Comments</h2>
+<div class="outline-text-2" id="text-orgf8ba7c1">
 <p>
 Despite the number of moving pieces here, this setup has an ideal balance of simplicity in both setup and use.
 Maintenance, including security, is completely hands off, writing posts with all sorts of content is painless thanks to Emacs integration.

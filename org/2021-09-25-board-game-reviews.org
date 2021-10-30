@@ -3,7 +3,7 @@
 ---
 layout: post
 title: "Board Game Reviews"
-permalink: /:title/
+permalink: /board-game-reviews/
 tags: [reviews, board games]
 ---
 #+END_EXPORT

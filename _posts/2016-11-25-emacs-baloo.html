@@ -34,21 +34,21 @@ Here's the resulting code:
 </p>
 
 <div class="org-src-container">
-<pre class="src src-emacs-lisp">(<span style="color: #4f97d7; font-weight: bold;">defun</span> <span style="color: #bc6ec5; font-weight: bold;">baloo-search</span> (query)
-  <span style="color: #9f8766;">"Search for files matching QUERY using Baloo."</span>
-  (<span style="color: #4f97d7; font-weight: bold;">interactive</span> <span style="color: #2d9574;">"MSearch: "</span>)
-  (<span style="color: #4f97d7; font-weight: bold;">setq</span> query (butlast
+<pre class="src src-emacs-lisp">(<span style="color: #51afef; font-weight: bold;">defun</span> <span style="color: #c678dd; font-weight: bold;">baloo-search</span> (query)
+  <span style="color: #83898d;">"Search for files matching QUERY using Baloo."</span>
+  (<span style="color: #51afef; font-weight: bold;">interactive</span> <span style="color: #98be65;">"MSearch: "</span>)
+  (<span style="color: #51afef; font-weight: bold;">setq</span> query (butlast
                (split-string
                 (shell-command-to-string
                  (mapconcat 'identity
-                            (list <span style="color: #2d9574;">"baloosearch"</span>(shell-quote-argument query))
-                            <span style="color: #2d9574;">" "</span>)) <span style="color: #2d9574;">"\n"</span> t) 1))
-  (<span style="color: #4f97d7; font-weight: bold;">if</span> (eq (safe-length query) 0)
-      (<span style="color: #dc752f; background-color: #292b2e;">error</span> <span style="color: #2d9574;">"No matches"</span>))
+                            (list <span style="color: #98be65;">"baloosearch"</span>(shell-quote-argument query))
+                            <span style="color: #98be65;">" "</span>)) <span style="color: #98be65;">"\n"</span> t) 1))
+  (<span style="color: #51afef; font-weight: bold;">if</span> (eq (safe-length query) 0)
+      (<span style="color: #dc752f; background-color: #292b2e;">error</span> <span style="color: #98be65;">"No matches"</span>))
   (find-file (completing-read
-              <span style="color: #2d9574;">"Select file: "</span>
+              <span style="color: #98be65;">"Select file: "</span>
               query
-              nil t <span style="color: #2d9574;">""</span>)))
+              nil t <span style="color: #98be65;">""</span>)))
 </pre>
 </div>
 
