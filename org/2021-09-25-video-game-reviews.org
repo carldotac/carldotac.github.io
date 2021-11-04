@@ -56,7 +56,13 @@ The best platformer on the N64, one which I still revisit on a quiet Saturday ev
 
 5/5
 * Battalion Wars
-* Battlefield 1943:
+It's a somewhat bizarre hybrid of RTS and shooter. The balance between the two gives a bit of a "rubbing your belly while patting your head" feel to help conceal the lack of depth of either, and especially the vehicles and aircraft are fun to control. Mission variety is also solid.
+
+4/5
+* Battlefield 1943
+A streamlined, or perhaps refined, multiplayer /Battlefield/ experience.
+
+4/5
 * Bayonetta
 I don't care for beat-em-ups, but it's fast, stylish, and different.
 
@@ -588,6 +594,9 @@ All four campaigns feel fresh and impeccably designed around each character's ab
 5/5
 * Sid Meier's Civilization IV
 You know what, just look at the /VI/ review.
+
+
+4/5
 * Sid Meier's Civilization V
 You know what, just look at the /VI/ review.
 
@@ -724,7 +733,6 @@ Is it a party game or the monkey-rolling equivalent of a precision platformer? I
 Why would you take a precision monkey-rolling game into a wonky motion-controlled exercise in frustration? With a jump button, no less.
 
 2/5
-* Super R.C. Pro-Am
 * Super Smash Bros. (3DS)
 An impressive technical achievement, scaling the full /SSB4/ experience onto a handheld. Single-player not as compelling as /Ultimate/'s, and the level 9 AI in particular is notorious for reading inputs.
 
