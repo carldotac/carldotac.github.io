@@ -56,7 +56,7 @@ The best platformer on the N64, one which I still revisit on a quiet Saturday ev
 
 5/5
 * Battalion Wars
-It's a somewhat bizarre hybrid of RTS and shooter. The balance between the two gives a bit of a "rubbing your belly while patting your head" feel to help conceal the lack of depth of either, and especially the vehicles and aircraft are fun to control. Mission variety is also solid.
+It's a somewhat bizarre hybrid of RTS and shooter. The balance between the two gives a bit of a "rubbing your belly while patting your head" feel to help conceal the lack of depth of either, and especially the vehicles and aircraft are fun to control. Mission variety is also respectable.
 
 4/5
 * Battlefield 1943
@@ -96,7 +96,7 @@ Casual beat 'em up simple enough for easy coop but with enough characters and ge
 
 4/5
 * Castle of Illusion Starring Mickey Mouse
-Once upon a time, licensed platformers were everywhere, and back in the late 80s and early 90s, many weren't half-bad. /Castle of Illusion/ stands out thanks to its all-over-the-place level themes and solid bounce-based platforming, a core revisited later by games like /Shovel Knight/.
+Once upon a time, licensed platformers were everywhere, and back in the late 80s and early 90s, many weren't half-bad. /Castle of Illusion/ stands out thanks to its all-over-the-place level themes and enjoyable bounce-based platforming, a core revisited later by games like /Shovel Knight/.
 
 4/5
 * Cave Story+
@@ -108,7 +108,7 @@ The absolute best 2D platforming has to offer. Tough as nails, but never frustra
 
 5/5
 * Clubhouse Games
-At the time, a collection of solid games, especially on the cards front (Spit, Hearts, President, Texas Hold 'Em, Spades, and Bridge stand out) with online play was genuinely notable. Easy to pick up and play, and nice touches like the music and achievements.
+At the time, a collection of perfectly cromulent games, especially on the cards front (Spit, Hearts, President, Texas Hold 'Em, Spades, and Bridge stand out) with online play was genuinely notable. Easy to pick up and play, and nice touches like the music and achievements.
 
 4/5
 * Clubhouse Games: 51 Worldwide Classics
@@ -253,7 +253,7 @@ Characterization is almost nonexistent, and the story does get a little too epic
 
 4/5
 * Fire Emblem: Shadow Dragon
-What if we took a character-driven RPG and removed all of the characterization? Make sure that the graphics are soulless and the soundtrack is greating, too.
+What if we took a character-driven RPG and removed all of the characterization? (OK, the original didn't have much there either, but all /Fire Emblem/ games must be compared to /Path of Radiance/ so that they might be criticized for how they are not /Path of Radiance/.) Make sure that the graphics are soulless and the soundtrack is grating, too.
 
 2/5
 * Fire Emblem: The Sacred Stones
@@ -425,7 +425,7 @@ Charming action/puzzler. Next Level Games clearly put a lot of effort into the a
 
 4/5
 * Major League Baseball Featuring Ken Griffey Jr.
-Surprisingly solid arcadey baseball, but there's not much to keep you coming back.
+Surprisingly fun arcadey baseball, but there's not much to keep you coming back.
 
 3/5
 * Mario Golf (GBC)
@@ -441,7 +441,7 @@ The standard "I dunno, what do you wanna play" when hosting and playing video ga
 
 4/5
 * Mario Kart DS
-It's a solid entry in the series, but wireless local and online multiplayer were huge. This was the first time I ever played a game online outside of my home. I was at an airport and it blew my mind. Now we live in a world where I tether my Switch to my phone while on line at a restaurant to squeeze in some /Splatoon/ and support Team Ketchup.
+It's a fine entry in the series, but wireless local and online multiplayer were huge. This was the first time I ever played a game online outside of my home. I was at an airport and it blew my mind. Now we live in a world where I tether my Switch to my phone while on line at a restaurant to squeeze in some /Splatoon/ and support Team Ketchup.
 
 4/5
 * Mario Party
@@ -537,11 +537,11 @@ Stressed during my senior year of college, I decided that I'd try to complete th
 
 4/5
 * Pokémon Pinball
-I want to like it, collecting Pokémon is a solid hook for pinball, but wow, this game is punishing.
+I want to like it, collecting Pokémon is a great hook for pinball, but wow, this game is punishing.
 
 2/5
 * Pokémon Pinball: Ruby & Sapphire
-I want to like it, collecting Pokémon is a solid hook for pinball, but wow, this game is easy.
+I want to like it, collecting Pokémon is a great hook for pinball, but wow, this game is easy.
 
 2/5
 * Pokémon Sun/Moon
@@ -572,6 +572,10 @@ A platformer for the platformer fan. Really impressed by the amount of content, 
 Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is fun, if dated.
 
 4/5
+* Red Dead Redemption 2
+/RDR2/ is stunning. The scope is massive, making its obsessive details even more gratuitous. The sheer number of systems in the game make it feel almost like an immersive sim at times with a consistent internal logic, and I can point to any number of moments where they all came together for an experience few other open world games are capable of. The problem, then, is that there's barely a game in there, which really hurts over the course of a 50+ hour story. This is a Rockstar game, and most missions boil down to riding your horse somewhere or shooting comically large numbers of people, with entirely too many actions reduced to button prompts on a frustratingly inconsistent control scheme. At times, this feels like the world's most overproduced animated cowboy show. I won't say it doesn't respect the player's time, but it has a vision that results in very large amounts of downtime for the player. Nevertheless, the core systems of /RDR2/ are incredible, and especially when it gets out of its own way enough for the player to hunt down a perfect animal or make a clean robbery, it's one of the most fully realized digital worlds in gaming history. As an aside, Rockstar's DRM is awful, and on multiple occasions I've gone through the multi-minute song and dance of launching the game only to be told falsely that my account is not allowed to play. That plus the plodding pace make for a very high fixed cost to a play session.
+
+5/5
 * Rise of the Tomb Raider
 One of the more tolerable modern open-world action games. Combat, crafting, stealth, and the tombs are all adequate.
 
@@ -786,7 +790,7 @@ If I could /Eternal Sunshine of the Spotless Mind/ myself for any game, it would
 
 5/5
 * The Legend of Zelda: Link's Awakening (2019)
-The dungeons are solid, but it's a short game and the stuff in between them (looking at you, animal trade quest) drags. Why on earth can this not always maintain 60 FPS?
+The dungeons are tight, but it's a short game and the stuff in between them (looking at you, animal trade quest) drags. Why on earth can this not always maintain 60 FPS?
 
 3/5
 * The Legend of Zelda: Ocarina of Time
