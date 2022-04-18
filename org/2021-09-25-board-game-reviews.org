@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil num:nil
+#+OPTIONS: toc:nil num:nil ':t
 #+BEGIN_EXPORT html
 ---
 layout: post
@@ -8,7 +8,7 @@ tags: [reviews, board games]
 ---
 #+END_EXPORT
 * 7 Wonders Duel
-An impressive little game that somehow fits many of the highs of a game of /Sid Meier's Civilization/ into a fast-paced 30-minute drafting game. I enjoy the /Pantheon/ expansion for strengthening science and military while adding more interesting choices and effects, but it does make it more thinky and slows things down.
+An impressive little game that somehow fits many of the highs of a game of /Civilization/ into a fast-paced 30-minute drafting game. I enjoy the /Pantheon/ expansion for strengthening science and military while adding more interesting choices and effects, but it does make it more thinky and slows things down.
 
 4/5
 * Azul
