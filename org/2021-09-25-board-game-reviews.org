@@ -1,4 +1,4 @@
-#+OPTIONS: toc:nil num:nil ':t
+#+OPTIONS: toc:nil num:nil
 #+BEGIN_EXPORT html
 ---
 layout: post
