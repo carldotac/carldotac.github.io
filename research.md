@@ -7,6 +7,9 @@ title: Research
 [Variation in Racial Disparities in Police Use of Force](research/lieberman_police_force.pdf). Previous version: [Princeton Industrial Relations Section Working Paper #639](http://arks.princeton.edu/ark:/88435/dsp01h128nh61r).  
 [Visual Inference and Graphical Representation in Regression Discontinuity Designs](http://arks.princeton.edu/ark:/88435/dsp013j3335157) (with Christina Korting, Jordan Matsudaira, Zhuan Pei, and Yi Shen). Princeton Industrial Relations Section Working Paper #638.
 
+# Works in Progress
+The Impact of Criminal Fines on Labor Market Outcomes and Recidivism: A Multi-State Study (with Elizabeth Luh and Michael Mueller-Smith)  
+
 # Publications
 [Death, Bereavement, and Creativity](research/graddy-lieberman-death-bereavement-creativity.pdf) (with Kathryn Graddy)  
 *Management Science* (2018).  
