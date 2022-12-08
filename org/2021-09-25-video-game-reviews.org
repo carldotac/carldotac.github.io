@@ -251,16 +251,16 @@ Some RPGs boast of their player freedoms. /New Vegas/ walks the walk. Pacifist? 
 Gloriously imperfect. A captivating, epic JRPG that embodies the best and worst of the genre from this era. Some of Uematsu's finest scoring, a lovable crew of a cast, and the story all make for one heck of a ride. I will happily overlook the translation and graphics.
 
 5/5
+* Final Fantasy VIII
+The graphical leap over /VII/ was impressive, and the soundtrack is almost as good. Shame the combat is worse and the plot goes completely off the rails in the middle of the game. This is all exacerbated by Squall being completely unlikable.
+
+3/5
 * Final Fantasy VII Remake
 The highs are high, especially in the excellent closing sequence, but this makes it all the more frustrating that the game suffers from unnecessary padding and pacing issues. The presentation limits the effectiveness of its good dub with disconnects between the lines and animation, and characters often don't feel like they're talking to each other. Playable /Advent Children/ is great and all, and the characters are so much more expressive with voices and more polygons than I can count on my fingers alone, but I look at /Persona 5 Strikers/ and think of what could have been.
 
 4/5
 * Final Fantasy VII Remake Episode INTERmission
 Yuffie is vibrant, /FFVIIR/'s combat isn't fun enough to make this side story worthwhile, and this is one of the worst named games I have ever encountered.
-
-3/5
-* Final Fantasy VIII
-The graphical leap over /VII/ was impressive, and the soundtrack is almost as good. Shame the combat is worse and the plot goes completely off the rails in the middle of the game. This is all exacerbated by Squall being completely unlikable.
 
 3/5
 * Fire Emblem: Awakening
@@ -277,7 +277,7 @@ The series' black sheep is surprisingly excellent in its 3DS reimagining, featur
 
 2/5, 4/5, 2/5
 * Fire Emblem: Path of Radiance
-My introduction to the series, and still my favorite. A genuinely engaging story that stands on its own while setting up its sequel. Varied level design as well. Unit balance is poor, with Laguz being useless and paladins being grossly overpowered, and enemy phases are much too slow. But it's the writing that sets it apart. Characters all get time to exist as more than a set of stats with an equipped weapon, and the localization team actually made a character speak in iambic pentameter, which is a pretty bonkers amount of effort. 
+My introduction to the series, and still my favorite. A genuinely engaging story that stands on its own while setting up its sequel. Varied level design as well. Unit balance is poor, with Laguz being useless and paladins being grossly overpowered, and enemy phases are much too slow. But it's the writing that sets it apart. Characters all get time to exist as more than a set of stats with an equipped weapon, and the localization team actually made a character speak in iambic pentameter, which is a pretty bonkers amount of effort.
 
 5/5
 * Fire Emblem: Radiant Dawn
@@ -316,6 +316,10 @@ I don't even like racing games and this one is still perfect. Not as hard as I r
 A clone of the modern XCOM games. What it does better: encouraging a fast/aggressive playstyle and the overwatch system. What it does worse: repetitive side missions to pad its short length (this is a 10 hour game padded to more than 20, as of this writing I'm ambivalent as to whether it's worth another mind-numbing dozen side missions to play the remaining seven story levels), nonexistent strategic layer, slow experience growth, constantly replacing non-hero units with new recruits who come at higher levels, and being too easy (I played at the second-highest difficulty). But it's recognizably XCOM, and that's a good core, even if I don't bother coming back to it.
 
 4/5
+* God of War (2005)
+The beat 'em up mechanics are the best thing the original /God of War/ has to offer, but they're shallow and repetitive. Everything else here, like the actively un-fun platforming, tiring puzzles, an irritating love of quick time events, and mediocre story presented poorly, bring it down further. The cinematography, voice acting, and sexism are all offensive.
+
+2/5
 * Golden Sun
 Very derivative of its SNES JRPG ancestors. Amazing graphics for the system, and Sakuraba did an excellent job on the soundtrack. Too easy.
 
@@ -332,10 +336,6 @@ It's incredible that all this fit onto the GBA. Bigger and better in almost ever
 Finally, the spiritual successor to the GBC /Mario Golf/ I've been waiting for. Constantly amusing, no more, no less.
 
 4/5
-* God of War (2005)
-The beat 'em up mechanics are the best thing the original /God of War/ has to offer, but they're shallow and repetitive. Everything else here, like the actively un-fun platforming, tiring puzzles, an irritating love of quick time events, and mediocre story presented poorly, bring it down further. The cinematography, voice acting, and sexism are all offensive.
-
-2/5
 * Gone Home
 I went in blind, and remember everything of the experience. I'm sure it would feel dated or supplanted if I were to go back, but it's the kind of perspective and emotion more games need.
 
@@ -368,7 +368,7 @@ Beautifully woven story/gameplay interaction. While a great game, it's a rogueli
 A masterpiece. With better lighting and lip syncing, this could come out today and still be well received. The story is simple but executed well, the writing is great, and the gameplay is outstanding. Weapons, from the shotgun to the gravity gun, are satisfying. The pacing is the real star, especially with how it shifts between long stretches of isolation and segments with allies.
 
 5/5
-* Half-Life 2 Episode 1
+* Half-Life 2: Episode 1
 The weakest link in the /Half-Life 2/ series is still a good game, but the focus on urban combat isn't as interesting as what the others offer.
 
 4/5
@@ -376,10 +376,6 @@ The weakest link in the /Half-Life 2/ series is still a good game, but the focus
 A literal rbeath of fresh air as the adventure leaves City 17 while retaining everything that made /Half-Life 2/ great.
 
 5/5
-* Halo: Combat Evolved
-Long levels filled with repetition and backtracking. Does not hold up. Entirely supplanted by (most of) its sequels.
-
-2/5
 * Halo 2
 Makes a strong case for best campaign in the series. Imaginative settings, engaging combat that's slow enough to be tactical, and a multiplayer juggernaut.
 
@@ -394,6 +390,10 @@ While the concept of a /Halo/ game in an urban setting playing as non-Spartans i
 3/5
 * Halo 4
 Throws out the weapons and enemies that made Halo great. Apparently the story makes sense if you read a licensed companion novel, which I'm not doing for a /Halo/ game.
+
+2/5
+* Halo: Combat Evolved
+Long levels filled with repetition and backtracking. Does not hold up. Entirely supplanted by (most of) its sequels.
 
 2/5
 * Halo: Reach
@@ -436,12 +436,12 @@ Some interesting ideas for combat and story, but not enough for 20+ hours.
 A beautiful, poignant movie. As a game? Most of the puzzles are OK, but there's no reason for the combat other than to pad length.
 
 3/5
-* Into the Breach
-Almost pure tactics, with just enough management/strategy between to make it interesting, but not enough for greater replayability. Minor failures, like taking just one point of damage on an island and missing the bonus, don't feel good, and feedback isn't great for determining what you could have done better. Finally got its Advanced Edition update like /FTL/ before it, but that doesn't change the fundamentals.
-
-4/5
 * Inscryption
 As a card game in the /Slay the Spire/ mold, it's enjoyable, but the actually card battling is very narrow tactically, with most of the fun coming from finding ways to create overpowered cards, which is deliberately encouraged by the game. As a fourth wall-breaking subversive indie horror game, nothing felt particularly novel, and I might well have enjoyed the game more if it just wanted to be another roguelike deckbuilder.
+
+4/5
+* Into the Breach
+Almost pure tactics, with just enough management/strategy between to make it interesting, but not enough for greater replayability. Minor failures, like taking just one point of damage on an island and missing the bonus, don't feel good, and feedback isn't great for determining what you could have done better. Finally got its Advanced Edition update like /FTL/ before it, but that doesn't change the fundamentals.
 
 4/5
 * It Takes Two
@@ -473,7 +473,7 @@ Taught me more about physics than my entire formal education. I played in the Sc
 
 4/5
 * L.A. Noire
-As a technical experiment, a great success. As a game, not so much. The unnecessary driving and combat are obvious concessions to the /GTA/ crowd, your interviewee's tells are all too obvious, but mostly, I'm still annoyed at when the game withholds information from you in a case, lets you fail, and chews you out for it. Compare that with when I failed as a cop in /Disco Elysium/, which brought out real emotions and feelings of inadequacy, which the game was going for. 
+As a technical experiment, a great success. As a game, not so much. The unnecessary driving and combat are obvious concessions to the /GTA/ crowd, your interviewee's tells are all too obvious, but mostly, I'm still annoyed at when the game withholds information from you in a case, lets you fail, and chews you out for it. Compare that with when I failed as a cop in /Disco Elysium/, which brought out real emotions and feelings of inadequacy, which the game was going for.
 
 2/5
 * Luftrausers
@@ -537,7 +537,7 @@ There's a good game in here held back by frustrating difficulty and frequently o
 
 3/5
 * Middle Earth: Shadow of War
-A mechanically competent but utterly forgettable modern open world (and I do not use those three words positively) adventure. 
+A mechanically competent but utterly forgettable modern open world (and I do not use those three words positively) adventure.
 
 3/5
 * Minecraft
@@ -653,21 +653,21 @@ Old-school immersive sim. A damn smart game. Beautifully open, with some actuall
 
 5/5
 * Puyo Puyo Tetris
-The game that made me realize I like Tetris. Puyo Puyo I can take or leave, but combining the two in local multiplayer with other novices is a real "pat your head and rub your belly" competition. 
+The game that made me realize I like Tetris. Puyo Puyo I can take or leave, but combining the two in local multiplayer with other novices is a real "pat your head and rub your belly" competition.
 
 4/5
 * Rayman Legends: Definitive Edition
 A platformer for the platformer fan. Really impressed by the amount of content, with enough ideas to stay fresh throughout.
 
 4/5
-* Resident Evil 4
-Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is fun, if dated.
-
-4/5
 * Red Dead Redemption 2
 /RDR2/ is stunning. The scope is massive, making its obsessive details even more gratuitous. The sheer number of systems in the game make it feel almost like an immersive sim at times with a consistent internal logic, and I can point to any number of moments where they all came together for an experience few other open world games are capable of. The problem, then, is that there's barely a game in there, which really hurts over the course of a 50+ hour story. This is a Rockstar game, and most missions boil down to riding your horse somewhere or shooting comically large numbers of people, with entirely too many actions reduced to button prompts on a frustratingly inconsistent control scheme. At times, this feels like the world's most overproduced animated cowboy show. I won't say it doesn't respect the player's time, but it has a vision that results in very large amounts of downtime for the player. Nevertheless, the core systems of /RDR2/ are incredible, and especially when it gets out of its own way enough for the player to hunt down a perfect animal or make a clean robbery, it's one of the most fully realized digital worlds in gaming history. As an aside, Rockstar's DRM is awful, and on multiple occasions I've gone through the multi-minute song and dance of launching the game only to be told falsely that my account is not allowed to play. That plus the plodding pace make for a very high fixed cost to a play session.
 
 5/5
+* Resident Evil 4
+Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is fun, if dated.
+
+4/5
 * Return of the Obra Dinn
 As a general sucker for games as art, auteurs, and feeling clever, yeah, of course I liked the indie murder mystery. I have a few minor quibbles about quality of life and a few of the fates, but from a game design perspective, /Obra Dinn/ does an incredible job of balancing pure deduction and metagaming to prevent getting stuck, so hats off to Lukas Pope.
 
@@ -1030,4 +1030,3 @@ I played this during the first year of my PhD, perhaps the last time I'll be wil
 What if we took Banjo-Kazooie and removed the tight level design for vast, barren worlds? The version I played at launch was buggy and had a camera that was downright hostile to the player.
 
 2/5
-
