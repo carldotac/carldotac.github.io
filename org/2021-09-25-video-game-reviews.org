@@ -572,6 +572,11 @@ There are about three hours' worth of good ideas and fun movement tech in this e
 A fully actualized video game equivalent of potato chips. There is much to be admired, but there's a ceiling on potato chips.
 
 3/5
+* Monster Train
+Lacks the impeccable balance of /Slay the Spire/, but that's somewhat the point: you're supposed to focus on breaking it.
+Satisfying for fans of roguelikes, but not incredibly heavy on tactics or puzzly feelings.
+
+4/5
 * N++
 Hypothetically hits a lot of my favorite notes as a difficult 2D platformer with short levels and instant retries. It falls short in how it handles its difficulty. Many levels are trivial and only challenging if going for optional gold, but unlike the strawberries and bandages of /Celeste/ and /Super Meat Boy/, there are often dozens of gold pieces on an individual level, making them a completionist annoyance instead of a one-off challenge. I also prefer the speed of those games over the heavy, momentum-based /N++/.
 
@@ -1067,6 +1072,10 @@ Completely outclassed by /XCOM 2/, but it was a revelation coming from Fire Embl
 I played this during the first year of my PhD, perhaps the last time I'll be willing to put up with an unnecessarily long JRPG. But the combat system is a treat, the score is one of my favorites, and then I was in the right mindstate for an inconsequential shonen story.
 
 4/5
+* Yakuza 0
+Somewhere in the /Saints Row 2/ or /GTA/ mold, confidently and sloppily mixing a crime drama with the tonal potpourri of its side stories. None of the gameplay is especially deep or exciting, which really makes things drag. Long cutscenes, run to pink dot, fight people isn't a great gameplay loop.
+
+2/5
 * Yooka-Laylee
 What if we took Banjo-Kazooie and removed the tight level design for vast, barren worlds? The version I played at launch was buggy and had a camera that was downright hostile to the player.
 
