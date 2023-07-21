@@ -260,6 +260,10 @@ Trades its RPG bona fides in for a horrifically janky FPS experience. The voiced
 Some RPGs boast of their player freedoms. /New Vegas/ walks the walk. Pacifist? Go for it. Murder hobo? You can kill every adult human character and the game will actually acknowledge it (and I'm sure I'm not the only one to bring firearms into the Legion's camp). Wish I were in the universe where the developers had enough time to fix bugs and add all the content they wanted. Peak Bethesda jankiness.
 
 5/5
+* Fez
+Suffers a bit from "/Seinfeld/ is unfunny" in that most of its fresh ideas have been copied since. Puzzles rarely fall between obtuse and facile.
+
+3/5
 * Final Fantasy VII
 Gloriously imperfect. A captivating, epic JRPG that embodies the best and worst of the genre from this era. Some of Uematsu's finest scoring, a lovable crew of a cast, and the story all make for one heck of a ride. I will happily overlook the translation and graphics.
 
@@ -1041,6 +1045,10 @@ If art is anything that evokes an emotional response, then Undertale is a shinin
 I want to love this for its unique take on the tactical genre, and there are some ideas in there that deserve it. But it is too often a janky, opaque mess that deprives players of vital information, encouraging save scumming and forcing reloads when the developers pull the rug out from under the player. Spends a lot of time answering the question "What if World War II, but anime," resulting in a thematically unholy combination of concentration camps, comic relief winged pigs, clumsy nuclear metaphors, and the female lead wearing an anachronistic bikini.
 
 3/5
+* Valkyria Chronicles 4
+Despite a better story and a few fun tweaks and additions over the original, it retains every single problem from it. I continue to be baffled by who the intended audience of the gameplay could be, pretending to be a hybrid of turn-based tactics and shooters yet usually playing more like a puzzle game with one right answer that's frustrating to achieve given the clunkiness of the engine.
+
+3/5
 * VVVVVV
 I have a thing for games that understand themselves and what they want to do. /VVVVVV/ knows the limits of its mechanics and creates a tight platformer around them. Short, sweet, to-the-point.
 
@@ -1061,6 +1069,10 @@ There's no reason to go back when /Wii Sports Resort/ exists (unless you really 
 It's a dated tech demo in a world with today's VR systems, and yet it was an easy multiplayer hit with casuals. Nintendo didn't have to put as much love into its world (there's a whole island, and every event takes place somewhere on it in a cohesive world!) or Mii integration, but they did. Surprising depth to some of the games like golf and bowling.
 
 5/5
+* Wildfrost
+The emphasis on positioning your allies each turn makes it heavily tactical. As with /Monster Train/, having some of your deck consist of allies played once per battle makes it more limited as a deckbuilder than something like /Slay the Spire/, which also hurts longevity. There's a learning curve: the game is unforgiving.
+
+4/5
 * Worms Blast
 A clunky, boring waste of time.
 
