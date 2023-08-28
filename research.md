@@ -6,7 +6,7 @@ title: Research
 # Working Papers
 [The Impact of Criminal Financial Sanctions: A Multi-State Analysis of Survey and Administrative Data](https://www.nber.org/papers/w31581) (with Elizabeth Luh and Michael Mueller-Smith).  
 National Bureau of Economic Research Working Paper #31581.  
-Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, and Expenditures: A Multi-State RD Analysis of Survey and Adminstrative Data](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-06.htm) (with Elizabeth Luh and Michael Mueller-Smith) and [The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Programs in Michigan and Texas](http://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2023/01/CJARS_FinSanc_DRF_20230119.pdf) (by Keith Finlay, Matthew Gross, Michael Mueller-Smith, and Elizabeth Luh).  
+Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, and Expenditures: A Multi-State RD Analysis of Survey and Adminstrative Data](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-06.html) (with Elizabeth Luh and Michael Mueller-Smith) and [The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Programs in Michigan and Texas](http://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2023/01/CJARS_FinSanc_DRF_20230119.pdf) (by Keith Finlay, Matthew Gross, Michael Mueller-Smith, and Elizabeth Luh).  
 
 [Variation in Racial Disparities in Police Use of Force](research/lieberman_police_force.pdf).  
 Previous version: [Princeton Industrial Relations Section Working Paper #639](http://arks.princeton.edu/ark:/88435/dsp01h128nh61r).  
