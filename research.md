@@ -9,7 +9,7 @@ National Bureau of Economic Research Working Paper #31581.
 Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, and Expenditures: A Multi-State RD Analysis of Survey and Adminstrative Data](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-06.html) (with Elizabeth Luh and Michael Mueller-Smith) and [The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Programs in Michigan and Texas](http://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2023/01/CJARS_FinSanc_DRF_20230119.pdf) (by Keith Finlay, Matthew Gross, Michael Mueller-Smith, and Elizabeth Luh).  
 
 # Publications
-Variation in Racial Disparities in Police Use of Force.  
+[Variation in Racial Disparities in Police Use of Force](https://www.sciencedirect.com/science/article/abs/pii/S0094119023000724).  
 *Journal of Urban Economics* (Accepted).  
 Working paper versions: [May 2022](research/lieberman_police_force.pdf), [Princeton Industrial Relations Section Working Paper #639](http://arks.princeton.edu/ark:/88435/dsp01h128nh61r).  
 
