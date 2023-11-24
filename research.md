@@ -11,7 +11,7 @@ Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, 
 # Publications
 [Variation in Racial Disparities in Police Use of Force](https://www.sciencedirect.com/science/article/abs/pii/S0094119023000724).  
 *Journal of Urban Economics* (Accepted).  
-Working paper versions: [May 2022](research/lieberman_police_force.pdf), [Princeton Industrial Relations Section Working Paper #639](http://arks.princeton.edu/ark:/88435/dsp01h128nh61r).  
+Working paper versions: [Preprint](research/lieberman_police_force_preprint.pdf), [May 2022](research/lieberman_police_force.pdf), [Princeton Industrial Relations Section Working Paper #639](http://arks.princeton.edu/ark:/88435/dsp01h128nh61r).  
 
 [Visual Inference and Graphical Representation in Regression Discontinuity Designs](https://academic.oup.com/qje/advance-article-abstract/doi/10.1093/qje/qjad011/7068116) (with Christina Korting, Jordan Matsudaira, Zhuan Pei, and Yi Shen).  
 *Quarterly Journal of Economics* (2023).  
