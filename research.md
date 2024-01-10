@@ -4,6 +4,9 @@ title: Research
 ---
 
 # Working Papers
+[Incorporating Administrative Data in Survey Weights for the Basic Monthly Current Population Survey](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-02.html) (with Jonathan Eggleston, Yarissa Gonzalez, Tim Trudell, and John Voorheis).  
+Center for Economic Studies Working Paper #CES-24-02.  
+
 [The Impact of Criminal Financial Sanctions: A Multi-State Analysis of Survey and Administrative Data](https://www.nber.org/papers/w31581) (with Elizabeth Luh and Michael Mueller-Smith).  
 National Bureau of Economic Research Working Paper #31581.  
 Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, and Expenditures: A Multi-State RD Analysis of Survey and Adminstrative Data](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-06.html) (with Elizabeth Luh and Michael Mueller-Smith) and [The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Programs in Michigan and Texas](http://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2023/01/CJARS_FinSanc_DRF_20230119.pdf) (by Keith Finlay, Matthew Gross, Michael Mueller-Smith, and Elizabeth Luh).  
