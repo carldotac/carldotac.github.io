@@ -630,10 +630,6 @@ Safe, but the formula works.
 The main game is dull but good for local coop. The included Luigi DLC, however, is challenging and imaginative enough to be a worthwhile take on the New Super Mario Bros. series. Ultimately, I'd rather play something like /Celeste/ or /Super Meat Boy/.
 
 3/5
-* Super Mario Bros. Wonder
-We're just going through the motions here. It's good, but there's not much here that /Rayman/ hasn't done.
-
-4/5
 * Octopath Traveler
 The game that made me realize how little patience I have for most JRPGs' storytelling. Classic combat, banal plot. The true ending, which perhaps ties everything together, is hidden well and locked behind content I will never bother to slog through.
 
@@ -652,6 +648,10 @@ Not the first comedy RPG, but a laugh-out-loud romp. Very subversive considering
 An outstanding art project, brimming with unstated but effective commentary about life under a totalitarian regime developed organically through the gameplay. But while a stressful, unpleasant, sometimes poorly explained paperwork simulator is an appropriate vehicle for its themes, I cannot say that I enjoyed my experience.
 
 4/5
+* Persona 3: Dancing in Moonlight
+/Persona 3/'s songs and characters aren't as good as /4/'s, and this game eschews a story in favor of scattered vignettes.
+
+2/5
 * Persona 3 Portable
 It's hard not to judge this one unfairly after playing /5/ and /4/, especially with the PSP version's almost complete lack of 3D graphics or anime cutscenes stripping the game of so much atmosphere. But then again, the dungeon crawl is pointless padding of no interest or difficulty, the bosses are too easy save for a handful of level checks forcing grinding, the story seems to forget to do anything for entire in-game months at a time, and few of the songs can touch the OSTs from /4/ or /5/. I am shocked at how skippable this is.
 
@@ -792,15 +792,15 @@ One of the more tolerable modern open-world action games. Combat, crafting, stea
 Multiplayer car soccer/rugby that's dumb fun at all levels, with an impressively high skill ceiling.
 
 4/5
-* Sekiro: Shadows Die Twice
-They tell me that I need to get good and spend a few days mastering the dance of its combat. I don't find that fun, and my video game time is limited enough that I don't want to. Very disappointed. The experience would not have been ruined with difficulty options, but many more people would have been able to access it and enjoy zipping around a gorgeous world as a ninja. Isn't that what we all want?
-
-2/5
 * Sea of Stars
 It's Chrono Trigger, which was a good game, and so is this.
 Some great moments and some nits to pick/genre staples that sour things a tad, especially the slow backtracking and one certain 60-part fetch quest.
 
 4/5
+* Sekiro: Shadows Die Twice
+They tell me that I need to get good and spend a few days mastering the dance of its combat. I don't find that fun, and my video game time is limited enough that I don't want to. Very disappointed. The experience would not have been ruined with difficulty options, but many more people would have been able to access it and enjoy zipping around a gorgeous world as a ninja. Isn't that what we all want?
+
+2/5
 * Shadow Complex
 Emblematic of the best of the Xbox Live Arcade, any fan of Metroidvanias should play it.
 
@@ -934,6 +934,10 @@ The four character structure is gratuitous and the movement choice is a lesser-o
 One of my hottest takes is that by modern standards, the series was unplayable until /Super Mario Bros. 3/. Movement is just too clunky. "Modern" does a lot of work there though, I loved the Game Boy Color port as a kid.
 
 2/5
+* Super Mario Bros. Wonder
+We're just going through the motions here. It's good, but there's not much here that /Rayman/ hasn't done.
+
+4/5
 * Super Mario Galaxy
 It would be incredibly unfair to compare it unfavorably to its direct sequel, as this is still one of the best 3D platformers ever.
 
