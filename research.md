@@ -8,7 +8,7 @@ title: Research
 Center for Economic Studies Working Paper #CES-24-02.  
 
 # Publications
-The Impact of Criminal Financial Sanctions: A Multi-State Analysis of Survey and Administrative Data (with Keith Finlay, Matthew Gross, Elizabeth Luh and Michael Mueller-Smith).  
+[The Impact of Criminal Financial Sanctions: A Multi-State Analysis of Survey and Administrative Data](https://www.aeaweb.org/articles?id=10.1257/aeri.20230413) (with Keith Finlay, Matthew Gross, Elizabeth Luh and Michael Mueller-Smith).  
 *American Economic Review: Insights* (Accepted).  
 Working paper version: [NBER Working Paper #31581](https://www.nber.org/papers/w31581).  
 Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, and Expenditures: A Multi-State RD Analysis of Survey and Adminstrative Data](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-06.html) (with Elizabeth Luh and Michael Mueller-Smith) and [The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Programs in Michigan and Texas](http://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2023/01/CJARS_FinSanc_DRF_20230119.pdf) (by Keith Finlay, Matthew Gross, Michael Mueller-Smith, and Elizabeth Luh).  
