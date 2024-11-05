@@ -4,6 +4,9 @@ title: Research
 ---
 
 # Working Papers
+[Nonresponse and Coverage Bias in the Household Pulse Survey: Evidence from Administrative Data](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-60.html) (with Jonathan Eggleston).  
+Center for Economic Studies Working Paper #CES-24-60.  
+
 [Incorporating Administrative Data in Survey Weights for the Basic Monthly Current Population Survey](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-02.html) (with Jonathan Eggleston, Yarissa Gonzalez, Tim Trudell, and John Voorheis).  
 Center for Economic Studies Working Paper #CES-24-02.  
 
