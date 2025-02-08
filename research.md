@@ -4,14 +4,11 @@ title: Research
 ---
 
 # Working Papers
-[Nonresponse and Coverage Bias in the Household Pulse Survey: Evidence from Administrative Data](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-60.html) (with Jonathan Eggleston).  
-Center for Economic Studies Working Paper #CES-24-60.  
-
-[Incorporating Administrative Data in Survey Weights for the Basic Monthly Current Population Survey](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-02.html) (with Jonathan Eggleston, Yarissa Gonzalez, Tim Trudell, and John Voorheis).  
-Center for Economic Studies Working Paper #CES-24-02.  
+Nonresponse Bias in Labor Force Statistics: Estimates Using Administrative Data (contact for draft) (with Jonathan Eggleston, Yarissa Gonzalez, Tim Trudell, and John Voorheis).  
+Adapted from technical report: [Incorporating Administrative Data in Survey Weights for the Basic Monthly Current Population Survey](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-02.html).  
 
 # Publications
-[The Impact of Criminal Financial Sanctions: A Multi-State Analysis of Survey and Administrative Data](https://www.aeaweb.org/articles?id=10.1257/aeri.20230413) (with Keith Finlay, Matthew Gross, Elizabeth Luh and Michael Mueller-Smith).  
+[The Impact of Criminal Financial Sanctions: A Multi-State Analysis of Survey and Administrative Data](https://www.aeaweb.org/articles?id=10.1257/aeri.20230413) (with Keith Finlay, Matthew Gross, Elizabeth Luh, and Michael Mueller-Smith).  
 *American Economic Review: Insights* 6.4 (2024): 490-508.  
 Working paper version: [NBER Working Paper #31581](https://www.nber.org/papers/w31581).  
 Subsumes two prior working papers circulated as [Criminal Court Fees, Earnings, and Expenditures: A Multi-State RD Analysis of Survey and Adminstrative Data](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-06.html) (with Elizabeth Luh and Michael Mueller-Smith) and [The Impact of Financial Sanctions: Regression Discontinuity Evidence from Driver Responsibility Programs in Michigan and Texas](http://sites.lsa.umich.edu/mgms/wp-content/uploads/sites/283/2023/01/CJARS_FinSanc_DRF_20230119.pdf) (by Keith Finlay, Matthew Gross, Michael Mueller-Smith, and Elizabeth Luh).  
@@ -29,4 +26,12 @@ Working paper versions: [arXiv:2112.03096](https://arxiv.org/abs/2112.03096), [I
 Working paper version: [Preprint](research/graddy-lieberman-death-bereavement-creativity.pdf).  
 Media coverage: [Atlas Obscura](https://www.atlasobscura.com/articles/study-art-misery-grief-depression-goya-picasso), [Pacific Standard](https://psmag.com/news/misery-may-inhibit-creativity)
 
+# Works in Progress
+Heterogeneous Enrollment Paths in Higher Education (with Ariel Binder).  
 
+# Technical Reports
+[Nonresponse and Coverage Bias in the Household Pulse Survey: Evidence from Administrative Data](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-60.html) (with Jonathan Eggleston).  
+Center for Economic Studies Working Paper #CES-24-60.  
+
+[Estimating the U.S. Citizen Voting-Age Population (CVAP) Using Blended Survey Data, Administrative Record Data, and Modeling: Technical Report](https://www.census.gov/library/working-papers/2023/adrm/CES-WP-23-21.html) (with J. David Brown, Genevieve Denoeux, Misty L. Heggeness, Lauren Medina, Marta Murray-Close, Danielle H. Sandler, and Joseph L. Schafer).
+Center for Economic Studies Working Paper #CES-23-21.  
