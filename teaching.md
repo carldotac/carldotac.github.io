@@ -2,7 +2,7 @@
 layout: page
 title: Teaching
 ---
-ECO 343, Economic Inequality and the Role of Government, Princeton University  
+ECO 343, Economic Inequality and the Role of Government, Princeton University (Nominated by professor for graduate school teaching award consideration)  
 Assistant in Instruction for Ilyana Kuziemko  
 Spring 2020
 
