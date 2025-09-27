@@ -27,7 +27,7 @@ Working paper version: [Preprint](research/graddy-lieberman-death-bereavement-cr
 Media coverage: [Atlas Obscura](https://www.atlasobscura.com/articles/study-art-misery-grief-depression-goya-picasso), [Pacific Standard](https://psmag.com/news/misery-may-inhibit-creativity)
 
 # Works in Progress
-Heterogeneous Enrollment Paths in Higher Education (with Ariel Binder).  
+Heterogeneous Enrollment Paths in Higher Education (with Ariel Binder and Cody Orr).  
 
 # Technical Reports
 [Nonresponse and Coverage Bias in the Household Pulse Survey: Evidence from Administrative Data](https://www.census.gov/library/working-papers/2024/adrm/CES-WP-24-60.html) (with Jonathan Eggleston).  
