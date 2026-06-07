@@ -244,6 +244,15 @@ Punishing, but amenable to a variety of different approaches. Frustrating, but t
 It's put together well, it has a good amount of content, it's a satisfying combination of adrenaline and endorphins. But you die so quickly that I lost interest after beating the base difficulty.
 
 3/5
+* Deathloop
+Arkane took notes on why I was perennially let down by the /Dishonored/ franchise. The timeloop setup, a lack of penalties for killing, bodies disintegrating upon death, and no quicksave option make for a playground that actually encourages the player to take full advantage of its systems and roll with it when it hits the fan. I have plenty of nits to pick, but I was fully hooked for its 20-hour runtime and enjoyed tinkering with my powers and loadout for each mission. Important notes: I played several months after launch, when the AI had been improved, disables online invasions, and turned off objective markers, only using them when stuck.
+
+5/5
+* Death's Door
+The Souls-like combat is competent but unremarkable, the difficulty is a little easy, and the tone doesn't know how to strike a balance between its cheeky humor and vapid commentary on death.
+It's a fine time, but everything attempted here was done better in /Tunic/, /Dark Souls/, and/or /Hollow Knight/.
+
+3/5
 * Death Stranding
 I'm fully on board with the auteur's vision of a high art piece exploring human connections.
 Kojima is as idiosyncratic as ever, but while I would have liked to see where this bonkers narrative goes, after a few deaths at a badly designed combat section, I asked myself if I was going to enjoy another 25 hours of this, and the answer was an emphatic but sad no.
@@ -253,15 +262,6 @@ Might have been a great TV show.
 Also, while I'm sympathetic to games that need to look into the camera to explain some of their themes for the audience (e.g., supplemental materials in the /Persona/ games that outline the connotations of Major Arcana and the Jungian notion of a collective unconscious), the supplemental readings here spend a lot of time explicitly detailing them, and they weren't especially subtle to begin.
 
 2/5
-* Death's Door
-The Souls-like combat is competent but unremarkable, the difficulty is a little easy, and the tone doesn't know how to strike a balance between its cheeky humor and vapid commentary on death.
-It's a fine time, but everything attempted here was done better in /Tunic/, /Dark Souls/, and/or /Hollow Knight/.
-
-3/5
-* Deathloop
-Arkane took notes on why I was perennially let down by the /Dishonored/ franchise. The timeloop setup, a lack of penalties for killing, bodies disintegrating upon death, and no quicksave option make for a playground that actually encourages the player to take full advantage of its systems and roll with it when it hits the fan. I have plenty of nits to pick, but I was fully hooked for its 20-hour runtime and enjoyed tinkering with my powers and loadout for each mission. Important notes: I played several months after launch, when the AI had been improved, disables online invasions, and turned off objective markers, only using them when stuck.
-
-5/5
 * Demon's Souls
 A worse version of /Dark Souls/, especially with the lack of the bonfire system. An egregious incident that stands out is backing away from a dangerous enemy to heal, only to exit lock-on range and have my character turn around and die instantly to a ranged attack I would have blocked with my shield just moments ago. "That's /Souls/ games for you!" someone on the Internet gleefully exclaims. But with a job and other games to play I find that I, much like Mr. Bond, have no time to die. I'll note that the key difference between this and the other FromSoftware game I bounced off of, /Sekiro/, is that I made real progress in /Demon's Souls/ and could have beaten it if I wanted to spend the time, but the time lost due to unfair deaths wasn't worth it, while in /Sekiro/ I was incapable of getting any further when I decided very early on that it wasn't for me.
 
@@ -773,12 +773,6 @@ Would have rather played a good visual novel and a separate Picross game. Could 
 Hypothetically hits a lot of my favorite notes as a difficult 2D platformer with short levels and instant retries. It falls short in how it handles its difficulty. Many levels are trivial and only challenging if going for optional gold, but unlike the strawberries and bandages of /Celeste/ and /Super Meat Boy/, there are often dozens of gold pieces on an individual level, making them a completionist annoyance instead of a one-off challenge. I also prefer the speed of those games over the heavy, momentum-based /N++/.
 
 3/5
-* NieR: Automata
-After a particularly annoying death a few hours in, I asked myself if the intriguing story hooks were worth the effort, since the actual writing was insultingly to the audience, the pacing lacked the attention span for any new developments to have impact, and the gameplay was 20 years out of date despite only being eight years old.
-I decided it was not, especially given that the game requires multiple playthroughs for the full plot.
-I'd complain about 2B's outfit, but my evergreen advice is to play /13 Sentinels: Aegis Rim/ instead, so I've lost the moral high ground there.
-
-2/5
 * Neon White
 The speedrunning half is an adrenaline rush of tight platforming, and the high of getting an ace medal is fantastic.
 The visual novel half is more blah and will be a turn off for many, but it's skippable.
@@ -793,6 +787,12 @@ Safe, but the formula works.
 The main game is dull but good for local coop. The included Luigi DLC, however, is challenging and imaginative enough to be a worthwhile take on the New Super Mario Bros. series. Ultimately, I'd rather play something like /Celeste/ or /Super Meat Boy/.
 
 3/5
+* NieR: Automata
+After a particularly annoying death a few hours in, I asked myself if the intriguing story hooks were worth the effort, since the actual writing was insultingly to the audience, the pacing lacked the attention span for any new developments to have impact, and the gameplay was 20 years out of date despite only being eight years old.
+I decided it was not, especially given that the game requires multiple playthroughs for the full plot.
+I'd complain about 2B's outfit, but my evergreen advice is to play /13 Sentinels: Aegis Rim/ instead, so I've lost the moral high ground there.
+
+2/5
 * Octopath Traveler
 The game that made me realize how little patience I have for most JRPGs' storytelling. Classic combat, banal plot. The true ending, which perhaps ties everything together, is hidden well and locked behind content I will never bother to slog through.
 
@@ -982,15 +982,15 @@ A platformer for the platformer fan. Really impressed by the amount of content, 
 Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is fun, if dated.
 
 4/5
-* Return of the Obra Dinn
-As a general sucker for games as art, auteurs, and feeling clever, yeah, of course I liked the indie murder mystery. I have a few minor quibbles about quality of life and a few of the fates, but from a game design perspective, /Obra Dinn/ does an incredible job of balancing pure deduction and metagaming to prevent getting stuck, so hats off to Lukas Pope.
-
-5/5
 * Returnal
 The gameplay loop is great, with a similar "move-or-die" philosophy as 2016's /Doom/, but the roguelike loop is much weaker, with each run being too long and filled with too much backtracking.
 A smoother difficulty curve would have been appreciated, because the feeling of progression is missing when it's so fast to go from getting stomped to becoming the stomper.
 
 4/5
+* Return of the Obra Dinn
+As a general sucker for games as art, auteurs, and feeling clever, yeah, of course I liked the indie murder mystery. I have a few minor quibbles about quality of life and a few of the fates, but from a game design perspective, /Obra Dinn/ does an incredible job of balancing pure deduction and metagaming to prevent getting stuck, so hats off to Lukas Pope.
+
+5/5
 * Rise of the Tomb Raider
 One of the more tolerable modern open-world action games. Combat, crafting, stealth, and the tombs are all adequate.
 
