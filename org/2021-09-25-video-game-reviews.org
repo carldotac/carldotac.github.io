@@ -557,6 +557,11 @@ Long levels filled with repetition and backtracking. Does not hold up. Entirely 
 While I'm definitely not here for the story, I was shocked to find out that Bungie still had more to do with the Halo series. Excellent twists and fun new toys breathed life into the series. Take notes, /Halo 4/.
 
 4/5
+* Haste
+For an action game of reasonable popularity, I'm shocked at how poor the tutorialization is--even in the literal tutorial, I encountered a bug.
+It has its rough edges, it's very repetitive, but this is pretty pure flow state, something like 3D /Sonic/ meets /Neon White/.
+
+4/5
 * Heat Signature
 A tantalizingly good idea somewhere in the /FTL/ meets /Hotline Miami/ mold that really would have benefitted from more structure and better onboarding.
 
