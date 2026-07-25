@@ -1,0 +1,79 @@
+/* Nav dropdown for the "Game Reviews" submenu.
+   Auto-included by PaperMod via assets/css/extended/*.css. Uses the theme's
+   own CSS variables so it matches light and dark mode without hardcoded colors.
+   Pairs with the project override at layouts/_partials/header.html. */
+
+/* PaperMod's .menu sets `overflow-x: auto` for horizontal scrolling on narrow
+   screens. That forces overflow-y to compute to auto too, which clips the
+   dropdown panel hanging below the bar. This nav has few items, so allow it to
+   overflow. #menu (id) beats the theme's .menu (class) on specificity. */
+#menu {
+    overflow: visible;
+}
+
+.menu-dropdown {
+    position: relative;
+}
+
+/* The parent label styled to sit inline with the other flat menu links. */
+.menu-dropdown-label {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.2rem;
+    font-size: 16px;
+    cursor: pointer;
+    user-select: none;
+}
+
+.menu-dropdown-caret {
+    transition: transform 0.15s ease;
+}
+
+/* The submenu panel: hidden by default, floats below the parent. */
+.menu-submenu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    margin: 0;
+    padding: 0.3rem 0;
+    list-style: none;
+    min-width: max-content;
+    background: var(--theme);
+    border: 1px solid var(--border);
+    border-radius: var(--radius);
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.12);
+    opacity: 0;
+    visibility: hidden;
+    transform: translateY(4px);
+    transition: opacity 0.15s ease, transform 0.15s ease, visibility 0.15s;
+    z-index: 100;
+}
+
+.menu-submenu li {
+    display: block;
+    white-space: nowrap;
+}
+
+.menu-submenu a {
+    display: block;
+    padding: 0.35rem 1rem;
+    font-size: 15px;
+    color: var(--primary);
+}
+
+.menu-submenu a:hover {
+    background: var(--border);
+}
+
+/* Reveal on hover (mouse) and on keyboard focus / tap (accessibility + mobile). */
+.menu-dropdown:hover .menu-submenu,
+.menu-dropdown:focus-within .menu-submenu {
+    opacity: 1;
+    visibility: visible;
+    transform: translateY(0);
+}
+
+.menu-dropdown:hover .menu-dropdown-caret,
+.menu-dropdown:focus-within .menu-dropdown-caret {
+    transform: rotate(180deg);
+}

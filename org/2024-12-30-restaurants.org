@@ -1,0 +1,144 @@
+#+title: 2024 12 30 Restaurants
+
+| Name                          | Location               | Rating |
+|-------------------------------+------------------------+--------|
+| Ripplewood Whiskey & Craft    | Aardport, PA           |      5 |
+| Caphe Banh Mi                 | Alexandria, VA         |      5 |
+| Hot Lola's                    | Arlington, VA          |      5 |
+| Peruvian Brothers             | Arlington, VA          |      3 |
+| Taqueria Xochi                | Arlington, VA          |      3 |
+| Wooboi Chicken                | Arlington, VA          |      3 |
+| Din Tai Fung                  | Bellevue, WA           |      3 |
+| Master Bing                   | Bellevue, WA           |      4 |
+| Ramen Nori                    | Bellevue, WA           |      4 |
+| Sizzle and Crunch             | Bellevue, WA           |      3 |
+| Tanoor                        | Bellevue, WA           |      4 |
+| Ala                           | Bethesda, MD           |      4 |
+| Andy's Pizza                  | Bethesda, MD           |      4 |
+| Bethesda Bagels               | Bethesda, MD           |      3 |
+| Dalia's Falafel               | Bethesda, MD           |      4 |
+| Maya Cuisine                  | Bethesda, MD           |      4 |
+| Boulder Dushanbe Teahouse     | Boulder, CO            |        |
+| Bistro 1051                   | Clark, NJ              |      4 |
+| Oh Brian's on the Green       | Clark, NJ              |      3 |
+| Paragon Tap and Table         | Clark, NJ              |      4 |
+| Four by Brother Luck          | Colorado Springs, CO   |      5 |
+| 100 Steps                     | Cranford, NJ           |      4 |
+| 8thai                         | Cranford, NJ           |      4 |
+| A Toute Heure                 | Cranford, NJ           |      4 |
+| Ambeli Greek Taverna          | Cranford, NJ           |      5 |
+| Craven BBQ                    | Cranford, NJ           |   TODO |
+| Little Buffalo                | Cranford, NJ           |      4 |
+| Mr Bin                        | Cranford, NJ           |      4 |
+| Pairings Palate + Plate       | Cranford, NJ           |      4 |
+| Thai Mama                     | Cranford, NJ           |      5 |
+| Toast City Diner              | Cranford, NJ           |      3 |
+| Urban Burger                  | Cranford, NJ           |   TODO |
+| Black Sheep Bar & Provisions  | Garwood, NJ            |      4 |
+| La Tacodilla                  | Dennis, MA             |      5 |
+| Sesuit Harbor Cafe            | Dennis, MA             |      5 |
+| Quicks Hole Taqueria          | Falmouth, MA           |      3 |
+| Hudson & Co                   | Jersey City, NJ        |      3 |
+| LC's Bar-B-Q                  | Kansas City, MO        |      5 |
+| Elements                      | Princeton, NJ          |      5 |
+| Halo Pub                      | Princeton, NJ          |      5 |
+| Hoagie Haven                  | Princeton, NJ          |      4 |
+| Lillipie's Bakery             | Princeton, NJ          |      4 |
+| Jammin' Crepes                | Princeton, NJ          |      5 |
+| Nomad Pizza                   | Princeton, NJ          |      4 |
+| PJ's Pancake House            | Princeton, NJ          |      3 |
+| The Bent Spoon                | Princeton, NJ          |      5 |
+| Terakawa Ramen                | Princeton Junction, NJ |      5 |
+| Common Lot                    | Millburn, NJ           |      5 |
+| Schwartz's                    | Montreal, CA           |      5 |
+| Krug's Tavern                 | Newark, NJ             |      5 |
+| Stuff Yer Face                | New Brunswick, NJ      |      4 |
+| The Frog & The Peach          | New Brunswick, NJ      |      4 |
+| Compton's                     | New York, New York     |      4 |
+| Gregory's 26 Taverna          | New York, New York     |      4 |
+| Levant                        | New York, New York     |      3 |
+| Noz Market                    | New York, New York     |      5 |
+| Levant                        | New York, New York     |      4 |
+| Sushi W                       | New York, New York     |      4 |
+| Pizza Suprema                 | New York, New York     |      5 |
+| Melina                        | North Bethesda, MD     |      5 |
+| Cibo Italian Kitchen & Market | Orleans, MA            |      4 |
+| Navillus                      | Orleans, MA            |      3 |
+| The Rail                      | Orleans, AM            |      3 |
+| The Fishery                   | Pacific Beach, CA      |      5 |
+| John's Roast Pork             | Philadelphia, PA       |      5 |
+| Hershel's East Side Deli      | Philadelphia, PA       |      4 |
+| Spice C                       | Philadelphia, PA       |      4 |
+| Butcher and the Rye           | Pittsburgh, PA         |      5 |
+| Coop DeVille                  | Pittsburgh, PA         |        |
+| Fig & Ash                     | Pittsburgh, PA         |      5 |
+| Gaucho Parrilla Argentina     | Pittsburgh, PA         |      3 |
+| Kaya                          | Pittsburgh, PA         |      4 |
+| Meat & Potatoes               | Pittsburgh, PA         |      5 |
+| Pamela's Diner                | Pittsburgh, PA         |      4 |
+| Primanti Brothers             | Pittsburgh, PA         |      2 |
+| Mac's Fish House              | Provincetown, PA       |      4 |
+| Nor'East Beer Garden          | Provincetown, PA       |      4 |
+| The Canteen                   | Provincetown, PA       |      4 |
+| The Mews                      | Provincetown, PA       |      3 |
+| Ross' Grill                   | Provincetown, PA       |      4 |
+| Hattie B's Hot Chicken        | Nashville, TN          |      5 |
+| Prince's Hot Chicken Shack    | Nashville, TN          |      4 |
+| A&J                           | Rockville, MD          |      4 |
+| Amai Crepe                    | Rockville, MD          |      4 |
+| Bob's Shanghai 66             | Rockville, MD          |      5 |
+| Far East                      | Rockville, MD          |      5 |
+| Gyuzo Japanese BBQ            | Rockville, MD          |      4 |
+| Kuya Ja's Lechon Belly        | Rockville, MD          |      5 |
+| La Canela                     | Rockville, MD          |      5 |
+| Pupuseria Mama Emilia         | Rockville, MD          |      4 |
+| Yu Noodles Cafe               | Rockville, MD          |      4 |
+| Z&Z Manoushe                  | Rockville, MD          |      5 |
+| One 53                        | Rocky Hill, NJ         |      5 |
+| Meze Greek Fusion             | San Diego, CA          |      4 |
+| Tacos El Gordo                | San Diego, CA          |      5 |
+| 2120                          | Seattle WA             |      3 |
+| Hatch Cantina                 | Seattle, WA            |      4 |
+| Masubi Kai                    | Seattle, WA            |      4 |
+| Pike Place Chowder            | Seattle, WA            |      4 |
+| Skalka                        | Seattle, WA            |      5 |
+| The Crumpet Shop              | Seattle, WA            |      4 |
+| Summit Diner                  | Summit, NJ             |      4 |
+| Carl's Steak Subs             | Waltham, MA            |      5 |
+| Albi                          | Washington, DC         |      5 |
+| Baan Siam                     | Washington, DC         |      4 |
+| Casa Teresa                   | Washington, DC         |      5 |
+| Chicatana                     | Washington, DC         |      5 |
+| China Chilcano                | Washington, DC         |      4 |
+| Cracked Eggery                | Washington, DC         |      4 |
+| Doi Moi                       | Washington, DC         |      3 |
+| Gemini                        | Washington, DC         |      4 |
+| Haikan                        | Washington, DC         |      2 |
+| Honeymoon Chicken             | Washington, DC         |      4 |
+| Lapis                         | Washington, DC         |      4 |
+| Lutece                        | Washington, DC         |      5 |
+| Mariscos 1133                 | Washington, DC         |      3 |
+| Moon Rabbit                   | Washington, DC         |      5 |
+| Sushi Nakazawa                | Washington, DC         |      5 |
+| Taqueria Habanero             | Washington, DC         |      5 |
+| Thai and Time Again           | Washington, DC         |      3 |
+| Yellow the Cafe               | Washington, DC         |      5 |
+| Roosterspin                   | Westfield, NJ          |      5 |
+| 908 Bistro                    | Yarmouth, MA           |      3 |
+
+Mac's deli thingy
+Hot Chocolate Sparrow
+3 Fools
+Corner Store
+
+5-8 Club
+Matt's
+
+Doumar's
+
+Russ and Daughters
+Place we went instead of Russ & Daughters Cafe (4)
+Katz's
+Izakaya NYC w/ Matt (Lucky Cat?)
+
+Waltham stuff

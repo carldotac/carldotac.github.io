@@ -1,0 +1,107 @@
+#+title: Albums
+
+| Album                                         | Artist                        | Rating |
+|-----------------------------------------------+-------------------------------+--------|
+| +                                             | Ed Sheeran                    |        |
+| ÷                                             | Ed Sheeran                    |        |
+| ...And the Circus Leaves Town                 | Kyuss                         |        |
+| (What's the Story) Morning Glory              | Oasis                         |        |
+| 1st Class                                     | Large Professor               |        |
+| 3 Feet High and Rising                        | De La Soul                    |        |
+| 3 Years, 5 Months, & 2 Days in the Life Of... | Arrested Development          |        |
+| 3rd Eye Vision                                | Hieroglyphics                 |        |
+| 4 Your Eyez Only                              | J. Cole                       |        |
+| 4:44                                          | Jay-Z                         |      4 |
+| 4th Dimensional Rocketships Going Up          | Gift of Gap                   |        |
+| 6 Feet Deep                                   | Gravediggaz                   |      4 |
+| 8 Mile                                        | Various Artists               |        |
+| 8:30                                          | Weather Report                |        |
+| 10 Summers                                    | DJ Mustard                    |        |
+| The 18th Letter/The Book of Life              | Rakim                         |        |
+| 19                                            | KOOL AD                       |        |
+| 19 Naughty III                                | Naughty by Nature             |        |
+| 21                                            | Adele                         |        |
+| 22, a Million                                 | Bon Iver                      |        |
+| 40 Oz. to Freedom                             | Sublime                       |        |
+| 51                                            | KOOL AD                       |        |
+| 63                                            | KOOL AD                       |        |
+| 93 'Til Infinity                              | Souls of Mischief             |      4 |
+| 100th Window                                  | Massive Attack                |        |
+| 808s & Heartbreak                             | Kanye West                    |        |
+| 1989                                          | Taylor Swift                  |      3 |
+| 1999                                          | Joey Badass                   |        |
+| 2000                                          | Joey Badass                   |        |
+| [untitled]                                    | Nas                           |        |
+| Abbey Road                                    | The Beatles                   |        |
+| The Ablist                                    | Rob Swift                     |        |
+| About to Die                                  | Dirty Projectors              |        |
+| Absolution                                    | Muse                          |        |
+| Acid Rap                                      | Chance the Rapper             |      5 |
+| Act 1: Eternal Sunshine                       | Jay Electronica               |        |
+| After Hours                                   | The Weeknd                    |        |
+| After Laughter                                | Paramore                      |        |
+| Ágætis Byrjun                                 | Sigur Rós                     |        |
+| Aja                                           | Steely Dan                    |        |
+| The Album                                     | Terror Squad                  |        |
+| Alfredo                                       | Freddie Gibbs & The Alchemist |        |
+| All the Beauty in This Whole Life             | Brother Ali                   |        |
+| All Day                                       | Aesop Rock                    |        |
+| All Eyez on Me                                | 2Pac                          |        |
+| All Killer No Filler                          | Sum 41                        |        |
+| All My Heroes Are Cornballs                   | JPEGMAFIA                     |        |
+| All Of The Above                              | J-Life                        |        |
+| All Souled Out                                | Pete Rock & C.L. Smooth       |        |
+| All That You Can't Leave Behind               | U2                            |        |
+| Allaboutthefunk                               | The Brand New Heavies         |        |
+| ALL-AMERIKKKAN BADA$$                         | Joey Badass                   |        |
+| Alligator                                     | The National                  |      5 |
+| AM                                            | Arctic Monkeys                |        |
+| Amala                                         | Doja Cat                      |        |
+| Ambivalence Avenue                            | Bibio                         |        |
+| Ambushed                                      | Da Bush Babees                |        |
+| America Is Dying Slowly                       | Various Artists               |        |
+| American Dream                                | LCD Soundsystem               |        |
+| American Gangster                             | Jay-Z                         |        |
+| American Water                                | Silver Jews                   |        |
+| Americana                                     | The Offspring                 |        |
+| AmeriKKKa's Most Wanted                       | Ice Cube                      |        |
+| Amnesiac                                      | Radiohead                     |        |
+| Amplified                                     | Q-Tip                         |        |
+| Amygdala                                      | DJ Koze                       |        |
+| Ancient Melodies of the Future                | Built to Spill                |        |
+| and the Anonymous Nobody                      | De La Soul                    |        |
+| ...and Justice for All                        | Metallica                     |        |
+| Angles                                        | The Strokes                   |        |
+| ANTI                                          | Rihanna                       |        |
+| AIO: Bionix                                   | De La Soul                    |        |
+| Apocalypse 91...The Enemy Strikes Back        | Public Enemy                  |        |
+| Apologies  to the Queen Mary                  | Wolf Parade                   |        |
+| Appeal to Reason                              | Rise Against                  |        |
+| Appetite for Destruction                      | Guns N' Roses                 |        |
+| Appleseed                                     | Aesop Rock                    |        |
+| Aquabats Vs. the Flying Eye of Death!         | The Aquabats                  |        |
+| Aquemini                                      | Outkast                       |        |
+| Arc                                           | Everything Everything         |        |
+| Are You Experienced?                          | The Jimi Hendrix Experience   |        |
+| Are You Gonna Eat That?                       | Hail Mary Mallon              |        |
+| Arm's Way                                     | Islands                       |        |
+| The Art of Storytelling                       | Slick Rock                    |        |
+| Art Official Intelligence                     | De La Soul                    |        |
+| Below the Heavens                             | Blu & Exile                   |      5 |
+| Evermore                                      | Taylor Swift                  |      4 |
+| Folklore                                      | Taylor Swift                  |      5 |
+| In Rainbows                                   | Radiohead                     |      5 |
+| Kid A                                         | Radiohead                     |      5 |
+| Madvillainy                                   | Madvillain                    |      5 |
+| Midnights                                     | Taylor Swift                  |      4 |
+| Nothing Was the Same                          | Drake                         |      4 |
+| OK Computer                                   | Radiohead                     |      5 |
+| Paramore                                      | Paramore                      |      4 |
+| Random Access Memories                        | Daft Punk                     |      4 |
+| Relationship of Command                       | At the Drive-In               |      5 |
+| Short n' Sweet                                | Sabrina Carpenter             |      3 |
+| Silent Alarm                                  | Bloc Party                    |      5 |
+| Songs for the Deaf                            | Queens of the Stone Age       |      5 |
+| The Cold Vein                                 | Cannibal Ox                   |        |
+| Whut? Thee Album                              | Redman                        |      4 |
+|                                               |                               |        |

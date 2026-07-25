@@ -1,9 +1,11 @@
-# project
-_site
-.sass-cache
-.vagrant
+# Hugo build output
+/public/
+/resources/_gen/
+.hugo_build.lock
 
-# general
+# Hugo module cache (not needed in the repo)
+# go.mod and go.sum ARE committed; the cache is not.
+
+# OS cruft
 .DS_Store
 Thumbs.db
-ehthumbs.db

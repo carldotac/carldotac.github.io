@@ -1,0 +1,86 @@
+# Build the Hugo site and deploy it to GitHub Pages.
+#
+# This replaces the old built-in Jekyll build. It installs Hugo (a Go binary)
+# and Go (needed because the theme is a Hugo Module), builds, and hands the
+# output to GitHub's own Pages actions. No Node runtime of ours is involved,
+# so the Node 20 deprecation does not affect this site. The only Node-based
+# actions here are GitHub's Pages plumbing (upload-pages-artifact / deploy-pages),
+# which GitHub keeps current.
+#
+# To bump the theme later, run `hugo mod get -u` locally and commit go.mod/go.sum.
+name: Deploy Hugo site to Pages
+
+on:
+  # Runs on pushes targeting the default branch
+  push:
+    branches: ["main"]
+  # Allows manual runs from the Actions tab
+  workflow_dispatch:
+
+# Grant GITHUB_TOKEN the permissions required to deploy to Pages
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# Allow one concurrent deployment; don't cancel an in-progress production deploy
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    env:
+      HUGO_VERSION: 0.164.0
+      HUGO_ENVIRONMENT: production
+      TZ: America/Vancouver
+    steps:
+      - name: Install Hugo CLI
+        run: |
+          wget -O ${{ runner.temp }}/hugo.deb \
+            https://github.com/gohugoio/hugo/releases/download/v${HUGO_VERSION}/hugo_extended_${HUGO_VERSION}_linux-amd64.deb \
+          && sudo dpkg -i ${{ runner.temp }}/hugo.deb
+      - name: Install Dart Sass
+        run: sudo snap install dart-sass
+      - name: Checkout
+        uses: actions/checkout@v7
+        with:
+          submodules: recursive
+          fetch-depth: 0
+      - name: Setup Go (Hugo Modules)
+        uses: actions/setup-go@v7
+        with:
+          go-version: "stable"
+      - name: Setup Pages
+        id: pages
+        uses: actions/configure-pages@v6
+      - name: Install Node.js dependencies
+        run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+      - name: Build with Hugo
+        env:
+          HUGO_CACHEDIR: ${{ runner.temp }}/hugo_cache
+        run: |
+          hugo \
+            --gc \
+            --minify \
+            --baseURL "${{ steps.pages.outputs.base_url }}/"
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: ./public
+
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5

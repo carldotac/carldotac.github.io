@@ -1,0 +1,113 @@
+# =============================================================================
+#  Carl Lieberman — personal site.  Hugo + PaperMod (theme pulled in as a
+#  Hugo Module, NOT forked).  To update the theme later:  hugo mod get -u
+# =============================================================================
+
+baseURL = "https://carl.ac/"
+title = "Carl Lieberman"
+locale = "en-us"
+timeZone = "America/Vancouver"
+
+# PaperMod is loaded via the module import below.
+theme = ["github.com/adityatelange/hugo-PaperMod"]
+
+# Blog pagination (was jekyll-paginate, paginate: 5)
+[pagination]
+  pagerSize = 5
+
+# Preserve old post URLs exactly: every post lives at root /<slug>/ (old
+# Jekyll permalink was /:title/, i.e. the filename with the date stripped).
+[permalinks]
+  [permalinks.page]
+    blog = "/:slug/"
+
+# Native .org rendering: allow the raw HTML that go-org emits.
+[markup]
+  [markup.goldmark.renderer]
+    unsafe = true
+  [markup.highlight]
+    style = "github"
+    noClasses = false
+
+# RSS + sitemap are built in (replacing jekyll-sitemap / feed.xml).
+[outputs]
+  home = ["HTML", "RSS"]
+
+# Cache images under the build cache dir so the CI cache step works.
+[caches]
+  [caches.images]
+    dir = ":cacheDir/images"
+
+# --- Theme module import -----------------------------------------------------
+[module]
+  [[module.imports]]
+    path = "github.com/adityatelange/hugo-PaperMod"
+
+# --- Navigation bar ----------------------------------------------------------
+#  "Game Reviews" is a dropdown grouping Board/Video Games, implemented via the
+#  project's layouts/_partials/header.html override + assets/css/extended/dropdown.css
+#  (PaperMod's own top menu is flat). See MIGRATION.md.
+[menu]
+  [[menu.main]]
+    name = "CV"
+    url = "/carl_lieberman_cv.pdf"
+    weight = 1
+  [[menu.main]]
+    name = "Research"
+    url = "/research/"
+    weight = 2
+  [[menu.main]]
+    name = "Teaching"
+    url = "/teaching/"
+    weight = 3
+  # "Game Reviews" is a dropdown parent (no URL of its own); its two children
+  # render as a submenu via the project's header.html override + dropdown.css.
+  [[menu.main]]
+    identifier = "gamereviews"
+    name = "Game Reviews"
+    weight = 4
+  [[menu.main]]
+    parent = "gamereviews"
+    name = "Board Games"
+    url = "/board-game-reviews/"
+    weight = 41
+  [[menu.main]]
+    parent = "gamereviews"
+    name = "Video Games"
+    url = "/video-game-reviews/"
+    weight = 42
+  # Blog nav link hidden for now — the /blog/ page and all posts still build and
+  # remain reachable by URL. Uncomment to show it in the nav again.
+  # [[menu.main]]
+  #   name = "Blog"
+  #   url = "/blog/"
+  #   weight = 6
+
+# --- PaperMod parameters -----------------------------------------------------
+[params]
+  description = "Site for Carl Lieberman, economist"
+  DateFormat = "January 2, 2006"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowCodeCopyButtons = true
+  ShowToc = false
+  hideFooter = false
+  defaultTheme = "light"      # matches current light site; set "auto" for dark-mode support
+  disableThemeToggle = false
+
+  # Profile mode = centered headshot + bio, closest match to the old homepage.
+  [params.profileMode]
+    enabled = true
+    title = "Carl Lieberman"
+    subtitle = "I am an economist at Amazon and was previously a research economist in the Center for Economic Studies at the US Census Bureau. I received my PhD from Princeton University. I can be reached at webmail (AT) carl (DOT) ac."
+    imageUrl = "/headshot.jpg"
+    imageWidth = 200
+    imageHeight = 200
+    imageTitle = "Carl Lieberman"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/carldotac"
+  [[params.socialIcons]]
+    name = "rss"
+    url = "/index.xml"
