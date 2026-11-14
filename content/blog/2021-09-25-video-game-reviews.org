@@ -1065,7 +1065,7 @@ Delightfully campy. And the gameplay, despite the oft-maligned tank controls, is
 
 4/5
 * Returnal
-The gameplay loop is great, with a similar "move-or-die" philosophy as 2016's /Doom/, but the roguelike loop is much weaker, with each run being too long and filled with too much backtracking.
+The gameplay loop is great, with a similar "move-or-die" philosophy as 2016's /Doom/, but the roguelike loop is weak, with each run being too long and filled with too much backtracking.
 A smoother difficulty curve would have been appreciated, because the feeling of progression is missing when it's so fast to go from getting stomped to becoming the stomper.
 
 4/5
